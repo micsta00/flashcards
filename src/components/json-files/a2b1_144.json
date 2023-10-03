@@ -1,0 +1,1298 @@
+[
+    {
+        "id": 84614,
+        "wordPol": " odnosic sie, wspominac",
+        "wordEng": "refer (verb)",
+        "pron": " /rɪˈfɜr/",
+        "sentPol": " Czy mozesz mnie skierowac do dobrej ksiazki?",
+        "sentEng": " Can you refer me to a good book?  ",
+        "hidden": "true"
+    },
+    {
+        "id": 81198,
+        "wordPol": " ilosc, suma",
+        "wordEng": "amount (noun)",
+        "pron": " /əˈmaʊnt/",
+        "sentPol": " Calkowita suma wynosi 100 dolarow.  ",
+        "sentEng": " The total amount is $100.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 22762,
+        "wordPol": " zdecydowanie",
+        "wordEng": "definitely (adv.)",
+        "pron": " /ˈdɛfɪnətli/",
+        "sentPol": " Zdecydowanie wezme udzial w imprezie.   ",
+        "sentEng": " I will definitely attend the party.",
+        "hidden": "true"
+    },
+    {
+        "id": 94259,
+        "wordPol": " pozniej",
+        "wordEng": "later (adjective)",
+        "pron": " /ˈleɪtər/",
+        "sentPol": " Omowmy to pozniej.",
+        "sentEng": " Let's discuss this later.",
+        "hidden": "true"
+    },
+    {
+        "id": 11706,
+        "wordPol": " zauwazyc, uwaga",
+        "wordEng": "notice (noun)",
+        "pron": " /ˈnoʊtɪs/",
+        "sentPol": " Zauwazyles nowy obraz?",
+        "sentEng": " Did you notice the new painting?  ",
+        "hidden": "true"
+    },
+    {
+        "id": 36754,
+        "wordPol": " zakonczenie",
+        "wordEng": "ending (noun)",
+        "pron": " /ˈɛndɪŋ/",
+        "sentPol": " Ksiazka ma zaskakujace zakonczenie.  ",
+        "sentEng": " The book has a surprising ending. ",
+        "hidden": "true"
+    },
+    {
+        "id": 39397,
+        "wordPol": " glowny, wazny",
+        "wordEng": "major (adjective)",
+        "pron": " /ˈmeɪdʒər/ ",
+        "sentPol": " Ona ma glowna role w projekcie. ",
+        "sentEng": " She has a major role in the project.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 41317,
+        "wordPol": " blyskotliwy, genialny",
+        "wordEng": "brilliant (adj.)",
+        "pron": " /ˈbrɪljənt/",
+        "sentPol": " Jego przemowienie bylo blyskotliwe. ",
+        "sentEng": " His speech was brilliant.",
+        "hidden": "true"
+    },
+    {
+        "id": 87870,
+        "wordPol": " niezwykle, nadzwyczaj",
+        "wordEng": "extremely (adv.)",
+        "pron": " /ɪkˈstrimli/",
+        "sentPol": " Dzisiaj pogoda jest niezwykle goraca.",
+        "sentEng": " The weather is extremely hot today.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 86501,
+        "wordPol": " pensja",
+        "wordEng": "salary (noun)",
+        "pron": " /ˈsæləri/",
+        "sentPol": " Dostala podwyzke w pensji.",
+        "sentEng": " She received a raise in her salary.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 74255,
+        "wordPol": " stresowac ",
+        "wordEng": "stress (verb)",
+        "pron": " /strɛs/",
+        "sentPol": " Nie chce ciebie stresowac.",
+        "sentEng": " I don't want to stress you out.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 74632,
+        "wordPol": " laczyc, powiazanie ",
+        "wordEng": "link (verb)",
+        "pron": " /lɪŋk/",
+        "sentPol": " Artykul bedzie laczyl sie ze studium.   ",
+        "sentEng": " The article will link to the study.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 29967,
+        "wordPol": " odpowiadac ",
+        "wordEng": "respond (verb)",
+        "pron": " /rɪˈspɒnd/ ",
+        "sentPol": " Prosze odpowiedz na moj email do jutra. ",
+        "sentEng": " Please respond to my email by tomorrow.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 17058,
+        "wordPol": " badac",
+        "wordEng": "research (verb)",
+        "pron": " /rɪˈsɜrtʃ/ ",
+        "sentPol": " On przeprowadza badania na temat zmian klimatu.   ",
+        "sentEng": " He is conducting research on climate change.",
+        "hidden": "true"
+    },
+    {
+        "id": 59446,
+        "wordPol": " zdolny",
+        "wordEng": "able (adj.)",
+        "pron": " /ˈeɪbəl/",
+        "sentPol": " Ona potrafi rozwiazywac skomplikowane problemy.  ",
+        "sentEng": " She is able to solve complex problems.",
+        "hidden": "true"
+    },
+    {
+        "id": 46601,
+        "wordPol": " ocena, zaznaczyc",
+        "wordEng": "mark (noun)",
+        "pron": " /mɑrk/",
+        "sentPol": " Otrzymal wysoka ocene na tescie.  ",
+        "sentEng": " He received a high mark on the test. ",
+        "hidden": "true"
+    },
+    {
+        "id": 91821,
+        "wordPol": " jakikolwiek, dowolny",
+        "wordEng": "any (adv.)",
+        "pron": " /ˈɛni/",
+        "sentPol": " Czy zostala jeszcze jakas woda?   ",
+        "sentEng": " Is there any water left?",
+        "hidden": "true"
+    },
+    {
+        "id": 83715,
+        "wordPol": " przetwarzac, poddawac recyklingowi",
+        "wordEng": "recycle (verb)",
+        "pron": " /riˈsaɪkl/ ",
+        "sentPol": " Powinnismy przetwarzac plastikowe butelki.  ",
+        "sentEng": " We should recycle plastic bottles.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 65217,
+        "wordPol": " prowadzic, przewodnik",
+        "wordEng": "guide (verb)",
+        "pron": " /ɡaɪd/",
+        "sentPol": " Czy mozesz mnie poprowadzic przez ten proces?   ",
+        "sentEng": " Can you guide me through the process?",
+        "hidden": "true"
+    },
+    {
+        "id": 63356,
+        "wordPol": " matematyka",
+        "wordEng": "maths (noun)",
+        "pron": " /mæθs/",
+        "sentPol": " Ucze sie matematyki na moja egzamin.  ",
+        "sentEng": " I'm studying maths for my exam.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 69759,
+        "wordPol": " spolecznosc",
+        "wordEng": "community (noun)",
+        "pron": " /kəˈmjunəti/",
+        "sentPol": " Ona aktywnie uczestniczy w lokalnej spolecznosci.",
+        "sentEng": " She's actively involved in the local community.",
+        "hidden": "true"
+    },
+    {
+        "id": 91333,
+        "wordPol": "zadowolony, cieszyc sie",
+        "wordEng": "glad",
+        "pron": " /ɡlæd/",
+        "sentPol": " Ciesze sie, ze mogles przyjsc na impreze.  ",
+        "sentEng": " I'm glad you could make it to the party.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 23187,
+        "wordPol": "oszustwo, oszukac",
+        "wordEng": "cheat",
+        "pron": " /tʃit/",
+        "sentPol": " Probowal oszukac na egzaminie.",
+        "sentEng": " He tried to cheat on the exam. ",
+        "hidden": "true"
+    },
+    {
+        "id": 13564,
+        "wordPol": "laczyc, polaczyc",
+        "wordEng": "combine",
+        "pron": " /kəmˈbaɪn/ ",
+        "sentPol": " Polaczmy te dwie skladniki.   ",
+        "sentEng": " Let's combine these two ingredients.",
+        "hidden": "true"
+    },
+    {
+        "id": 77258,
+        "wordPol": "odnosic sie do, opowiedziec",
+        "wordEng": "relate",
+        "pron": " /rɪˈleɪt/",
+        "sentPol": " Moge sie utozsamic z twoimi doswiadczeniami. ",
+        "sentEng": " I can relate to your experiences.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 64216,
+        "wordPol": "prawidlowo, odpowiednio",
+        "wordEng": "properly",
+        "pron": " /ˈprɒpərli/",
+        "sentPol": " Upewnij sie, ze dobrze wyczyscisz obszar.   ",
+        "sentEng": " Make sure to clean the area properly.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 97358,
+        "wordPol": "ustawienie, sceneria",
+        "wordEng": "setting",
+        "pron": " /ˈsɛtɪŋ/",
+        "sentPol": " Akcja opowiesci dzieje sie w sredniowiecznym otoczeniu.",
+        "sentEng": " The story takes place in a medieval setting.",
+        "hidden": "true"
+    },
+    {
+        "id": 27407,
+        "wordPol": "dodatkowy, dodatkowy",
+        "wordEng": "extra",
+        "pron": " /ˈɛkstrə/",
+        "sentPol": " Czy moge dostac dodatkowy kawalek ciasta?   ",
+        "sentEng": " Can I have an extra slice of cake?",
+        "hidden": "true"
+    },
+    {
+        "id": 98281,
+        "wordPol": "reklama, reklamowac",
+        "wordEng": "commercial",
+        "pron": " /kəˈmɜrʃəl/",
+        "sentPol": " Widzialem zabawna reklame w telewizji.",
+        "sentEng": " I saw a funny commercial on TV.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 94268,
+        "wordPol": "pozostac, pozostac",
+        "wordEng": "remain",
+        "pron": " /rɪˈmeɪn/",
+        "sentPol": " Pozostalo tylko kilka biletow na koncert.  ",
+        "sentEng": " Only a few tickets remain for the concert.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 40430,
+        "wordPol": "promowac, markowac",
+        "wordEng": "brand",
+        "pron": " /brænd/",
+        "sentPol": " Nike to znana marka sportowa.   ",
+        "sentEng": " Nike is a well-known sports brand.",
+        "hidden": "true"
+    },
+    {
+        "id": 94560,
+        "wordPol": "zazenowany, zawstydzony",
+        "wordEng": "embarrassed",
+        "pron": " /ɪmˈbærəst/",
+        "sentPol": " Czula sie zazenowana swoim bledem.   ",
+        "sentEng": " She felt embarrassed by her mistake.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 16476,
+        "wordPol": "zakaz, zakazac",
+        "wordEng": "ban",
+        "pron": " /bæn/",
+        "sentPol": " Rada miasta postanowila zakazac palenia.   ",
+        "sentEng": " The city council decided to ban smoking.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 48439,
+        "wordPol": "rozszerzac, rozwijac",
+        "wordEng": "expand",
+        "pron": " /ɪkˈspænd/ ",
+        "sentPol": " Firma planuje rozbudowac swoje operacje.   ",
+        "sentEng": " The company plans to expand its operations.",
+        "hidden": "true"
+    },
+    {
+        "id": 79484,
+        "wordPol": "tlumaczyc, z jednego jezyka na drugi",
+        "wordEng": "translate (verb)",
+        "pron": " /trænsˈleɪt/",
+        "sentPol": " Musze przetlumaczyc ten dokument.",
+        "sentEng": " I need to translate this document.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 24318,
+        "wordPol": "posredni, posredni",
+        "wordEng": "indirect",
+        "pron": " /ˌɪndəˈrɛkt/",
+        "sentPol": " Jego komentarze byly posrednia krytyka.   ",
+        "sentEng": " His comments were an indirect criticism.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 50556,
+        "wordPol": "uwypuklic, podkreslic",
+        "wordEng": "highlight (verb)",
+        "pron": " /ˈhaɪˌlaɪt/",
+        "sentPol": " Pozwol, ze podkresle wazne punkty.   ",
+        "sentEng": " Let me highlight the important points.",
+        "hidden": "true"
+    },
+    {
+        "id": 61495,
+        "wordPol": "zasob, zrodlo",
+        "wordEng": "resource",
+        "pron": " /rɪˈsɔrs/",
+        "sentPol": " Biblioteka to cenne zrodlo.",
+        "sentEng": " The library is a valuable resource.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 43017,
+        "wordPol": "zwolennik, zwolennik",
+        "wordEng": "supporter",
+        "pron": " /səˈpɔrtər/",
+        "sentPol": " Ona jest zdecydowanym zwolennikiem sztuki.",
+        "sentEng": " She's a strong supporter of the arts.",
+        "hidden": "true"
+    },
+    {
+        "id": 16248,
+        "wordPol": "konkurent, rywal",
+        "wordEng": "competitor",
+        "pron": " /kəmˈpɛtɪtər/",
+        "sentPol": " Glownym konkurentem naszej firmy jest XYZ Inc.",
+        "sentEng": " Our company's main competitor is XYZ Inc. ",
+        "hidden": "true"
+    },
+    {
+        "id": 23424,
+        "wordPol": "przestraszyc, przestraszyc",
+        "wordEng": "frighten",
+        "pron": " /ˈfraɪtn/",
+        "sentPol": " Glosny halas moze przestraszyc dziecko.  ",
+        "sentEng": " The loud noise might frighten the baby.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 30465,
+        "wordPol": "zwiazek, zwiazek",
+        "wordEng": "union (noun)",
+        "pron": " /ˈjunjən/",
+        "sentPol": " Pracownicy organizuja zwiazek zawodowy.  ",
+        "sentEng": " The workers are organizing a union. ",
+        "hidden": "true"
+    },
+    {
+        "id": 54747,
+        "wordPol": "glupi, glupi",
+        "wordEng": "silly",
+        "pron": " /ˈsɪli/",
+        "sentPol": " Nie badz glupi, to tylko zart.",
+        "sentEng": " Don't be silly, it's just a joke.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 74576,
+        "wordPol": "reklamowy, handlowy",
+        "wordEng": "commercial",
+        "pron": " /kəˈmɜrʃəl/",
+        "sentPol": " On wystapil w telewizyjnej reklamie.",
+        "sentEng": " He appeared in a TV commercial.",
+        "hidden": "true"
+    },
+    {
+        "id": 11417,
+        "wordPol": "uwaga, zauwazyc",
+        "wordEng": "note",
+        "pron": " /noʊt/",
+        "sentPol": " Zanotuj wazne daty.",
+        "sentEng": " Make a note of the important dates.",
+        "hidden": "true"
+    },
+    {
+        "id": 27003,
+        "wordPol": "odrzucic, odrzucic",
+        "wordEng": "reject",
+        "pron": " /rɪˈdʒɛkt/ ",
+        "sentPol": " Musieli odrzucic propozycje.  ",
+        "sentEng": " They had to reject the proposal.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 18603,
+        "wordPol": "stukniecie, stukniecie",
+        "wordEng": "knock",
+        "pron": " /nɑk/",
+        "sentPol": " Ktos puka do drzwi.",
+        "sentEng": " There's someone at the door.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 58002,
+        "wordPol": "wtorny, drugorzedny",
+        "wordEng": "secondary",
+        "pron": " /ˈsɛkənˌdɛri/",
+        "sentPol": " Angielski jest moim drugim jezykiem.   ",
+        "sentEng": " English is my secondary language.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 57735,
+        "wordPol": "z pewnoscia, z pewnoscia",
+        "wordEng": "surely",
+        "pron": " /ˈʃʊrli/",
+        "sentPol": " Na pewno nie mozesz byc powazny. ",
+        "sentEng": " Surely you can't be serious. ",
+        "hidden": "true"
+    },
+    {
+        "id": 99240,
+        "wordPol": "oszukiwac, oszustwa",
+        "wordEng": "cheat",
+        "pron": " /tʃit/",
+        "sentPol": " Zlapano go na probie oszukiwania na egzaminie.",
+        "sentEng": " He was caught trying to cheat in the exam.",
+        "hidden": "true"
+    },
+    {
+        "id": 37279,
+        "wordPol": "cytat, notowac",
+        "wordEng": "quote (noun)",
+        "pron": " /kwoʊt/",
+        "sentPol": " Wlaczyl slawna cytat w swoim przemowieniu.  ",
+        "sentEng": " He included a famous quote in his speech.",
+        "hidden": "true"
+    },
+    {
+        "id": 86778,
+        "wordPol": "fantazyjny, miec ochote",
+        "wordEng": "fancy",
+        "pron": " /ˈfænsi/",
+        "sentPol": " Ona nosi elegancka sukienke na impreze.",
+        "sentEng": " She's wearing a fancy dress to the party.",
+        "hidden": "true"
+    },
+    {
+        "id": 42566,
+        "wordPol": "widz, widz",
+        "wordEng": "viewer (noun)",
+        "pron": " /ˈvjuər/",
+        "sentPol": " Widzowie cieszyli sie z programu telewizyjnego.",
+        "sentEng": " The viewers enjoyed the TV show.",
+        "hidden": "true"
+    },
+    {
+        "id": 49616,
+        "wordPol": "nadprogram, wiecej",
+        "wordEng": "extra (noun)",
+        "pron": " /ˈɛkstrə/",
+        "sentPol": " Czy moglbys mi pomoc dodatkowa reka?  ",
+        "sentEng": " Could you give me an extra hand?   ",
+        "hidden": "true"
+    },
+    {
+        "id": 82009,
+        "wordPol": "pewny siebie, przekonany",
+        "wordEng": "confident",
+        "pron": " /ˈkɒnfɪdənt/",
+        "sentPol": " Ona ma pewnosc siebie co do swoich umiejetnosci.",
+        "sentEng": " She's confident about her abilities.",
+        "hidden": "true"
+    },
+    {
+        "id": 33089,
+        "wordPol": "zadanie, praca",
+        "wordEng": "assignment",
+        "pron": " /əˈsaɪnmənt/",
+        "sentPol": " Mam duzo zadan domowych do wykonania.   ",
+        "sentEng": " I have a lot of homework assignments.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 22309,
+        "wordPol": "bawelna, bawelniany",
+        "wordEng": "cotton",
+        "pron": " /ˈkɑtn/",
+        "sentPol": " Ta koszula jest zrobiona z miekkiego bawelny.",
+        "sentEng": " This shirt is made of soft cotton.",
+        "hidden": "true"
+    },
+    {
+        "id": 29817,
+        "wordPol": "natychmiastowy, bezposredni",
+        "wordEng": "immediate",
+        "pron": " /ɪˈmidɪət/ ",
+        "sentPol": " Musimy podjac natychmiastowe dzialania. ",
+        "sentEng": " We need to take immediate action. ",
+        "hidden": "true"
+    },
+    {
+        "id": 62050,
+        "wordPol": "chyba ze, jesli nie",
+        "wordEng": "unless (conj.)",
+        "pron": " /ʌnˈlɛs/",
+        "sentPol": " Nie pojde, chyba ze pojdziesz ze mna.  ",
+        "sentEng": " I won't go unless you come with me.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 49987,
+        "wordPol": "obcy, obcy",
+        "wordEng": "stranger",
+        "pron": " /ˈstreɪndʒər/",
+        "sentPol": " Poznala obcego w parku.",
+        "sentEng": " She met a stranger at the park.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 91498,
+        "wordPol": "znajomy, znany",
+        "wordEng": "familiar",
+        "pron": " /fəˈmɪliər/",
+        "sentPol": " To miejsce wydaje sie mi znajome. ",
+        "sentEng": " This place looks familiar to me. ",
+        "hidden": "true"
+    },
+    {
+        "id": 71929,
+        "wordPol": "chlodny, ochlodzic",
+        "wordEng": "cool",
+        "pron": " /kul/",
+        "sentPol": " Pogoda w koncu sie ochladza.",
+        "sentEng": " The weather is finally getting cool. ",
+        "hidden": "true"
+    },
+    {
+        "id": 73575,
+        "wordPol": "istotny, niezbedny",
+        "wordEng": "essential",
+        "pron": " /ɪˈsɛnʃəl/ ",
+        "sentPol": " Dobra komunikacja jest istotna w biznesie.",
+        "sentEng": " Good communication is essential in business.",
+        "hidden": "true"
+    },
+    {
+        "id": 78011,
+        "wordPol": "wyobrazony, fikcyjny",
+        "wordEng": "imaginary",
+        "pron": " /ɪˈmædʒɪˌnɛri/",
+        "sentPol": " On ma wyimaginowanego przyjaciela o imieniu Charlie.",
+        "sentEng": " He has an imaginary friend named Charlie.",
+        "hidden": "true"
+    },
+    {
+        "id": 77880,
+        "wordPol": "wewnatrz, w ciagu",
+        "wordEng": "within (prep.)",
+        "pron": " /wɪˈðɪn/",
+        "sentPol": " Sklep znajduje sie w bliskiej odleglosci.   ",
+        "sentEng": " The store is within walking distance.",
+        "hidden": "true"
+    },
+    {
+        "id": 93511,
+        "wordPol": "osobno, oddzielnie",
+        "wordEng": "apart",
+        "pron": " /əˈpɑrt/",
+        "sentPol": " zylismy oddzielnie przez rok.",
+        "sentEng": " We were living apart for a year. ",
+        "hidden": "true"
+    },
+    {
+        "id": 22024,
+        "wordPol": "nieostrozny, niedbaly",
+        "wordEng": "careless",
+        "pron": " /ˈkɛrlɪs/",
+        "sentPol": " Jego nieostrozny blad kosztowal nas gre.   ",
+        "sentEng": " His careless mistake cost us the game.",
+        "hidden": "true"
+    },
+    {
+        "id": 80837,
+        "wordPol": "spokojny, spokojny",
+        "wordEng": "peaceful",
+        "pron": " /ˈpisfəl/",
+        "sentPol": " Ogrod to spokojne miejsce do relaksu.",
+        "sentEng": " The garden is a peaceful place to relax.",
+        "hidden": "true"
+    },
+    {
+        "id": 40353,
+        "wordPol": "czas wolny, wypoczynek",
+        "wordEng": "leisure",
+        "pron": " /ˈliʒər/",
+        "sentPol": " Lubie czytac w czasie wolnym.  ",
+        "sentEng": " I like to read during my leisure time.",
+        "hidden": "true"
+    },
+    {
+        "id": 36319,
+        "wordPol": "oszukac, oszukiwac",
+        "wordEng": "trick (verb)",
+        "pron": " /trɪk/",
+        "sentPol": " Uzyl sprytnego sztuczki, aby rozwiazac lamiglowke.",
+        "sentEng": " He used a clever trick to solve the puzzle.",
+        "hidden": "true"
+    },
+    {
+        "id": 75152,
+        "wordPol": "zakret, skrecac",
+        "wordEng": "bend",
+        "pron": " /bɛnd/",
+        "sentPol": " Prosze zagiac papier na pol.   ",
+        "sentEng": " Please bend the paper in half.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 88609,
+        "wordPol": "wartosciowy, warty",
+        "wordEng": "worth (adj.)",
+        "pron": " /wɜrθ/",
+        "sentPol": " Ten obraz jest wiele wart.",
+        "sentEng": " This painting is worth a lot of money.",
+        "hidden": "true"
+    },
+    {
+        "id": 48950,
+        "wordPol": "okreslac, oswiadczac",
+        "wordEng": "state (verb)",
+        "pron": " /steɪt/",
+        "sentPol": " Nie wyrazila swojego zdania wyraznie.",
+        "sentEng": " She didn't state her opinion clearly.",
+        "hidden": "true"
+    },
+    {
+        "id": 57430,
+        "wordPol": "przymocowac, zapiac",
+        "wordEng": "fasten",
+        "pron": " /ˈfæsən/",
+        "sentPol": " Upewnij sie, ze zapiales pas bezpieczenstwa.",
+        "sentEng": " Make sure to fasten your seatbelt.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 40087,
+        "wordPol": "wydanie, wydanie",
+        "wordEng": "release (noun)",
+        "pron": " /rɪˈlis/",
+        "sentPol": " Premiera filmu jest w przyszlym miesiacu.",
+        "sentEng": " The movie release is next month.",
+        "hidden": "true"
+    },
+    {
+        "id": 22314,
+        "wordPol": "poprawic, poprawiac",
+        "wordEng": "revise",
+        "pron": " /rɪˈvaɪz/",
+        "sentPol": " Powinienes przejrzec swoje wypracowanie przed jego oddaniem.",
+        "sentEng": " You should revise your essay before submitting it.",
+        "hidden": "true"
+    },
+    {
+        "id": 35403,
+        "wordPol": "dziwny, dziwny",
+        "wordEng": "odd",
+        "pron": " /ɒd/",
+        "sentPol": " Cos jest dziwnego w tej historii.  ",
+        "sentEng": " There's something odd about that story.",
+        "hidden": "true"
+    },
+    {
+        "id": 86122,
+        "wordPol": "zirytowany, rozdrazniony",
+        "wordEng": "annoyed",
+        "pron": " /əˈnɔɪd/",
+        "sentPol": " Byla zirytowana ciaglym halasem.   ",
+        "sentEng": " She was annoyed by the constant noise. ",
+        "hidden": "true"
+    },
+    {
+        "id": 26960,
+        "wordPol": "zwiazany, zwiazany",
+        "wordEng": "related",
+        "pron": " /rɪˈleɪtɪd/",
+        "sentPol": " Te dwa tematy sa blisko powiazane.",
+        "sentEng": " These two topics are closely related.",
+        "hidden": "true"
+    },
+    {
+        "id": 45055,
+        "wordPol": "dostarczac, dostarczac",
+        "wordEng": "supply (verb)",
+        "pron": " /səˈplaɪ/",
+        "sentPol": " Sklep musi uzupelnic swoje zapasy.",
+        "sentEng": " The store needs to restock its supply.",
+        "hidden": "true"
+    },
+    {
+        "id": 79705,
+        "wordPol": "jednak, chociaz",
+        "wordEng": "though (adverb)",
+        "pron": " /ðoʊ/",
+        "sentPol": " Na zewnatrz jest zimno, ale ide na spacer.",
+        "sentEng": " It's cold outside, but I'm going for a walk though.",
+        "hidden": "true"
+    },
+    {
+        "id": 14581,
+        "wordPol": "widziec, ogladac",
+        "wordEng": "view (verb)",
+        "pron": " /vju/",
+        "sentPol": " Chce ogladac zachod slonca stad. ",
+        "sentEng": " I want to view the sunset from here.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 30235,
+        "wordPol": "inzynieria, inzynieria",
+        "wordEng": "engineering",
+        "pron": " /ˌɛndʒɪˈnɪrɪŋ/",
+        "sentPol": " On studiuje inzynierie elektryczna.  ",
+        "sentEng": " He's studying electrical engineering.",
+        "hidden": "true"
+    },
+    {
+        "id": 17468,
+        "wordPol": "zazwyczaj, zazwyczaj",
+        "wordEng": "typically",
+        "pron": " /ˈtɪpɪkli/ ",
+        "sentPol": " Ona zazwyczaj przychodzi o 9 rano.  ",
+        "sentEng": " She typically arrives at 9 AM.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 73193,
+        "wordPol": "podobienstwo, podobienstwo",
+        "wordEng": "similarity",
+        "pron": " /ˌsɪməˈlærɪti/",
+        "sentPol": " Jest podobienstwo miedzy dwoma obrazami.",
+        "sentEng": " There's a similarity between the two paintings.",
+        "hidden": "true"
+    },
+    {
+        "id": 72678,
+        "wordPol": "nieco, nieco",
+        "wordEng": "slightly",
+        "pron": " /ˈslaɪtli/ ",
+        "sentPol": " Cena wzrosla nieznacznie.  ",
+        "sentEng": " The price increased slightly.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 66352,
+        "wordPol": "kierowac, kierowac",
+        "wordEng": "direct (verb)",
+        "pron": " /dɪˈrɛkt/",
+        "sentPol": " Prosze kierowac pytania do instruktora.",
+        "sentEng": " Please direct your questions to the instructor.",
+        "hidden": "true"
+    },
+    {
+        "id": 76853,
+        "wordPol": "tkanina, material",
+        "wordEng": "cloth",
+        "pron": " /klɔθ/",
+        "sentPol": " Ta tkanina jest bardzo miekka.",
+        "sentEng": " This cloth is very soft.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 27908,
+        "wordPol": "trujacy, trujacy",
+        "wordEng": "poisonous",
+        "pron": " /ˈpɔɪzənəs/",
+        "sentPol": " Badz ostrozny, ta roslina jest trujaca.",
+        "sentEng": " Be careful, that plant is poisonous.",
+        "hidden": "true"
+    },
+    {
+        "id": 46806,
+        "wordPol": "stary, wiekowy",
+        "wordEng": "aged",
+        "pron": " /eɪdʒd/",
+        "sentPol": " Wino jest lezakowane przez kilka lat. ",
+        "sentEng": " The wine is aged for several years. ",
+        "hidden": "true"
+    },
+    {
+        "id": 34747,
+        "wordPol": "nastepujacy, po",
+        "wordEng": "following",
+        "pron": "/fɑloʊɪŋ/ ",
+        "sentPol": " Nastepny rozdzial jest o historii.  ",
+        "sentEng": " The following chapter is about history.",
+        "hidden": "true"
+    },
+    {
+        "id": 60846,
+        "wordPol": "wzrost, wzrosnac",
+        "wordEng": "rise",
+        "pron": " /raɪz/",
+        "sentPol": " Slonce wschodzi rano.",
+        "sentEng": " The sun will rise in the morning.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 16387,
+        "wordPol": "obciazenie, zarzut",
+        "wordEng": "charge",
+        "pron": " /ʧɑrdʒ/",
+        "sentPol": " Ile wynosi oplata za wstep?  ",
+        "sentEng": " How much is the admission charge?   ",
+        "hidden": "true"
+    },
+    {
+        "id": 44818,
+        "wordPol": "ogloszenie, komunikat",
+        "wordEng": "announcement",
+        "pron": " /əˈnaʊnsmənt/",
+        "sentPol": " Dyrektor wydal oswiadczenie.  ",
+        "sentEng": " The principal made an announcement.",
+        "hidden": "true"
+    },
+    {
+        "id": 61089,
+        "wordPol": "bielizna, bielizna",
+        "wordEng": "underwear (noun)",
+        "pron": " /ˈʌndərˌwɛr/",
+        "sentPol": " Kupila nowa bielizne wczoraj.",
+        "sentEng": " She bought new underwear yesterday.",
+        "hidden": "true"
+    },
+    {
+        "id": 20742,
+        "wordPol": "przyjemny, mily",
+        "wordEng": "pleasant",
+        "pron": " /ˈplɛzənt/ ",
+        "sentPol": " Pogoda jest dosc przyjemna dzisiaj.",
+        "sentEng": " The weather is quite pleasant today.",
+        "hidden": "true"
+    },
+    {
+        "id": 66660,
+        "wordPol": "klauzula, zdanie",
+        "wordEng": "clause",
+        "pron": " /klɔz/",
+        "sentPol": " Umowa zawiera klauzule poufnosci.",
+        "sentEng": " The contract contains a confidentiality clause.",
+        "hidden": "true"
+    },
+    {
+        "id": 76076,
+        "wordPol": "ranic, skaleczyc",
+        "wordEng": "injure",
+        "pron": " /ˈɪndʒər/",
+        "sentPol": " Spadl z drabiny i zranil reke.",
+        "sentEng": " He fell off the ladder and injured his arm.",
+        "hidden": "true"
+    },
+    {
+        "id": 39312,
+        "wordPol": "niekorzysc, wada",
+        "wordEng": "disadvantage",
+        "pron": " /ˌdɪsədˈvæntɪdʒ/",
+        "sentPol": " Jednym z wad zycia w miescie jest ruch uliczny.",
+        "sentEng": " One disadvantage of living in the city is traffic.",
+        "hidden": "true"
+    },
+    {
+        "id": 13239,
+        "wordPol": "kondycja, sprawnosc",
+        "wordEng": "fitness",
+        "pron": " /ˈfɪtnəs/",
+        "sentPol": " Pracuje nad swoja kondycja w silowni.",
+        "sentEng": " She's working on her fitness at the gym.",
+        "hidden": "true"
+    },
+    {
+        "id": 79843,
+        "wordPol": "ostatecznie, ostatecznie",
+        "wordEng": "eventually",
+        "pron": " /ɪˈvɛnʧuəli/",
+        "sentPol": " Dojde tam w koncu.",
+        "sentEng": " I'll get there eventually.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 88628,
+        "wordPol": "polozyc, klasc",
+        "wordEng": "lay",
+        "pron": " /leɪ/",
+        "sentPol": " Poprosila go, by nakryl do stolu.",
+        "sentEng": " She asked him to lay the table.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 48284,
+        "wordPol": "oplata, ladowac",
+        "wordEng": "charge",
+        "pron": " /ʧɑrdʒ/",
+        "sentPol": " Zostal aresztowany pod zarzutem kradziezy.",
+        "sentEng": " He was arrested on a charge of theft.",
+        "hidden": "true"
+    },
+    {
+        "id": 28386,
+        "wordPol": "twierdzic, reklamowac (bubel)",
+        "wordEng": "claim",
+        "pron": " /kleɪm/",
+        "sentPol": " Zlozyl falszywe roszczenie ubezpieczeniowe.",
+        "sentEng": " He made a false insurance claim.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 76198,
+        "wordPol": "objechac, objechac",
+        "wordEng": "tour (verb)",
+        "pron": " /tʊr/",
+        "sentPol": " Planujemy zwiedzic Europe przyszlego lata.",
+        "sentEng": " We're planning to tour Europe next summer.",
+        "hidden": "true"
+    },
+    {
+        "id": 78887,
+        "wordPol": "zwyczaj, zwyczajowy",
+        "wordEng": "custom",
+        "pron": " /ˈkʌstəm/",
+        "sentPol": " To lokalny zwyczaj swietowania zniw.",
+        "sentEng": " It's a local custom to celebrate the harvest.",
+        "hidden": "true"
+    },
+    {
+        "id": 48541,
+        "wordPol": "centrum handlowe, galeria handlowa",
+        "wordEng": "mall",
+        "pron": " /mɔl/",
+        "sentPol": " Chodzmy na zakupy do centrum handlowego.",
+        "sentEng": " Let's go shopping at the mall.",
+        "hidden": "true"
+    },
+    {
+        "id": 97548,
+        "wordPol": "polityka, polityka( firmy)",
+        "wordEng": "policy",
+        "pron": " /ˈpɒləsi/",
+        "sentPol": " Firma ma surowa polityke antynikotynowa.",
+        "sentEng": " The company has a strict no-smoking policy.",
+        "hidden": "true"
+    },
+    {
+        "id": 29943,
+        "wordPol": "przeszkadzac, klopotac",
+        "wordEng": "bother",
+        "pron": " /ˈbɒðər/",
+        "sentPol": " Nie zawracaj sobie glowy, zrobie to sam.",
+        "sentEng": " Don't bother, I'll do it myself.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 29077,
+        "wordPol": "oddzielic, osobny",
+        "wordEng": "separate",
+        "pron": " /ˈsɛprət/",
+        "sentPol": " Zdecydowali sie zyc osobnymi zyciami.",
+        "sentEng": " They decided to live separate lives.",
+        "hidden": "true"
+    },
+    {
+        "id": 55269,
+        "wordPol": "chociaz, jednak",
+        "wordEng": "though (conj.)",
+        "pron": " /ðoʊ/",
+        "sentPol": " Lubie wedrowki, mimo ze sa meczace.",
+        "sentEng": " I enjoy hiking, even though it's tiring.",
+        "hidden": "true"
+    },
+    {
+        "id": 34329,
+        "wordPol": "wskazowka, trop",
+        "wordEng": "clue",
+        "pron": " /klu/",
+        "sentPol": " Mozesz dac mi wskazowke dotyczaca odpowiedzi?",
+        "sentEng": " Can you give me a clue about the answer?",
+        "hidden": "true"
+    },
+    {
+        "id": 98110,
+        "wordPol": "krewny, wzgledny",
+        "wordEng": "relative",
+        "pron": " /ˈrɛlətɪv/ ",
+        "sentPol": " Odwiedzila swoich krewnych podczas wakacji.",
+        "sentEng": " She visited her relatives over the holidays.",
+        "hidden": "true"
+    },
+    {
+        "id": 48435,
+        "wordPol": "ledwo, prawie nie",
+        "wordEng": "hardly",
+        "pron": " /ˈhɑrdli/",
+        "sentPol": " Ledwo mogl uwierzyc w swoje szczescie.",
+        "sentEng": " He could hardly believe his luck.",
+        "hidden": "true"
+    },
+    {
+        "id": 30378,
+        "wordPol": "miec tendencje, kierowac",
+        "wordEng": "tend (verb)",
+        "pron": " /tɛnd/",
+        "sentPol": " Ona ma tendencje do spozniania sie na spotkania.",
+        "sentEng": " She tends to be late for meetings.",
+        "hidden": "true"
+    },
+    {
+        "id": 61852,
+        "wordPol": "pewny, okreslony",
+        "wordEng": "definite",
+        "pron": " /ˈdɛfənɪt/ ",
+        "sentPol": " Masz jakies konkretne plany na weekend?",
+        "sentEng": " Do you have any definite plans for the weekend?",
+        "hidden": "true"
+    },
+    {
+        "id": 47237,
+        "wordPol": "zmartwiony, zaniepokojony",
+        "wordEng": "upset (adj.)",
+        "pron": " /ʌpˈsɛt/",
+        "sentPol": " Byla zaniepokojona wiadomosciami.",
+        "sentEng": " She was upset about the news.",
+        "hidden": "true"
+    },
+    {
+        "id": 52558,
+        "wordPol": "zycie, zyjacy",
+        "wordEng": "living",
+        "pron": " /ˈlɪvɪŋ/",
+        "sentPol": " Koszty utrzymania sa wysokie w tym miescie.",
+        "sentEng": " The cost of living is high in this city.",
+        "hidden": "true"
+    },
+    {
+        "id": 13475,
+        "wordPol": "organizator, organizator",
+        "wordEng": "organizer",
+        "pron": " /ˈɔrɡəˌnaɪzər/",
+        "sentPol": " Ona jest glownym organizatorem wydarzenia.",
+        "sentEng": " She's the main organizer of the event.",
+        "hidden": "true"
+    },
+    {
+        "id": 68629,
+        "wordPol": "specjalnie, konkretnie",
+        "wordEng": "specifically",
+        "pron": " /spəˈsɪfɪkli/",
+        "sentPol": " Szukala ksiazki na konkretny temat. ",
+        "sentEng": " She was looking for a book on a specific topic.",
+        "hidden": "true"
+    },
+    {
+        "id": 72914,
+        "wordPol": "plynac, przeplyw",
+        "wordEng": "flow (verb)",
+        "pron": " /floʊ/",
+        "sentPol": " Rzeka wplywa do morza. ",
+        "sentEng": " The river flows into the sea.",
+        "hidden": "true"
+    },
+    {
+        "id": 53582,
+        "wordPol": "liczba, liczyc",
+        "wordEng": "count",
+        "pron": " /kaʊnt/",
+        "sentPol": " Czy potrafisz policzyc do dziesieciu?  ",
+        "sentEng": " Can you count to ten?   ",
+        "hidden": "true"
+    },
+    {
+        "id": 73372,
+        "wordPol": "widok, wzrok",
+        "wordEng": "sight",
+        "pron": " /saɪt/",
+        "sentPol": " Widok z wierzcholka wzgorza zapieral dech w piersiach.",
+        "sentEng": " The view from the hilltop was breathtaking.",
+        "hidden": "true"
+    },
+    {
+        "id": 95957,
+        "wordPol": "z wyjatkiem, wyjatek",
+        "wordEng": "except",
+        "pron": " /ɪkˈsɛpt/",
+        "sentPol": " Wszyscy sa tutaj, oprocz Johna.   ",
+        "sentEng": " Everyone is here except for John.",
+        "hidden": "true"
+    },
+    {
+        "id": 71488,
+        "wordPol": "skladac sie, skladac sie z czegos",
+        "wordEng": "consist",
+        "pron": " /kənˈsɪst/ ",
+        "sentPol": " Receptura sklada sie z trzech glownych skladnikow.",
+        "sentEng": " The recipe consists of three main ingredients.",
+        "hidden": "true"
+    },
+    {
+        "id": 60369,
+        "wordPol": "usytuowany, zlokalizowany",
+        "wordEng": "located",
+        "pron": " /loʊˈkeɪtɪd/",
+        "sentPol": " Hotel znajduje sie niedaleko plazy.",
+        "sentEng": " The hotel is located near the beach.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 76563,
+        "wordPol": "zamierzac, planowac",
+        "wordEng": "intend",
+        "pron": " /ɪnˈtɛnd/",
+        "sentPol": " Zamierzam zaczac nowe hobby.",
+        "sentEng": " I intend to start a new hobby.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 51587,
+        "wordPol": "okazja, okazja",
+        "wordEng": "occasion",
+        "pron": " /əˈkeɪʒən/ ",
+        "sentPol": " Obchodzimy jej urodziny z tej okazji.  ",
+        "sentEng": " We celebrate her birthday on this occasion.",
+        "hidden": "true"
+    },
+    {
+        "id": 33563,
+        "wordPol": "udzial, akcja",
+        "wordEng": "share (noun)",
+        "pron": " /ʃɛr/",
+        "sentPol": " Ona posiada udzial w firmie.",
+        "sentEng": " She owns a share in the company. ",
+        "hidden": "true"
+    },
+    {
+        "id": 16810,
+        "wordPol": "przerazajacy, przerazajacy",
+        "wordEng": "frightening",
+        "pron": " /ˈfraɪtənɪŋ/",
+        "sentPol": " Ten horror byl bardzo przerazajacy.   ",
+        "sentEng": " The horror movie was very frightening.",
+        "hidden": "true"
+    },
+    {
+        "id": 32016,
+        "wordPol": "miec ochote, wymyslic",
+        "wordEng": "fancy (verb)",
+        "pron": " /ˈfænsi/",
+        "sentPol": " Mam ochote isc na spacer do parku.",
+        "sentEng": " I fancy going for a walk in the park.",
+        "hidden": "true"
+    },
+    {
+        "id": 21614,
+        "wordPol": "irytujacy, meczacy",
+        "wordEng": "annoying",
+        "pron": " /əˈnɔɪɪŋ/",
+        "sentPol": " Ciagly halas jest denerwujacy.   ",
+        "sentEng": " The constant noise is annoying. ",
+        "hidden": "true"
+    },
+    {
+        "id": 52692,
+        "wordPol": "zakazac, zabronic",
+        "wordEng": "ban",
+        "pron": " /bæn/",
+        "sentPol": " Rzad wprowadzil zakaz palenia.  ",
+        "sentEng": " The government imposed a ban on smoking. ",
+        "hidden": "true"
+    },
+    {
+        "id": 83534,
+        "wordPol": "modny, modne",
+        "wordEng": "fashionable",
+        "pron": " /ˈfæʃənəbl/",
+        "sentPol": " Ta sukienka jest obecnie bardzo modna. ",
+        "sentEng": " That dress is very fashionable right now.",
+        "hidden": "true"
+    },
+    {
+        "id": 30129,
+        "wordPol": "podstawa, baza",
+        "wordEng": "basis",
+        "pron": " /ˈbeɪsɪs/",
+        "sentPol": " Ona cwiczy regularnie. ",
+        "sentEng": " She exercises on a regular basis.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 85405,
+        "wordPol": "cel, miejsce przeznaczenia",
+        "wordEng": "destination",
+        "pron": " /ˌdɛstɪˈneɪʃən/",
+        "sentPol": " Naszym nastepnym celem jest Paryz.",
+        "sentEng": " Our next destination is Paris. ",
+        "hidden": "true"
+    },
+    {
+        "id": 82240,
+        "wordPol": "w odroznieniu od, w przeciwienstwie do",
+        "wordEng": "unlike (prep.)",
+        "pron": " /ʌnˈlaɪk/",
+        "sentPol": " W przeciwienstwie do swojego brata, ona uwielbia wedrowki.",
+        "sentEng": " Unlike her brother, she loves hiking.",
+        "hidden": "true"
+    },
+    {
+        "id": 49151,
+        "wordPol": "wydatki, wydatki",
+        "wordEng": "spending",
+        "pron": " /ˈspɛndɪŋ/ ",
+        "sentPol": " Ona uwaza na wydatki. ",
+        "sentEng": " She's careful with her spending.",
+        "hidden": "true"
+    },
+    {
+        "id": 44909,
+        "wordPol": "godny zaufania, niezawodny",
+        "wordEng": "reliable",
+        "pron": " /rɪˈlaɪəbl/",
+        "sentPol": " On jest wiarygodnym zrodlem informacji.   ",
+        "sentEng": " He's a reliable source of information.   ",
+        "hidden": "true"
+    },
+    {
+        "id": 45769,
+        "wordPol": "wygodny, dogodny",
+        "wordEng": "convenient",
+        "pron": " /kənˈvinjənt/",
+        "sentPol": " Lokalizacja jest dogodna do dojazdu.  ",
+        "sentEng": " The location is convenient for commuting.",
+        "hidden": "true"
+    },
+    {
+        "id": 36421,
+        "wordPol": "pierwotnie, poczatkowo",
+        "wordEng": "originally",
+        "pron": " /əˈrɪdʒənəli/",
+        "sentPol": " Historia byla pierwotnie napisana po francusku.  ",
+        "sentEng": " The story was originally written in French.",
+        "hidden": "true"
+    },
+    {
+        "id": 42978,
+        "wordPol": "kwestia, wydanie",
+        "wordEng": "issue",
+        "pron": " /ˈɪʃu/",
+        "sentPol": " Magazyn porusza wiele roznych tematow.",
+        "sentEng": " The magazine covers a wide range of issues.",
+        "hidden": "true"
+    },
+    {
+        "id": 28270,
+        "wordPol": "wrazenie, robic wrazenie",
+        "wordEng": "impression",
+        "pron": " /ɪmˈprɛʃən/",
+        "sentPol": " Jej pierwsze wrazenie bylo pozytywne.",
+        "sentEng": " Her first impression was positive.  ",
+        "hidden": "true"
+    },
+    {
+        "id": 88769,
+        "wordPol": "uszkodzic, zniszczyc",
+        "wordEng": "damage",
+        "pron": " /ˈdæmɪdʒ/",
+        "sentPol": " Burza spowodowala wiele szkod.  ",
+        "sentEng": " The storm caused a lot of damage.   ",
+        "hidden": "true"
+    }
+]

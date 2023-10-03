@@ -1,0 +1,1073 @@
+[
+    {
+        "id": "27600",
+        "wordEng": "exile (noun)",
+        "wordPol": " wygnanie",
+        "sentPol": " Artysta mieszkał na wygnaniu przez wiele lat.",
+        "sentEng": " The artist lived in exile for years.",
+        "hidden": "true",
+        "pron": " [ˈɛksaɪl]"
+    },
+    {
+        "id": "7049",
+        "wordEng": "validity (noun)",
+        "wordPol": " ważność",
+        "sentPol": " Ważność dokumentu jest kwestionowana.",
+        "sentEng": " The validity of the document is being questioned.",
+        "hidden": "true",
+        "pron": " [vəˈlɪdəti]"
+    },
+    {
+        "id": "23666",
+        "wordEng": "mere (adjective)",
+        "wordPol": " zaledwie",
+        "sentPol": " To była zaledwie sugestia, nie wymaganie.",
+        "sentEng": " It was a mere suggestion, not a requirement.",
+        "hidden": "true",
+        "pron": " [mɪr ]"
+    },
+    {
+        "id": "72414",
+        "wordEng": "long-(standing adjective)",
+        "wordPol": " długotrwały",
+        "sentPol": " Mieli długotrwałą przyjaźń.",
+        "sentEng": " They had a long-standing friendship.",
+        "hidden": "true",
+        "pron": " [ˌlɔŋˈstændɪŋ ]"
+    },
+    {
+        "id": "42454",
+        "wordEng": "appealing (adjective)",
+        "wordPol": " atrakcyjny",
+        "sentPol": " Pomysł na wakacje jest atrakcyjny.",
+        "sentEng": " The idea of a vacation is appealing.",
+        "hidden": "true",
+        "pron": " [əˈpilɪŋ ]"
+    },
+    {
+        "id": "53592",
+        "wordEng": "treaty (noun)",
+        "wordPol": " traktat",
+        "sentPol": " Narody podpisały traktat pokojowy.",
+        "sentEng": " The nations signed a peace treaty.",
+        "hidden": "true",
+        "pron": " [ˈtriti ]"
+    },
+    {
+        "id": "1370",
+        "wordEng": "evoke (verb)",
+        "wordPol": " wywołać",
+        "sentPol": " Kolory obrazu wywołują silne emocje.",
+        "sentEng": " The painting's colors evoke strong emotions.",
+        "hidden": "true",
+        "pron": " [ɪˈvoʊk ]"
+    },
+    {
+        "id": "58048",
+        "wordEng": "arguably (adverb)",
+        "wordPol": " prawdopodobnie",
+        "sentPol": " On jest prawdopodobnie najlepszym kandydatem.",
+        "sentEng": " He is arguably the best candidate.",
+        "hidden": "true",
+        "pron": " [ˈɑrɡjʊəbli]"
+    },
+    {
+        "id": "21272",
+        "wordEng": "engagement (noun)",
+        "wordPol": " zaangażowanie ",
+        "sentPol": " Jej zaangażowanie w projekcie jest godne uwagi.",
+        "sentEng": " Her engagement in the project is remarkable.",
+        "hidden": "true",
+        "pron": " [ɪnˈɡeɪdʒmənt ]"
+    },
+    {
+        "id": "30215",
+        "wordEng": "mob (noun)",
+        "wordPol": " tłum",
+        "sentPol": " Wściekły tłum zgromadził się na placu.",
+        "sentEng": " The angry mob gathered in the square.",
+        "hidden": "true",
+        "pron": " [mɑb ]"
+    },
+    {
+        "id": "4623",
+        "wordEng": "dumb (adjective)",
+        "wordPol": " niemy",
+        "sentPol": " Postać zagrała niemą rolę w sztuce.",
+        "sentEng": " The character played a dumb role in the play.",
+        "hidden": "true",
+        "pron": " [dʌm ]"
+    },
+    {
+        "id": "4039",
+        "wordEng": "inmate (noun)",
+        "wordPol": " więzień",
+        "sentPol": " Więzienie mieści niebezpiecznych więźniów.",
+        "sentEng": " The prison houses dangerous inmates.",
+        "hidden": "true",
+        "pron": " [ˈɪnˌmeɪt]"
+    },
+    {
+        "id": "44096",
+        "wordEng": "sound (adjective)",
+        "wordPol": " solidny, zdrowy",
+        "sentPol": " Jego argument był solidny i dobrze uzasadniony.",
+        "sentEng": " His argument was sound and well-reasoned.",
+        "hidden": "true",
+        "pron": " [saʊnd]"
+    },
+    {
+        "id": "52651",
+        "wordEng": "toll (noun)",
+        "wordPol": " opłata, dzwon ",
+        "sentPol": " Opłata za skorzystanie z mostu jest droga.",
+        "sentEng": " The toll for using the bridge is expensive.",
+        "hidden": "true",
+        "pron": " [toʊl]"
+    },
+    {
+        "id": "13307",
+        "wordEng": "whereby (adverb)",
+        "wordPol": " w wyniku czego",
+        "sentPol": " Nowa polityka, w wyniku której pracownicy mogą pracować zdalnie, została wprowadzona.",
+        "sentEng": " The new policy, whereby employees can work remotely, was introduced.",
+        "hidden": "true",
+        "pron": " [wɛrˈbaɪ ]"
+    },
+    {
+        "id": "28829",
+        "wordEng": "turnout (noun)",
+        "wordPol": " frekwencja",
+        "sentPol": " Frekwencja wyborcza przekroczyła oczekiwania.",
+        "sentEng": " The voter turnout exceeded expectations.",
+        "hidden": "true",
+        "pron": " [ˈtɜrnˌaʊt]"
+    },
+    {
+        "id": "47596",
+        "wordEng": "blast (noun)",
+        "wordPol": " wybuch, podmuch",
+        "sentPol": " Nagły wybuch zaskoczył wszystkich.",
+        "sentEng": " The sudden blast startled everyone.",
+        "hidden": "true",
+        "pron": " [blæst]"
+    },
+    {
+        "id": "26851",
+        "wordEng": "inspection (noun)",
+        "wordPol": " kontrola",
+        "sentPol": " Inspektor przeprowadził dokładną kontrolę.",
+        "sentEng": " The inspector conducted a thorough inspection.",
+        "hidden": "true",
+        "pron": " [ɪnˈspɛkʃən]"
+    },
+    {
+        "id": "72677",
+        "wordEng": "creep (verb)",
+        "wordPol": " skradać się , pełzać, czołgać",
+        "sentPol": " Kot zaczął się skradać przez trawę.",
+        "sentEng": " The cat began to creep through the grass.",
+        "hidden": "true",
+        "pron": " [kriːp]"
+    },
+    {
+        "id": "25764",
+        "wordEng": "misleading (adjective)",
+        "wordPol": " mylący, wprowadzający w błąd",
+        "sentPol": " Myląca reklama wprowadziła klientów w błąd.",
+        "sentEng": " The misleading advertisement confused customers.",
+        "hidden": "true",
+        "pron": " [mɪsˈliːdɪŋ]"
+    },
+    {
+        "id": "33095",
+        "wordEng": "odds (noun)",
+        "wordPol": " szanse, prawdopodobieństwo",
+        "sentPol": " Szanse na wygraną są niewielkie.",
+        "sentEng": " The odds of winning are slim.",
+        "hidden": "true",
+        "pron": " [ɑdz]"
+    },
+    {
+        "id": "64747",
+        "wordEng": "retreat (verb)",
+        "wordPol": " wycofać się",
+        "sentPol": " Żołnierze musieli się wycofać z bitwy.",
+        "sentEng": " The soldiers had to retreat from the battle.",
+        "hidden": "true",
+        "pron": " [rɪˈtrit ]"
+    },
+    {
+        "id": "37157",
+        "wordEng": "say (noun)",
+        "wordPol": " powiedzieć",
+        "sentPol": " Jej zdanie w tej sprawie było ważne.",
+        "sentEng": " Her say in the matter was important.",
+        "hidden": "true",
+        "pron": " [seɪ ]"
+    },
+    {
+        "id": "39868",
+        "wordEng": "namely (adverb)",
+        "wordPol": " mianowicie",
+        "sentPol": " Są trzy główne kolory, mianowicie czerwony, niebieski i żółty.",
+        "sentEng": " There are three main colors, namely red, blue, and yellow.",
+        "hidden": "true",
+        "pron": " [ˈneɪmli ]"
+    },
+    {
+        "id": "25675",
+        "wordEng": "allege (verb)",
+        "wordPol": " twierdzić ",
+        "sentPol": " Świadek twierdził, że widział przestępstwo.",
+        "sentEng": " The witness alleged seeing the crime.",
+        "hidden": "true",
+        "pron": " [əˈlɛdʒ]"
+    },
+    {
+        "id": "30368",
+        "wordEng": "cabinet (noun)",
+        "wordPol": " szafka, gabinet",
+        "sentPol": " Trzymała swoje naczynia w szafce kuchennej.",
+        "sentEng": " She kept her dishes in the kitchen cabinet.",
+        "hidden": "true",
+        "pron": " [ˈkæbɪnət]"
+    },
+    {
+        "id": "54531",
+        "wordEng": "notable (adjective)",
+        "wordPol": " znaczący, wybitny",
+        "sentPol": " Naukowiec wnosił znaczący wkład w dziedzinę.",
+        "sentEng": " The scientist made notable contributions to the field.",
+        "hidden": "true",
+        "pron": " [ˈnoʊtəbl]"
+    },
+    {
+        "id": "39689",
+        "wordEng": "plead (verb)",
+        "wordPol": " błagać, przyznać się",
+        "sentPol": " Musiał błagać o przebaczenie.",
+        "sentEng": " He had to plead for forgiveness.",
+        "hidden": "true",
+        "pron": " [plid]"
+    },
+    {
+        "id": "57660",
+        "wordEng": "peasant (noun)",
+        "wordPol": " chłop, wieśniak",
+        "sentPol": " Wieśniak ciężko pracował na polu.",
+        "sentEng": " The peasant worked hard in the fields.",
+        "hidden": "true",
+        "pron": " [ˈpɛzənt ]"
+    },
+    {
+        "id": "47667",
+        "wordEng": "embark (verb)",
+        "wordPol": " wchodzić na pokład",
+        "sentPol": " Wyruszymy w podróż jutro.",
+        "sentEng": " We will embark on our journey tomorrow.",
+        "hidden": "true",
+        "pron": " [ɛmˈbɑrk ]"
+    },
+    {
+        "id": "21790",
+        "wordEng": "worthy (adjective)",
+        "wordPol": " godny, zasługujący",
+        "sentPol": " Jego działania uczyniły go godnym liderem.",
+        "sentEng": " His actions made him a worthy leader.",
+        "hidden": "true",
+        "pron": " [ˈwɜrði ]"
+    },
+    {
+        "id": "32998",
+        "wordEng": "attain (verb)",
+        "wordPol": " osiągnąć",
+        "sentPol": " Ciężko pracowała, aby osiągnąć swoje cele.",
+        "sentEng": " She worked hard to attain her goals.",
+        "hidden": "true",
+        "pron": " [əˈteɪn ]"
+    },
+    {
+        "id": "32832",
+        "wordEng": "prescription (noun)",
+        "wordPol": " recepta, zalecenie",
+        "sentPol": " Lekarz dał jej receptę na leki.",
+        "sentEng": " The doctor gave her a prescription for medication.",
+        "hidden": "true",
+        "pron": " [prɪˈskrɪpʃən ]"
+    },
+    {
+        "id": "8718",
+        "wordEng": "partial (adjective)",
+        "wordPol": " stronniczy, częściowy",
+        "sentPol": " Jego recenzja była stronnicza i nieobiektywna.",
+        "sentEng": " His review was partial and not objective.",
+        "hidden": "true",
+        "pron": " [ˈpɑrʃəl]"
+    },
+    {
+        "id": "10189",
+        "wordEng": "thankfully (adverb)",
+        "wordPol": " z wdzięcznością",
+        "sentPol": " Na szczęście nikt nie ucierpiał w wypadku.",
+        "sentEng": " Thankfully, no one was injured in the accident.",
+        "hidden": "true",
+        "pron": " [ˈθæŋkfəli]"
+    },
+    {
+        "id": "40481",
+        "wordEng": "acre (noun)",
+        "wordPol": " akr",
+        "sentPol": " Miał duże gospodarstwo o wielu akrach.",
+        "sentEng": " He owned a large farm with many acres.",
+        "hidden": "true",
+        "pron": " [eɪkər]"
+    },
+    {
+        "id": "79338",
+        "wordEng": "halfway (adverb)",
+        "wordPol": " w połowie",
+        "sentPol": " Jesteśmy już w połowie książki.",
+        "sentEng": " We are already halfway through the book.",
+        "hidden": "true",
+        "pron": " [ˌhæfˈweɪ]"
+    },
+    {
+        "id": "21241",
+        "wordEng": "allegation (noun)",
+        "wordPol": " zarzut",
+        "sentPol": " Zarzut oszustwa był badany.",
+        "sentEng": " The allegation of fraud was investigated.",
+        "hidden": "true",
+        "pron": " [ˌælɪˈɡeɪʃən ]"
+    },
+    {
+        "id": "79545",
+        "wordEng": "proceeds (noun)",
+        "wordPol": " dochód",
+        "sentPol": " Dochód z wydarzenia zostanie przekazany na cele charytatywne.",
+        "sentEng": " The proceeds from the event will go to charity.",
+        "hidden": "true",
+        "pron": " [ˈproʊˌsidz]"
+    },
+    {
+        "id": "46079",
+        "wordEng": "injustice (noun)",
+        "wordPol": " niesprawiedliwość",
+        "sentPol": " Protest dotyczył niesprawiedliwości społecznej.",
+        "sentEng": " The protest was against social injustice.",
+        "hidden": "true",
+        "pron": " [ɪnˈdʒʌstɪs]"
+    },
+    {
+        "id": "56918",
+        "wordEng": "dispute (noun)",
+        "wordPol": " spór",
+        "sentPol": " Byli zaangażowani w zażarty spór o ziemię.",
+        "sentEng": " They were involved in a heated dispute over the land.",
+        "hidden": "true",
+        "pron": " [dɪˈspjut ]"
+    },
+    {
+        "id": "34198",
+        "wordEng": "supposedly (adverb)",
+        "wordPol": " rzekomo, przypuszczalnie",
+        "sentPol": " Rzekomo skarb jest tutaj zakopany.",
+        "sentEng": " Supposedly, the treasure is buried here.",
+        "hidden": "true",
+        "pron": " [səˈpoʊzədli]"
+    },
+    {
+        "id": "5755",
+        "wordEng": "transparency (noun)",
+        "wordPol": " przejrzystość",
+        "sentPol": " Firma dąży do poprawy przejrzystości w swoich działaniach.",
+        "sentEng": " The company aims to improve transparency in its operations.",
+        "hidden": "true",
+        "pron": " [trænsˈpɛrənsi ]"
+    },
+    {
+        "id": "50596",
+        "wordEng": "affection (noun)",
+        "wordPol": " uczucie",
+        "sentPol": " Okazywała wielkie uczucie swoim zwierzętom.",
+        "sentEng": " She showed great affection for her pets.",
+        "hidden": "true",
+        "pron": " [əˈfɛkʃən]"
+    },
+    {
+        "id": "45604",
+        "wordEng": "peculiar (adjective)",
+        "wordPol": " osobliwy, dziwny",
+        "sentPol": " Jego osobliwe zachowanie wzbudziło zdziwienie.",
+        "sentEng": " His peculiar behavior raised eyebrows.",
+        "hidden": "true",
+        "pron": " [pɪˈkjuːliər]"
+    },
+    {
+        "id": "24565",
+        "wordEng": "indictment (noun)",
+        "wordPol": " akt oskarżenia",
+        "sentPol": " Wielka ława przysięgłych wydała akt oskarżenia przeciwko podejrzanemu.",
+        "sentEng": " The grand jury issued an indictment against the suspect.",
+        "hidden": "true",
+        "pron": " [ɪnˈdaɪtmənt]"
+    },
+    {
+        "id": "8178",
+        "wordEng": "compensation (noun)",
+        "wordPol": " rekompensata ",
+        "sentPol": " Otrzymał rekompensatę za swoje obrażenia.",
+        "sentEng": " He received compensation for his injuries.",
+        "hidden": "true",
+        "pron": " [ˌkɑmpənˈseɪʃən]"
+    },
+    {
+        "id": "22931",
+        "wordEng": "methodology (noun)",
+        "wordPol": " metodyka ",
+        "sentPol": " Metodyka badawcza została starannie zaplanowana.",
+        "sentEng": " The research methodology was carefully planned.",
+        "hidden": "true",
+        "pron": " [ˌmɛθəˈdɑlədʒi ]"
+    },
+    {
+        "id": "56506",
+        "wordEng": "sentiment (noun)",
+        "wordPol": " uczucie, sentyment",
+        "sentPol": " Jego uczucia wobec tego miejsca były nostalgiczne.",
+        "sentEng": " His sentiment towards the place was nostalgic.",
+        "hidden": "true",
+        "pron": " [ˈsɛntɪmənt]"
+    },
+    {
+        "id": "46704",
+        "wordEng": "march (noun)",
+        "wordPol": " marsz",
+        "sentPol": " Uczestnicy protestu rozpoczęli swój marsz przez miasto.",
+        "sentEng": " The protest participants began their march through the city.",
+        "hidden": "true",
+        "pron": " [mɑrtʃ]"
+    },
+    {
+        "id": "77526",
+        "wordEng": "contender (noun)",
+        "wordPol": " zawodnik, pretendent",
+        "sentPol": " Była silną zawodniczką w konkursie.",
+        "sentEng": " She was a strong contender in the competition.",
+        "hidden": "true",
+        "pron": " [kənˈtɛndər]"
+    },
+    {
+        "id": "57853",
+        "wordEng": "firearm (noun)",
+        "wordPol": " broń palna",
+        "sentPol": " Funkcjonariusz nosił broń palną w celach samoobrony.",
+        "sentEng": " The officer carried a firearm for self-defense.",
+        "hidden": "true",
+        "pron": " [ˈfaɪərˌɑrm]"
+    },
+    {
+        "id": "14324",
+        "wordEng": "long-time (adjective)",
+        "wordPol": " długotrwały",
+        "sentPol": " Mieli długotrwałą przyjaźń.",
+        "sentEng": " They had a long-time friendship.",
+        "hidden": "true",
+        "pron": " [ˈlɔŋˌtaɪm]"
+    },
+    {
+        "id": "41281",
+        "wordEng": "verbal (adjective)",
+        "wordPol": " słowny",
+        "sentPol": " Dała słowne wyjaśnienie procesu.",
+        "sentEng": " She gave a verbal explanation of the process.",
+        "hidden": "true",
+        "pron": " [ˈvɜrbəl ]"
+    },
+    {
+        "id": "49991",
+        "wordEng": "fixture (noun)",
+        "wordPol": " osprzęt, element konstrukcyjny",
+        "sentPol": " Nowy osprzęt poprawił oświetlenie w pokoju.",
+        "sentEng": " The new fixture improved the lighting in the room.",
+        "hidden": "true",
+        "pron": " [ˈfɪkstʃər]"
+    },
+    {
+        "id": "36377",
+        "wordEng": "concede (verb)",
+        "wordPol": " przyznawać, ustępować",
+        "sentPol": " Musiał przyznać się do porażki w sporze.",
+        "sentEng": " He had to concede defeat in the argument.",
+        "hidden": "true",
+        "pron": " [kənˈsid ]"
+    },
+    {
+        "id": "69079",
+        "wordEng": "encompass (verb)",
+        "wordPol": " obejmować, zawierać",
+        "sentPol": " Książka stara się obejmować różne perspektywy.",
+        "sentEng": " The book seeks to encompass various perspectives.",
+        "hidden": "true",
+        "pron": " [ɪnˈkʌmpəs]"
+    },
+    {
+        "id": "61191",
+        "wordEng": "tender (adjective)",
+        "wordPol": " delikatny, czuły",
+        "sentPol": " Jego delikatne dotknięcie ją uspokoiło.",
+        "sentEng": " His tender touch comforted her.",
+        "hidden": "true",
+        "pron": " [ˈtɛndər]"
+    },
+    {
+        "id": "47907",
+        "wordEng": "memoir (noun)",
+        "wordPol": " wspomnienie, pamiętnik",
+        "sentPol": " Wspomnienie autora opisało jego doświadczenia.",
+        "sentEng": " The author's memoir recounted his experiences.",
+        "hidden": "true",
+        "pron": " [ˈmɛmwɑr]"
+    },
+    {
+        "id": "15470",
+        "wordEng": "backing (noun)",
+        "wordPol": " poparcie, wsparcie",
+        "sentPol": " Projekt otrzymał silne poparcie od inwestorów.",
+        "sentEng": " The project received strong backing from investors.",
+        "hidden": "true",
+        "pron": " [ˈbækɪŋ ]"
+    },
+    {
+        "id": "25562",
+        "wordEng": "deed (noun)",
+        "wordPol": " czyn, akt ",
+        "sentPol": " Jego bohaterski czyn uratował wiele żyć.",
+        "sentEng": " His heroic deed saved many lives.",
+        "hidden": "true",
+        "pron": " [did ]"
+    },
+    {
+        "id": "14417",
+        "wordEng": "motorist (noun)",
+        "wordPol": " kierowca",
+        "sentPol": " Kierowca zatrzymał się na czerwonym świetle.",
+        "sentEng": " The motorist stopped at the red light.",
+        "hidden": "true",
+        "pron": " [ˈmoʊtərɪst]"
+    },
+    {
+        "id": "1602",
+        "wordEng": "violation (noun)",
+        "wordPol": " naruszenie",
+        "sentPol": " Naruszenie zasad skutkowało karą.",
+        "sentEng": " The violation of the rules resulted in a penalty.",
+        "hidden": "true",
+        "pron": " [ˌvaɪəˈleɪʃən ]"
+    },
+    {
+        "id": "48460",
+        "wordEng": "buddy (noun)",
+        "wordPol": " kumpel, kolega",
+        "sentPol": " On jest moim kumplem od dzieciństwa.",
+        "sentEng": " He's been my buddy since childhood.",
+        "hidden": "true",
+        "pron": " [ˈbʌdi]"
+    },
+    {
+        "id": "41657",
+        "wordEng": "enrich (verb)",
+        "wordPol": " wzbogacać",
+        "sentPol": " Czytanie może wzbogacić twoje słownictwo.",
+        "sentEng": " Reading can enrich your vocabulary.",
+        "hidden": "true",
+        "pron": " [ɪnˈrɪtʃ ]"
+    },
+    {
+        "id": "58620",
+        "wordEng": "landmark (noun)",
+        "wordPol": " punkt orientacyjny",
+        "sentPol": " Stary zamek to historyczny punkt orientacyjny.",
+        "sentEng": " The old castle is a historic landmark.",
+        "hidden": "true",
+        "pron": " [ˈlændˌmɑrk]"
+    },
+    {
+        "id": "19625",
+        "wordEng": "contemplate (verb)",
+        "wordPol": " rozważać",
+        "sentPol": " On często rozważa znaczenie sztuki.",
+        "sentEng": " He often contemplates the meaning of art.",
+        "hidden": "true",
+        "pron": " [ˈkɑntəmˌpleɪt ]"
+    },
+    {
+        "id": "35800",
+        "wordEng": "involvement (noun)",
+        "wordPol": " zaangażowanie ",
+        "sentPol": " Jej zaangażowanie w projekcie było istotne.",
+        "sentEng": " Her involvement in the project was significant.",
+        "hidden": "true",
+        "pron": " [ɪnˈvɑlvmənt]"
+    },
+    {
+        "id": "47330",
+        "wordEng": "breakdown (noun)",
+        "wordPol": " awaria, załamanie ",
+        "sentPol": " Awaria komunikacji doprowadziła do zamieszania.",
+        "sentEng": " The breakdown of communication led to confusion.",
+        "hidden": "true",
+        "pron": " [ˈbreɪkˌdaʊn]"
+    },
+    {
+        "id": "26660",
+        "wordEng": "driving (adjective)",
+        "wordPol": " napędzający",
+        "sentPol": " Siła napędowa ruchu była pasją.",
+        "sentEng": " The driving force behind the movement was passion.",
+        "hidden": "true",
+        "pron": " [ˈdraɪvɪŋ]"
+    },
+    {
+        "id": "49318",
+        "wordEng": "endorsement (noun)",
+        "wordPol": " poparcie, aprobata",
+        "sentPol": " Poparcie sławnej osoby zwiększyło sprzedaż.",
+        "sentEng": " The celebrity's endorsement boosted sales.",
+        "hidden": "true",
+        "pron": " [ɪnˈdɔrsmənt]"
+    },
+    {
+        "id": "54001",
+        "wordEng": "cooperative (adjective)",
+        "wordPol": " współpracujący",
+        "sentPol": " Członkowie zespołu byli bardzo współpracujący.",
+        "sentEng": " The team members were very cooperative.",
+        "hidden": "true",
+        "pron": " [koʊˈɑpərətɪv]"
+    },
+    {
+        "id": "68637",
+        "wordEng": "reliability (noun)",
+        "wordPol": " niezawodność",
+        "sentPol": " Niezawodność systemu była kluczowa.",
+        "sentEng": " The reliability of the system was crucial.",
+        "hidden": "true",
+        "pron": " [rɪˌlaɪəˈbɪləti]"
+    },
+    {
+        "id": "47126",
+        "wordEng": "electoral (adjective)",
+        "wordPol": " wyborczy",
+        "sentPol": " Proces wyborczy był przejrzysty i sprawiedliwy.",
+        "sentEng": " The electoral process was transparent and fair.",
+        "hidden": "true",
+        "pron": " [ˌɪˌlɛkˈtɔrəl ]"
+    },
+    {
+        "id": "22808",
+        "wordEng": "courtesy (noun)",
+        "wordPol": " uprzejmość",
+        "sentPol": " Przywitał ich uśmiechem i uprzejmością.",
+        "sentEng": " He greeted them with a smile and a courtesy.",
+        "hidden": "true",
+        "pron": " [ˈkɜr·tə·si]"
+    },
+    {
+        "id": "64113",
+        "wordEng": "yield (verb)",
+        "wordPol": " dawać, ustępować",
+        "sentPol": " Eksperyment przyniesie cenne wyniki.",
+        "sentEng": " The experiment will yield valuable results.",
+        "hidden": "true",
+        "pron": " [jild]"
+    },
+    {
+        "id": "75003",
+        "wordEng": "conviction (noun)",
+        "wordPol": " przekonanie",
+        "sentPol": " Jej przekonanie w swoje przekonania było niezachwiane.",
+        "sentEng": " Her conviction in her beliefs was unwavering.",
+        "hidden": "true",
+        "pron": " [kənˈvɪkʃən]"
+    },
+    {
+        "id": "10119",
+        "wordEng": "inspect (verb)",
+        "wordPol": " kontrolować, badać",
+        "sentPol": " Inspektor sprawdzi fabrykę pod kątem zgodności z normami bezpieczeństwa.",
+        "sentEng": " The inspector will inspect the factory for safety compliance.",
+        "hidden": "true",
+        "pron": " [ɪnˈspɛkt]"
+    },
+    {
+        "id": "14623",
+        "wordEng": "forth (adverb)",
+        "wordPol": " naprzód, dalej",
+        "sentPol": " Wyszedł naprzód, aby przedstawić swoją propozycję.",
+        "sentEng": " He stepped forth to present his proposal.",
+        "hidden": "true",
+        "pron": " [fɔrθ]"
+    },
+    {
+        "id": "2376",
+        "wordEng": "terrific (adjective)",
+        "wordPol": " świetny, niesamowity",
+        "sentPol": " Impreza odniosła niesamowity sukces.",
+        "sentEng": " The party was a terrific success.",
+        "hidden": "true",
+        "pron": " [təˈrɪfɪk]"
+    },
+    {
+        "id": "62448",
+        "wordEng": "twist (noun)",
+        "wordPol": " skręt, zwrot",
+        "sentPol": " Historia miała niespodziewany zwrot akcji.",
+        "sentEng": " The story had an unexpected twist.",
+        "hidden": "true",
+        "pron": " [twɪst]"
+    },
+    {
+        "id": "5639",
+        "wordEng": "enact (verb)",
+        "wordPol": " uchwalać, wcielać w życie",
+        "sentPol": " Rząd planuje uchwalić nowe przepisy.",
+        "sentEng": " The government plans to enact new regulations.",
+        "hidden": "true",
+        "pron": " [ɪˈnækt]"
+    },
+    {
+        "id": "44255",
+        "wordEng": "explicit (adjective)",
+        "wordPol": " jasny, wyraźny",
+        "sentPol": " Jej instrukcje były jasne i łatwe do zastosowania.",
+        "sentEng": " Her instructions were explicit and easy to follow.",
+        "hidden": "true",
+        "pron": " [ɪkˈsplɪsɪt]"
+    },
+    {
+        "id": "38260",
+        "wordEng": "whilst (conjunction)",
+        "wordPol": " podczas gdy, w czasie",
+        "sentPol": " On uczył się podczas pracy na pół etatu.",
+        "sentEng": " He studied whilst working part-time.",
+        "hidden": "true",
+        "pron": " [waɪlst]"
+    },
+    {
+        "id": "12862",
+        "wordEng": "striking (adjective)",
+        "wordPol": " uderzający, imponujący",
+        "sentPol": " Obraz miał uderzające kolory.",
+        "sentEng": " The painting had striking colors.",
+        "hidden": "true",
+        "pron": " [ˈstraɪkɪŋ]"
+    },
+    {
+        "id": "27872",
+        "wordEng": "apparatus (noun)",
+        "wordPol": " urządzenie, aparatura",
+        "sentPol": " Laboratorium miało zaawansowaną aparaturę naukową.",
+        "sentEng": " The laboratory had advanced scientific apparatus.",
+        "hidden": "true",
+        "pron": " [ˌæpəˈrætəs]"
+    },
+    {
+        "id": "48342",
+        "wordEng": "nationwide (adjective)",
+        "wordPol": " ogólnokrajowy ",
+        "sentPol": " Kampania miała ogólnokrajowy wpływ.",
+        "sentEng": " The campaign had a nationwide impact.",
+        "hidden": "true",
+        "pron": " [ˌneɪʃənˈwaɪd ]"
+    },
+    {
+        "id": "21017",
+        "wordEng": "councillor (noun)",
+        "wordPol": " radny",
+        "sentPol": " Radny zaproponował nowy projekt społeczny.",
+        "sentEng": " The councillor proposed a new community project.",
+        "hidden": "true",
+        "pron": " [ˈkaʊnsələr]"
+    },
+    {
+        "id": "81871",
+        "wordEng": "youngster (noun)",
+        "wordPol": " młoda osoba, dziecko",
+        "sentPol": " Młodzi ludzie bawili się w parku.",
+        "sentEng": " The youngsters played in the park.",
+        "hidden": "true",
+        "pron": " [ˈjʌŋstər]"
+    },
+    {
+        "id": "24786",
+        "wordEng": "differentiate (verb)",
+        "wordPol": " rozróżniać, odróżniać",
+        "sentPol": " Ważne jest odróżnienie obu pojęć.",
+        "sentEng": " It's important to differentiate between the two concepts.",
+        "hidden": "true",
+        "pron": " [dɪˌfɛrənʃɪˈeɪt]"
+    },
+    {
+        "id": "27913",
+        "wordEng": "resemble (verb)",
+        "wordPol": " przypominać",
+        "sentPol": " Obraz przypominał piękny pejzaż.",
+        "sentEng": " The painting resembled a beautiful landscape.",
+        "hidden": "true",
+        "pron": " [rɪˈzɛmbəl]"
+    },
+    {
+        "id": "81517",
+        "wordEng": "commence (verb)",
+        "wordPol": " rozpocząć ",
+        "sentPol": " Wydarzenie rozpocznie się o godzinie 9 rano.",
+        "sentEng": " The event will commence at 9 AM.",
+        "hidden": "true",
+        "pron": " [kəˈmɛns ]"
+    },
+    {
+        "id": "73438",
+        "wordEng": "footage (noun)",
+        "wordPol": " nagranie, materiał filmowy",
+        "sentPol": " Wiadomości pokazywały nagrania z wydarzenia.",
+        "sentEng": " The news showed footage of the event.",
+        "hidden": "true",
+        "pron": " [ˈfʊtɪdʒ]"
+    },
+    {
+        "id": "80632",
+        "wordEng": "bulk (noun)",
+        "wordPol": " większa część, masa",
+        "sentPol": " Większa część pracy jest już wykonana.",
+        "sentEng": " The bulk of the work is already done.",
+        "hidden": "true",
+        "pron": " [bʌlk ]"
+    },
+    {
+        "id": "21174",
+        "wordEng": "pond (noun)",
+        "wordPol": " staw",
+        "sentPol": " Dzieci karmiły kaczki w stawie.",
+        "sentEng": " The children fed the ducks in the pond.",
+        "hidden": "true",
+        "pron": " [pɑnd]"
+    },
+    {
+        "id": "73428",
+        "wordEng": "grace (noun)",
+        "wordPol": " wdzięk, łaska ",
+        "sentPol": " Poruszała się z wdziękiem i elegancją.",
+        "sentEng": " She moved with grace and elegance.",
+        "hidden": "true",
+        "pron": " [greɪs]"
+    },
+    {
+        "id": "31177",
+        "wordEng": "guerrilla (noun)",
+        "wordPol": " partyzantka",
+        "sentPol": " Partyzanci działali w odległych obszarach.",
+        "sentEng": " The guerrilla fighters operated in remote areas.",
+        "hidden": "true",
+        "pron": " [gəˈrɪlə]"
+    },
+    {
+        "id": "80442",
+        "wordEng": "missile (noun)",
+        "wordPol": " pocisk",
+        "sentPol": " Start pocisku był udany.",
+        "sentEng": " The missile launch was successful.",
+        "hidden": "true",
+        "pron": " [ˈmɪsəl]"
+    },
+    {
+        "id": "19361",
+        "wordEng": "attribute (verb)",
+        "wordPol": " przypisywać",
+        "sentPol": " Przypisują swój sukces ciężkiej pracy.",
+        "sentEng": " They attribute their success to hard work.",
+        "hidden": "true",
+        "pron": " [əˈtrɪbjuːt]"
+    },
+    {
+        "id": "24916",
+        "wordEng": "minute (adjective)",
+        "wordPol": " mały, drobny",
+        "sentPol": " Zwracaj uwagę nawet na najdrobniejsze detale.",
+        "sentEng": " Pay attention to even the minute details.",
+        "hidden": "true",
+        "pron": " [ˈmɪnɪt]"
+    },
+    {
+        "id": "47877",
+        "wordEng": "preliminary (adjective)",
+        "wordPol": " wstępny",
+        "sentPol": " Zespół przedstawił swoje wstępne wyniki.",
+        "sentEng": " The team presented its preliminary findings.",
+        "hidden": "true",
+        "pron": " [prɪˈlɪˌmɪnəri ]"
+    },
+    {
+        "id": "15109",
+        "wordEng": "counter (verb)",
+        "wordPol": " przeciwdziałać, odpowiadać",
+        "sentPol": " Starała się przeciwdziałać negatywnym skutkom.",
+        "sentEng": " She tried to counter the negative effects.",
+        "hidden": "true",
+        "pron": " [ˈkaʊntər ]"
+    },
+    {
+        "id": "23465",
+        "wordEng": "parish (noun)",
+        "wordPol": " parafia",
+        "sentPol": " Chodzili na niedzielną mszę do kościoła parafialnego.",
+        "sentEng": " They attended the Sunday mass at the parish church.",
+        "hidden": "true",
+        "pron": " [ˈpærɪʃ]"
+    },
+    {
+        "id": "10872",
+        "wordEng": "designate (verb)",
+        "wordPol": " wyznaczać, mianować",
+        "sentPol": " Wyznaczą nowego lidera.",
+        "sentEng": " They will designate a new leader.",
+        "hidden": "true",
+        "pron": " [ˈdɛzɪɡˌneɪt]"
+    },
+    {
+        "id": "62206",
+        "wordEng": "interior (noun)",
+        "wordPol": " wnętrze",
+        "sentPol": " Wnętrze budynku było pięknie udekorowane.",
+        "sentEng": " The interior of the building was beautifully decorated.",
+        "hidden": "true",
+        "pron": " [ɪnˈtɪriər]"
+    },
+    {
+        "id": "45672",
+        "wordEng": "engaging (adjective)",
+        "wordPol": " zajmujący, wciągający",
+        "sentPol": " Książka miała wciągającą fabułę.",
+        "sentEng": " The book had an engaging storyline.",
+        "hidden": "true",
+        "pron": " [ɪnˈɡeɪdʒɪŋ]"
+    },
+    {
+        "id": "13689",
+        "wordEng": "specimen (noun)",
+        "wordPol": " okaz, próbka",
+        "sentPol": " Muzeum prezentowało rzadki okaz motyla.",
+        "sentEng": " The museum displayed a rare specimen of the butterfly.",
+        "hidden": "true",
+        "pron": " [ˈspɛsəmən]"
+    },
+    {
+        "id": "59606",
+        "wordEng": "array (noun)",
+        "wordPol": " szeroki wybór, zestaw",
+        "sentPol": " Sklep miał szeroki wybór produktów.",
+        "sentEng": " The store had a wide array of products.",
+        "hidden": "true",
+        "pron": " [əˈreɪ ]"
+    },
+    {
+        "id": "784",
+        "wordEng": "damaging (adjective)",
+        "wordPol": " szkodliwy",
+        "sentPol": " Burza miała szkodliwy wpływ na plony.",
+        "sentEng": " The storm had a damaging effect on the crops.",
+        "hidden": "true",
+        "pron": " [ˈdæmɪdʒɪŋ]"
+    },
+    {
+        "id": "66316",
+        "wordEng": "virtue (noun)",
+        "wordPol": " cnota",
+        "sentPol": " Jej życzliwość to cnota, którą podziwiają wielu.",
+        "sentEng": " Her kindness is a virtue admired by many.",
+        "hidden": "true",
+        "pron": " [ˈvɜrtʃu ]"
+    },
+    {
+        "id": "15264",
+        "wordEng": "prosperity (noun)",
+        "wordPol": " dobrobyt",
+        "sentPol": " Kraj przeżywał okres dobrobytu gospodarczego.",
+        "sentEng": " The country experienced a period of economic prosperity.",
+        "hidden": "true",
+        "pron": " [prɑˈspɛrəti]"
+    },
+    {
+        "id": "26112",
+        "wordEng": "inherent (adjective)",
+        "wordPol": " wrodzony",
+        "sentPol": " Ciekawość jest wrodzoną cechą ludzką.",
+        "sentEng": " Curiosity is an inherent human trait.",
+        "hidden": "true",
+        "pron": " [ɪnˈhɪrənt]"
+    },
+    {
+        "id": "59471",
+        "wordEng": "suburban (adjective)",
+        "wordPol": " podmiejski ",
+        "sentPol": " Mieszkali w spokojnej dzielnicy podmiejskiej.",
+        "sentEng": " They lived in a quiet suburban neighborhood.",
+        "hidden": "true",
+        "pron": " [səˈbɜrbən]"
+    },
+    {
+        "id": "67251",
+        "wordEng": "lawsuit (noun)",
+        "wordPol": " pozew",
+        "sentPol": " Firma stanęła przed pozwem ze strony swoich byłych pracowników.",
+        "sentEng": " The company faced a lawsuit from its former employees.",
+        "hidden": "true",
+        "pron": " [ˈlɔˌsjuːt]"
+    },
+    {
+        "id": "4799",
+        "wordEng": "novel (adjective)",
+        "wordPol": " nowatorski, nietypowy",
+        "sentPol": " Jej podejście do rozwiązywania problemów było dość nowatorskie.",
+        "sentEng": " Her approach to problem-solving was quite novel.",
+        "hidden": "true",
+        "pron": " [ˈnɑvəl]"
+    },
+    {
+        "id": "20304",
+        "wordEng": "undoubtedly (adverb)",
+        "wordPol": " niewątpliwie",
+        "sentPol": " Odkrycie było niewątpliwie istotne.",
+        "sentEng": " The discovery was undoubtedly significant.",
+        "hidden": "true",
+        "pron": " [ˌʌndəˈdaʊtɪdli]"
+    },
+    {
+        "id": "70178",
+        "wordEng": "assemble (verb)",
+        "wordPol": " montować, zgromadzić",
+        "sentPol": " Oni złożą meble jutro.",
+        "sentEng": " They will assemble the furniture tomorrow.",
+        "hidden": "true",
+        "pron": " [əˈsɛmbəl]"
+    },
+    {
+        "id": "61237",
+        "wordEng": "predominantly (adverb)",
+        "wordPol": " głównie, przeważająco",
+        "sentPol": " Konferencja jest głównie uczęszczana przez naukowców.",
+        "sentEng": " The conference is predominantly attended by scientists.",
+        "hidden": "true",
+        "pron": " [prɪˈdɑmənəntli]"
+    },
+    {
+        "id": "61580",
+        "wordEng": "excellence (noun)",
+        "wordPol": " doskonałość",
+        "sentPol": " Firma dąży do doskonałości w swoich produktach.",
+        "sentEng": " The company strives for excellence in its products.",
+        "hidden": "true",
+        "pron": " [ˈɛksələns]"
+    }
+]

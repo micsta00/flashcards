@@ -1,0 +1,722 @@
+[
+    {
+        "id": "14819",
+        "wordEng": "break up",
+        "wordPol": "zerwać ze sobą",
+        "sentPol": " Postanowili się rozstać po pięciu latach związku. ",
+        "sentEng": " They decided to break up after",
+        "hidden": "true",
+        "pron": "[ breɪk ʌp]"
+    },
+    {
+        "id": "24682",
+        "wordEng": "print out",
+        "wordPol": "wydrukować",
+        "sentPol": " Czy możesz mi wydrukować ten dokument? ",
+        "sentEng": " Could you print out this document for me? ",
+        "hidden": "true",
+        "pron": "[ prɪnt aʊt]"
+    },
+    {
+        "id": "51358",
+        "wordEng": "go off",
+        "wordPol": "wybuchnąć (bomba)",
+        "sentPol": " Alarm nagle zadzwonił.",
+        "sentEng": " The alarm went off suddenly.",
+        "hidden": "true",
+        "pron": "[ ɡoʊ ɒf ]"
+    },
+    {
+        "id": "27920",
+        "wordEng": "base on",
+        "wordPol": "bazować na, operać się na czymś",
+        "sentPol": " Film oparty jest na prawdziwej historii. ",
+        "sentEng": " The movie is based on a true story.",
+        "hidden": "true",
+        "pron": "[ beɪs ɒn]"
+    },
+    {
+        "id": "70099",
+        "wordEng": "stand back",
+        "wordPol": "odsunąć się",
+        "sentPol": " Odsuń się, fajerwerki zaraz się zaczną. ",
+        "sentEng": " Stand back, the fireworks are about to start. ",
+        "hidden": "true",
+        "pron": "[ stænd ˈbæk ]"
+    },
+    {
+        "id": "68005",
+        "wordEng": "look down on / look up to somebody",
+        "wordPol": "patrzeć na kogoś z góry z pogardą / inspirować się kimś",
+        "sentPol": " Nie patrz z góry na innych tylko dlatego, że są inni. ",
+        "sentEng": " Don't look down on others just because they're different.",
+        "hidden": "true",
+        "pron": "[ lʊk daʊn ɒn / lʊk ʌp tu ˈsʌmbədi ]"
+    },
+    {
+        "id": "95122",
+        "wordEng": "close down",
+        "wordPol": "zamykać, likwidować (sklep, firmę)",
+        "sentPol": " Restauracja musiała zamknąć ze względu na brak klientów. ",
+        "sentEng": " The restaurant had to close down ",
+        "hidden": "true",
+        "pron": "[ kləʊz daʊn ]"
+    },
+    {
+        "id": "94442",
+        "wordEng": "give somebody away",
+        "wordPol": "wydać, zdradzić kogoś",
+        "sentPol": " Ona wydała swojego brata władzom. ",
+        "sentEng": " She gave her brother away to the",
+        "hidden": "true",
+        "pron": "[ ɡɪv ˈsʌmbədi əˈweɪ ]"
+    },
+    {
+        "id": "85718",
+        "wordEng": "go ahead",
+        "wordPol": "zacząć (przed kimś innym)",
+        "sentPol": " Śmiało, zadaj swoje pytanie.",
+        "sentEng": " Go ahead and ask your question. ",
+        "hidden": "true",
+        "pron": "[ ɡoʊ əˈhed]"
+    },
+    {
+        "id": "87412",
+        "wordEng": "talk into",
+        "wordPol": "namówić kogoś, przekonać do czegoś",
+        "sentPol": " Namówiłem ją, żeby dołączyła do klubu. ",
+        "sentEng": " I talked her into joining the club.",
+        "hidden": "true",
+        "pron": "[ tɔk ˈɪntuː]"
+    },
+    {
+        "id": "98080",
+        "wordEng": "come from",
+        "wordPol": "pochodzić skądś",
+        "sentPol": " Ona pochodzi z małej wioski.",
+        "sentEng": " She comes from a small village. ",
+        "hidden": "true",
+        "pron": "[ kʌm frɒm]"
+    },
+    {
+        "id": "70722",
+        "wordEng": "break out",
+        "wordPol": "uciec z więzienia, wybuchnąć (wojna)",
+        "sentPol": " Wybuchła walka na koncercie.",
+        "sentEng": " A fight broke out at the",
+        "hidden": "true",
+        "pron": "[ breɪk aʊt]"
+    },
+    {
+        "id": "68747",
+        "wordEng": "throw in",
+        "wordPol": "dorzucić dodatkowo, wrzucić",
+        "sentPol": " Dorzucę darmowy prezent do twojego zakupu.",
+        "sentEng": " I'll throw in a free gift with your purchase.",
+        "hidden": "true",
+        "pron": "[ θroʊ ɪn]"
+    },
+    {
+        "id": "63222",
+        "wordEng": "make for",
+        "wordPol": "iść w jakimś kierunku",
+        "sentPol": " Ten szlak prowadzi do świetnej ścieżki wędrownej.",
+        "sentEng": " The path makes for a great hiking trail.",
+        "hidden": "true",
+        "pron": "[ meɪk fɔːr]"
+    },
+    {
+        "id": "38965",
+        "wordEng": "boss around",
+        "wordPol": "dyrygować kimś, rządzić",
+        "sentPol": " Zawsze próbuje mną rządzić.",
+        "sentEng": " He always tries to boss me around.",
+        "hidden": "true",
+        "pron": "[ bɒs əˈraʊnd ]"
+    },
+    {
+        "id": "70700",
+        "wordEng": "pin down",
+        "wordPol": "przyszpilić",
+        "sentPol": " Musimy dokładnie określić datę.",
+        "sentEng": " We need to pin down the exact date.",
+        "hidden": "true",
+        "pron": "[ pɪn daʊn]"
+    },
+    {
+        "id": "14917",
+        "wordEng": "get on (the bus) / get in (the car) – get off",
+        "wordPol": "wsiadać – wysiadać",
+        "sentPol": " Wsiądź do autobusu, a potem wysiądź na trzeciej przystanku. ",
+        "sentEng": " Get on the bus and then get off",
+        "hidden": "true",
+        "pron": "[ ɡet ɒn (ðə bʌs) / ɡet ɪn (ðə kɑːr) – ɡet ɒf ]"
+    },
+    {
+        "id": "67499",
+        "wordEng": "throw away",
+        "wordPol": "wyrzucić",
+        "sentPol": " Nie wyrzucaj tej pudełka, potrzebuję go.",
+        "sentEng": " Don't throw away that box, I need it.",
+        "hidden": "true",
+        "pron": "[ θroʊ əˈweɪ]"
+    },
+    {
+        "id": "23526",
+        "wordEng": "kick off",
+        "wordPol": "zacząć mecz / zrzucić buty kopniakiem ze stóp",
+        "sentPol": " Mecz rozpocznie się o 15:00. ",
+        "sentEng": " The game will kick off at 3 PM.",
+        "hidden": "true",
+        "pron": "[ kɪk ɒf]"
+    },
+    {
+        "id": "92859",
+        "wordEng": "put sth off",
+        "wordPol": "przełożyć na później",
+        "sentPol": " Musieliśmy przełożyć spotkanie na przyszły tydzień. ",
+        "sentEng": " We had to put off the meeting until next week.",
+        "hidden": "true",
+        "pron": "[ pʊt sth ɒf ]"
+    },
+    {
+        "id": "87497",
+        "wordEng": "stay over / sleep over",
+        "wordPol": "zostać na noc",
+        "sentPol": " Czy mogę przenocować u ciebie dziś?",
+        "sentEng": " Can I stay over at your place tonight? ",
+        "hidden": "true",
+        "pron": "[ steɪ ˈoʊvər / sliːp ˈoʊvər ]"
+    },
+    {
+        "id": "73545",
+        "wordEng": "nose about / nose around",
+        "wordPol": "węszyć, szukać",
+        "sentPol": " On zawsze węszy w cudzych sprawach.",
+        "sentEng": " He's always nosing about in other people's business. ",
+        "hidden": "true",
+        "pron": "[ noʊz əˈbaʊt / noʊz əˈraʊnd ]"
+    },
+    {
+        "id": "81038",
+        "wordEng": "grow apart",
+        "wordPol": "oddalać się od siebie (w relacji)",
+        "sentPol": " Z biegiem lat oddalili się od siebie. ",
+        "sentEng": " Over the years, they grew apart ",
+        "hidden": "true",
+        "pron": "[ ɡroʊ əˈpɑːrt]"
+    },
+    {
+        "id": "42480",
+        "wordEng": "cut back on sth (US) = cut down on something (UK)",
+        "wordPol": "ograniczyć (spożycie)",
+        "sentPol": " Muszę ograniczyć spożycie cukru.",
+        "sentEng": " I need to cut back on sugar.",
+        "hidden": "true",
+        "pron": "[ kʌt bæk ɒn sʌmθ / kʌt daʊn ɒn ˈsʌmθɪŋ ]"
+    },
+    {
+        "id": "63979",
+        "wordEng": "hold back",
+        "wordPol": "zatrzymywać, powstrzymywać",
+        "sentPol": " Nie mogła powstrzymać łez.",
+        "sentEng": " She couldn't hold back her tears.",
+        "hidden": "true",
+        "pron": "[ hoʊld bæk]"
+    },
+    {
+        "id": "53472",
+        "wordEng": "put up with",
+        "wordPol": "znosić, tolerować",
+        "sentPol": " Nie mogę dłużej znosić jego zachowania. ",
+        "sentEng": " I can't put up with his behavior anymore.",
+        "hidden": "true",
+        "pron": "[ pʊt ʌp wɪð ]"
+    },
+    {
+        "id": "36947",
+        "wordEng": "ask around",
+        "wordPol": "rozpytywać",
+        "sentPol": " Zapytam się wokół i zobaczę, czy ktoś widział twój portfel. ",
+        "sentEng": " I'll ask around and see if anyone",
+        "hidden": "true",
+        "pron": "[ æsk əˈraʊnd ]"
+    },
+    {
+        "id": "12580",
+        "wordEng": "turn on / turn off",
+        "wordPol": "włączyć / wyłączyć",
+        "sentPol": " Nie zapomnij wyłączyć światła. ",
+        "sentEng": " Don't forget to turn off the lights.",
+        "hidden": "true",
+        "pron": "[ tɜrn ɒn / tɜrn ɔf]"
+    },
+    {
+        "id": "74846",
+        "wordEng": "care for",
+        "wordPol": "opiekować się, troszczyć się",
+        "sentPol": " Opiekuje się swoją chorą matką.",
+        "sentEng": " She cares for her sick mother.",
+        "hidden": "true",
+        "pron": "[ keə fɔː]"
+    },
+    {
+        "id": "47105",
+        "wordEng": "work out",
+        "wordPol": "ćwiczyć na siłowni / znaleźć rozwiązanie problemu",
+        "sentPol": " Lubię ćwiczyć na siłowni. ",
+        "sentEng": " I like to work out at the gym. ",
+        "hidden": "true",
+        "pron": "[ wɜrk aʊt ]"
+    },
+    {
+        "id": "95219",
+        "wordEng": "round up / round down",
+        "wordPol": "zaokrąglać w górę / w dół",
+        "sentPol": " Zaokrąglić sumę do najbliższego dolara w górę.",
+        "sentEng": " You can round up the total to the nearest dollar.",
+        "hidden": "true",
+        "pron": "[ raʊnd ʌp / raʊnd daʊn ]"
+    },
+    {
+        "id": "90382",
+        "wordEng": "call for",
+        "wordPol": "wymagać czegoś, być dobrą okazją do",
+        "sentPol": " Sytuacja wymaga natychmiastowej interwencji. ",
+        "sentEng": " The situation calls for immediate",
+        "hidden": "true",
+        "pron": "[ kɔːl fɔː]"
+    },
+    {
+        "id": "61754",
+        "wordEng": "fade away / fade out",
+        "wordPol": "zanikać, blednąć",
+        "sentPol": " Wspomnienia tamtego lata powoli zanikają. ",
+        "sentEng": " The memories of that summer ",
+        "hidden": "true",
+        "pron": "[ feɪd əˈweɪ / feɪd aʊt ]"
+    },
+    {
+        "id": "32664",
+        "wordEng": "opt for something / opt to do something",
+        "wordPol": "optować za czymś / zdecydować się coś zrobić",
+        "sentPol": " Oni zdecydowali się na bardziej zrównoważony tryb życia. ",
+        "sentEng": " They decided to opt for a more sustainable lifestyle. ",
+        "hidden": "true",
+        "pron": "[ ɒpt fɔːr ˈsʌmθɪŋ / ɒpt tu dʊ ˈsʌmθɪŋ ]"
+    },
+    {
+        "id": "79666",
+        "wordEng": "look into",
+        "wordPol": "badać sprawę",
+        "sentPol": " Musimy się przyjrzeć dokładniej tej kwestii. ",
+        "sentEng": " We need to look into this issue. ",
+        "hidden": "true",
+        "pron": "[ lʊk ˈɪntu]"
+    },
+    {
+        "id": "94957",
+        "wordEng": "belong to",
+        "wordPol": "należeć do",
+        "sentPol": " Ta książka należy do mojej siostry. ",
+        "sentEng": " This book belongs to my sister. ",
+        "hidden": "true",
+        "pron": "[ bɪˈlɒŋ tuː ]"
+    },
+    {
+        "id": "62477",
+        "wordEng": "stay up",
+        "wordPol": "nie kłaść się spać",
+        "sentPol": " Nie kładłem się spać późno oglądając film.",
+        "sentEng": " I stayed up late watching a movie. ",
+        "hidden": "true",
+        "pron": "[ steɪ ʌp]"
+    },
+    {
+        "id": "20157",
+        "wordEng": "add up",
+        "wordPol": "sumować",
+        "sentPol": " Te liczby się nie zgadzają. ",
+        "sentEng": " These numbers don't add up. ",
+        "hidden": "true",
+        "pron": "[ æd ʌp]"
+    },
+    {
+        "id": "63911",
+        "wordEng": "figure out",
+        "wordPol": "rozkminić, zorientować się, zrozumieć",
+        "sentPol": " Muszę rozgryźć ten zagadkowy łamigłówkę. ",
+        "sentEng": " I need to figure out this puzzle.",
+        "hidden": "true",
+        "pron": "[ ˈfɪɡər aʊt ]"
+    },
+    {
+        "id": "16241",
+        "wordEng": "cut off",
+        "wordPol": "odciąć",
+        "sentPol": " Rozmowa telefoniczna została nagle przerwana. ",
+        "sentEng": " The phone call was suddenly cut off. ",
+        "hidden": "true",
+        "pron": "[ kʌt ɒf ]"
+    },
+    {
+        "id": "47219",
+        "wordEng": "drop by",
+        "wordPol": "odwiedzić kogoś przy okazji",
+        "sentPol": " Śmiało wpadnij do mojego biura, kiedykolwiek chcesz. ",
+        "sentEng": " Feel free to drop by my office",
+        "hidden": "true",
+        "pron": "[ drɒp baɪ]"
+    },
+    {
+        "id": "93495",
+        "wordEng": "pay off",
+        "wordPol": "spłacić",
+        "sentPol": " Wszystka jej ciężka praca w końcu opłaciła się.",
+        "sentEng": " All her hard work finally paid off. ",
+        "hidden": "true",
+        "pron": "[ peɪ ɒf]"
+    },
+    {
+        "id": "33852",
+        "wordEng": "set off",
+        "wordPol": "wyruszyć w drogę",
+        "sentPol": " Wyruszymy wcześnie jutro rano.",
+        "sentEng": " We'll set off early tomorrow morning.",
+        "hidden": "true",
+        "pron": "[ sɛt ɔːf]"
+    },
+    {
+        "id": "16822",
+        "wordEng": "put back",
+        "wordPol": "odłożyć na miejsce / cofnąć wskazówki zegara",
+        "sentPol": " Odłóż książki tam, gdzie je znalazłeś.",
+        "sentEng": " Put back the books where you found them.",
+        "hidden": "true",
+        "pron": "[ pʊt bæk]"
+    },
+    {
+        "id": "43147",
+        "wordEng": "give up",
+        "wordPol": "poddać się, zrezygnować",
+        "sentPol": " Nie poddawaj się swoim marzeniom. ",
+        "sentEng": " Don't give up on your dreams.",
+        "hidden": "true",
+        "pron": "[ ɡɪv ʌp ]"
+    },
+    {
+        "id": "26876",
+        "wordEng": "piss off",
+        "wordPol": "wkurzać kogoś",
+        "sentPol": " Jego niegrzeczne uwagi naprawdę mnie wkurzyły. ",
+        "sentEng": " His rude comments really pissed me off. ",
+        "hidden": "true",
+        "pron": "[ pɪs ɔf]"
+    },
+    {
+        "id": "18771",
+        "wordEng": "set on doing sth",
+        "wordPol": "postanowić coś zrobić",
+        "sentPol": " Ona jest zdeterminowana, żeby skończyć projekt do piątku. ",
+        "sentEng": " She's set on finishing the project by Friday.",
+        "hidden": "true",
+        "pron": "[ sɛt ɒn ˈduɪŋ sʌmθɪŋ]"
+    },
+    {
+        "id": "45404",
+        "wordEng": "stand down",
+        "wordPol": "ustąpić ze stanowiska",
+        "sentPol": " Dyrektor generalny zdecydował się zrezygnować po skandalu. ",
+        "sentEng": " The CEO decided to stand down after the scandal.",
+        "hidden": "true",
+        "pron": "[ stænd daʊn ]"
+    },
+    {
+        "id": "21837",
+        "wordEng": "go away",
+        "wordPol": "wyjeżdżać",
+        "sentPol": " Planuję wyjechać na wakacje w przyszłym miesiącu. ",
+        "sentEng": " I'm planning to go away for the ",
+        "hidden": "true",
+        "pron": "[ ɡoʊ əˈweɪ]"
+    },
+    {
+        "id": "39448",
+        "wordEng": "carry on",
+        "wordPol": "kontynuować",
+        "sentPol": " Kontynuuj pracę.",
+        "sentEng": " Carry on with your work.",
+        "hidden": "true",
+        "pron": "[ ˈkæri ɒn]"
+    },
+    {
+        "id": "95499",
+        "wordEng": "get over",
+        "wordPol": "przejść do porządku dziennego, pogodzić się z czymś / znaleźć rozwiązanie",
+        "sentPol": " Zajęło jej trochę czasu, żeby dojść do siebie po rozwodzie. ",
+        "sentEng": " It took her a while to get over",
+        "hidden": "true",
+        "pron": "[ ɡet ˈoʊvər ]"
+    },
+    {
+        "id": "22609",
+        "wordEng": "pay back",
+        "wordPol": "oddać dług",
+        "sentPol": " Oddam ci w przyszłym tygodniu.",
+        "sentEng": " I'll pay you back next week.",
+        "hidden": "true",
+        "pron": "[ peɪ bæk ]"
+    },
+    {
+        "id": "45320",
+        "wordEng": "wash up",
+        "wordPol": "zmywać",
+        "sentPol": " Umyję się po kolacji. ",
+        "sentEng": " I'll wash up after dinner. ",
+        "hidden": "true",
+        "pron": "[ wɒʃ ʌp]"
+    },
+    {
+        "id": "16229",
+        "wordEng": "look out",
+        "wordPol": "uważać na niebezpieczeństwo",
+        "sentPol": " Uważaj na śliską podłogę.",
+        "sentEng": " Look out for the slippery floor.",
+        "hidden": "true",
+        "pron": "[ lʊk aʊt]"
+    },
+    {
+        "id": "94826",
+        "wordEng": "hurry up",
+        "wordPol": "pospiesz się",
+        "sentPol": " Pospiesz się, będziemy spóźnieni!",
+        "sentEng": " Hurry up, we're going to be late!",
+        "hidden": "true",
+        "pron": "[ ˈhʌri ʌp]"
+    },
+    {
+        "id": "74445",
+        "wordEng": "call back",
+        "wordPol": "oddzwonić",
+        "sentPol": " Oddzwonię do ciebie, jak tylko skończę rozmowę. ",
+        "sentEng": " I'll call you back as soon as I ",
+        "hidden": "true",
+        "pron": "[ kɔːl bæk]"
+    },
+    {
+        "id": "36217",
+        "wordEng": "zoom in / zoom out",
+        "wordPol": "przybliżyć / oddalić w obiektywie",
+        "sentPol": " Możesz przybliżać i oddalać za pomocą touchpada.",
+        "sentEng": " You can zoom in and out using the touchpad. ",
+        "hidden": "true",
+        "pron": "[ zum ɪn / zum aʊt ]"
+    },
+    {
+        "id": "56040",
+        "wordEng": "fall behind",
+        "wordPol": "zostawać z tyłu (z postępami w pracy)",
+        "sentPol": " Nie zostawaj w tyle ze swoją nauką. ",
+        "sentEng": " Don't fall behind in your studies.",
+        "hidden": "true",
+        "pron": "[ fɔːl bɪˈhaɪnd]"
+    },
+    {
+        "id": "26045",
+        "wordEng": "mess with sb",
+        "wordPol": "zadzierać z kimś",
+        "sentPol": " Nie chcesz zadzierać z nim, on jest twardzielem. ",
+        "sentEng": " You don't want to mess with him, he's a tough guy. ",
+        "hidden": "true",
+        "pron": "[ mɛs wɪð sb ]"
+    },
+    {
+        "id": "42103",
+        "wordEng": "drop off",
+        "wordPol": "wysadzić kogoś (z auta)",
+        "sentPol": " Podwiozę cię na lotnisko.",
+        "sentEng": " I'll drop you off at the airport.",
+        "hidden": "true",
+        "pron": "[ drɒp ɒf]"
+    },
+    {
+        "id": "69411",
+        "wordEng": "wake up",
+        "wordPol": "(o)budzić się",
+        "sentPol": " Zazwyczaj budzę się o 7 rano. ",
+        "sentEng": " I usually wake up at 7 AM.",
+        "hidden": "true",
+        "pron": "[ weɪk ʌp]"
+    },
+    {
+        "id": "25594",
+        "wordEng": "find out sth",
+        "wordPol": "odkryć, zorientować się",
+        "sentPol": " Muszę dowiedzieć się więcej o tej kwestii. ",
+        "sentEng": " I need to find out more about",
+        "hidden": "true",
+        "pron": "[ faɪnd aʊt sʌmθɪŋ]"
+    },
+    {
+        "id": "18485",
+        "wordEng": "come out (turn out)",
+        "wordPol": "wyjść na jaw, okazać się",
+        "sentPol": " Nowa książka ukaże się w przyszłym miesiącu. ",
+        "sentEng": " The new book will come out next ",
+        "hidden": "true",
+        "pron": "[ kʌm aʊt (tɜːn aʊt) ]"
+    },
+    {
+        "id": "26534",
+        "wordEng": "run into",
+        "wordPol": "spotkać kogoś przypadkiem, natrafić",
+        "sentPol": " Wpadłem na Sarę w sklepie spożywczym. ",
+        "sentEng": " I ran into Sarah at the grocery store.",
+        "hidden": "true",
+        "pron": "[ rʌn ˈɪntu]"
+    },
+    {
+        "id": "62495",
+        "wordEng": "fit in",
+        "wordPol": "wpasować, dopasować (się)",
+        "sentPol": " Mam nadzieję, że zmieszczę się w tej sukience.",
+        "sentEng": " I hope I can fit in this dress. ",
+        "hidden": "true",
+        "pron": "[ fɪt ɪn ]"
+    },
+    {
+        "id": "84422",
+        "wordEng": "zip up",
+        "wordPol": "zapiąć zamek błyskawiczny",
+        "sentPol": " Czy możesz mi pomóc zapiąć sukienkę?",
+        "sentEng": " Can you help me zip up my dress?",
+        "hidden": "true",
+        "pron": "[ zɪp ʌp]"
+    },
+    {
+        "id": "97691",
+        "wordEng": "look forward to",
+        "wordPol": "cieszyć się na coś",
+        "sentPol": " Nie mogę się doczekać naszych wakacji.",
+        "sentEng": " I look forward to our vacation.",
+        "hidden": "true",
+        "pron": "[ lʊk ˈfɔːrwərd tu]"
+    },
+    {
+        "id": "25576",
+        "wordEng": "watch out",
+        "wordPol": "uważać, strzec się",
+        "sentPol": " Uważaj na oblodzone fragmenty drogi.",
+        "sentEng": " Watch out for the icy patches on the road.",
+        "hidden": "true",
+        "pron": "[ wɒʧ aʊt]"
+    },
+    {
+        "id": "79921",
+        "wordEng": "fill in / fill up",
+        "wordPol": "wypełnić / nalać po brzeg",
+        "sentPol": " Czy mógłbyś wypełnić ten formularz? ",
+        "sentEng": " Could you fill in this form,",
+        "hidden": "true",
+        "pron": "[ fɪl ɪn / fɪl ʌp]"
+    },
+    {
+        "id": "25125",
+        "wordEng": "bring up",
+        "wordPol": "wywchowywać",
+        "sentPol": " Ona została wychowana przez swoją babcię. ",
+        "sentEng": " She was brought up by her",
+        "hidden": "true",
+        "pron": "[ brɪŋ ʌp]"
+    },
+    {
+        "id": "28672",
+        "wordEng": "stay in / stay out",
+        "wordPol": "zostać w domu / nie wracać do domu",
+        "sentPol": " Czy zostaniesz dzisiaj w domu?",
+        "sentEng": " Are you going to stay in tonight?",
+        "hidden": "true",
+        "pron": "[ steɪ ɪn / steɪ aʊt]"
+    },
+    {
+        "id": "11406",
+        "wordEng": "hold on",
+        "wordPol": "zaczekać, powstrzymać się",
+        "sentPol": " Poczekaj chwilę, zaraz tam będę. ",
+        "sentEng": " Hold on a second, I'll be right there. ",
+        "hidden": "true",
+        "pron": "[ hoʊld ɒn]"
+    },
+    {
+        "id": "92793",
+        "wordEng": "move in / move out",
+        "wordPol": "wprowadzić się / wyprowadzić się z mieszkania",
+        "sentPol": " Oni zamierzają wprowadzić się w przyszłym miesiącu. ",
+        "sentEng": " They're going to move in next month.",
+        "hidden": "true",
+        "pron": "[ muːv ɪn / muːv aʊt ]"
+    },
+    {
+        "id": "40473",
+        "wordEng": "rule something out",
+        "wordPol": "wykluczyć coś (jakąś możliwość)",
+        "sentPol": " Nie możemy wykluczyć możliwości deszczu.",
+        "sentEng": " We can't rule out the possibility of rain.",
+        "hidden": "true",
+        "pron": "[ ruːl ˈsʌmθɪŋ aʊt]"
+    },
+    {
+        "id": "62749",
+        "wordEng": "get away with (murder)",
+        "wordPol": "wywinąć się, uniknąć odpowiedzialności (za morderstwo)",
+        "sentPol": " On zawsze unika kary za swoje przewinienia. ",
+        "sentEng": " He always gets away with his",
+        "hidden": "true",
+        "pron": "[ ɡet əˈweɪ wɪð (ˈmɜːrdər) ]"
+    },
+    {
+        "id": "62817",
+        "wordEng": "keep away from",
+        "wordPol": "trzymać z dala od (dzieci)",
+        "sentPol": " Trzymaj się z dala od tego psa, jest agresywny.",
+        "sentEng": " Keep away from that dog, it's aggressive. ",
+        "hidden": "true",
+        "pron": "[ kiːp əˈweɪ frɒm ]"
+    },
+    {
+        "id": "56335",
+        "wordEng": "touch down",
+        "wordPol": "wylądować (samolot)",
+        "sentPol": " Samolot zaraz wyląduje.",
+        "sentEng": " The plane is about to touch down.",
+        "hidden": "true",
+        "pron": "[ tʌʧ daʊn ]"
+    },
+    {
+        "id": "25214",
+        "wordEng": "bump into",
+        "wordPol": "wpaść na kogoś, spotkać",
+        "sentPol": " Zgadnij, na kogo wpadłem na ulicy. ",
+        "sentEng": " Guess who I bumped into at the",
+        "hidden": "true",
+        "pron": "[ bʌmp ˈɪntu ]"
+    },
+    {
+        "id": "12345",
+        "wordEng": "act up",
+        "wordPol": "źle się zachowywać (o dziecku)",
+        "sentPol": " Komputer ma tendencję do psucia się w najmniej odpowiednich momentach. ",
+        "sentEng": " The computer tends to act up in ",
+        "hidden": "true",
+        "pron": "[ ækt ʌp ]"
+    },
+    {
+        "id": "33626",
+        "wordEng": "knock down",
+        "wordPol": "powalić, potrącić autem",
+        "sentPol": " Burza zburzyła kilka drzew.",
+        "sentEng": " The storm knocked down several trees.",
+        "hidden": "true",
+        "pron": "[ nɒk daʊn]"
+    }
+]

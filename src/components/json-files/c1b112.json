@@ -1,0 +1,1010 @@
+[
+    {
+        "id": "27600",
+        "wordEng": "recipient (noun)  ",
+        "wordPol": " odbiorca",
+        "sentPol": " Ona byla odbiorczynia nagrody.",
+        "sentEng": " She was the recipient of the award.",
+        "hidden": "true",
+        "pron": "[ rɪˈsɪpiənt]"
+    },
+    {
+        "id": "7049",
+        "wordEng": "newsletter (noun)  ",
+        "wordPol": " biuletyn, gazetka ",
+        "sentPol": " Zapisalem sie na ich cotygodniowy biuletyn.",
+        "sentEng": " I signed up for their weekly newsletter.",
+        "hidden": "true",
+        "pron": "[ ˈnjuːzˌlɛtər ]"
+    },
+    {
+        "id": "23666",
+        "wordEng": "upgrade (noun)  ",
+        "wordPol": " aktualizacja, ulepszenie",
+        "sentPol": " Aktualizacja oprogramowania poprawila wydajnosc.",
+        "sentEng": " The software upgrade improved performance.",
+        "hidden": "true",
+        "pron": "[ ʌpˈɡreɪd ]"
+    },
+    {
+        "id": "72414",
+        "wordEng": "disclose (verb)  ",
+        "wordPol": " ujawniac, wyjawiac",
+        "sentPol": " On odmowil ujawnienia poufnych informacji.",
+        "sentEng": " He refused to disclose the confidential information.",
+        "hidden": "true",
+        "pron": "[ dɪˈskloʊz ]"
+    },
+    {
+        "id": "42454",
+        "wordEng": "counterpart (noun)  ",
+        "wordPol": " odpowiednik",
+        "sentPol": " Spotkala sie z jej zagranicznym odpowiednikiem, aby omowic umowe.",
+        "sentEng": " She met with her foreign counterpart to discuss the agreement.",
+        "hidden": "true",
+        "pron": "[ ˈkaʊntərˌpɑrt]"
+    },
+    {
+        "id": "53592",
+        "wordEng": "vow (verb)  ",
+        "wordPol": " przysiegac, przyrzekac",
+        "sentPol": " Oni przysiegli sobie nawzajem wsparcie.",
+        "sentEng": " They vowed to support each other.",
+        "hidden": "true",
+        "pron": "[ vaʊ ]"
+    },
+    {
+        "id": "1370",
+        "wordEng": "coalition (noun)  ",
+        "wordPol": " koalicja",
+        "sentPol": " Partie polityczne utworzyly koalicje.",
+        "sentEng": " The political parties formed a coalition.",
+        "hidden": "true",
+        "pron": "[ ˌkoʊəˈlɪʃən ]"
+    },
+    {
+        "id": "58048",
+        "wordEng": "hatred (noun)  ",
+        "wordPol": " nienawisc",
+        "sentPol": " Konflikt byl podsycony gleboko zakorzeniona nienawiscia.",
+        "sentEng": " The conflict was fueled by deep-seated hatred.",
+        "hidden": "true",
+        "pron": "[ ˈheɪtrɪd ]"
+    },
+    {
+        "id": "21272",
+        "wordEng": "quota (noun)  ",
+        "wordPol": " kontyngent,kwota, limit ",
+        "sentPol": " Kraj osiagnal limit importu na rok.",
+        "sentEng": " The country has reached its import quota for the year.",
+        "hidden": "true",
+        "pron": "[ ˈkwoʊtə ]"
+    },
+    {
+        "id": "30215",
+        "wordEng": "hostility (noun)  ",
+        "wordPol": " wrogosc ",
+        "sentPol": " Napiecie miedzy dwiema grupami skutkowalo wrogoscia.",
+        "sentEng": " The tension between the two groups resulted in hostility.",
+        "hidden": "true",
+        "pron": "[ hɑˈstɪləti ]"
+    },
+    {
+        "id": "4623",
+        "wordEng": "discharge (verb)  ",
+        "wordPol": " wypis, wydzielanie",
+        "sentPol": " Lekarz wypisal ja ze szpitala.",
+        "sentEng": " The doctor gave her a discharge from the hospital.",
+        "hidden": "true",
+        "pron": "[ dɪsˈʧɑrdʒ ]"
+    },
+    {
+        "id": "4039",
+        "wordEng": "rock (verb)  ",
+        "wordPol": " kolysac, wstrzasnac",
+        "sentPol": " Łodka delikatnie kolysala sie na spokojnej wodzie.",
+        "sentEng": " The boat gently rocked on the calm water.",
+        "hidden": "true",
+        "pron": "[ rɑk]"
+    },
+    {
+        "id": "44096",
+        "wordEng": "municipal (adjective)  ",
+        "wordPol": " miejski, gminny, komunalny",
+        "sentPol": " Wladze gminne sa odpowiedzialne za uslugi lokalne.",
+        "sentEng": " The municipal government is responsible for local services.",
+        "hidden": "true",
+        "pron": "[ mjuːˈnɪsəpəl ]"
+    },
+    {
+        "id": "52651",
+        "wordEng": "disclosure (noun)  ",
+        "wordPol": " ujawnienie, wyjawienie",
+        "sentPol": " Ujawnienie poufnych informacji jest zabronione.",
+        "sentEng": " The disclosure of confidential information is prohibited.",
+        "hidden": "true",
+        "pron": "[ dɪsˈkloʊʒər]"
+    },
+    {
+        "id": "13307",
+        "wordEng": "emergence (noun)  ",
+        "wordPol": " pojawienie sie",
+        "sentPol": " Pojawienie sie nowej technologii przeksztalcilo przemysl.",
+        "sentEng": " The emergence of new technology transformed the industry.",
+        "hidden": "true",
+        "pron": "[ ɪˈmɜrdʒəns ]"
+    },
+    {
+        "id": "28829",
+        "wordEng": "liberation (noun)  ",
+        "wordPol": " wyzwolenie ",
+        "sentPol": " Kraj swietowal swoje wyzwolenie od ucisku.",
+        "sentEng": " The country celebrated its liberation from oppression.",
+        "hidden": "true",
+        "pron": "[ ˌlɪbərˈeɪʃən]"
+    },
+    {
+        "id": "47596",
+        "wordEng": "grasp (verb)  ",
+        "wordPol": " chwycic, zrozumiec",
+        "sentPol": " Ona szybko zrozumiala to pojecie.",
+        "sentEng": " She managed to grasp the concept quickly.",
+        "hidden": "true",
+        "pron": "[ ɡræsp]"
+    },
+    {
+        "id": "26851",
+        "wordEng": "accountable (adjective)  ",
+        "wordPol": " odpowiedzialny",
+        "sentPol": " Menedzerowie sa odpowiedzialni za wyniki zespolu.",
+        "sentEng": " Managers are accountable for the team's performance.",
+        "hidden": "true",
+        "pron": "[ əˈkaʊntəbl]"
+    },
+    {
+        "id": "72677",
+        "wordEng": "guidance (noun)  ",
+        "wordPol": " wskazowki, doradztwo",
+        "sentPol": " Ona udzielila wskazowek, jak ukonczyc projekt.",
+        "sentEng": " She provided guidance on how to complete the project.",
+        "hidden": "true",
+        "pron": "[ ˈɡaɪdns]"
+    },
+    {
+        "id": "25764",
+        "wordEng": "ratio (noun)  ",
+        "wordPol": " stosunek, proporcja",
+        "sentPol": " Stosunek mezczyzn do kobiet w firmie jest prawie rowny.",
+        "sentEng": " The ratio of men to women in the company is nearly equal.",
+        "hidden": "true",
+        "pron": "[ ˈreɪʃioʊ]"
+    },
+    {
+        "id": "33095",
+        "wordEng": "dual (adjective)  ",
+        "wordPol": " podwojny, dwustronny",
+        "sentPol": " Smartfon ma podwojny system aparatu fotograficznego.",
+        "sentEng": " The smartphone has a dual camera system.",
+        "hidden": "true",
+        "pron": "[ duəl]"
+    },
+    {
+        "id": "64747",
+        "wordEng": "tighten (verb)  ",
+        "wordPol": " zaciesniac, napinac",
+        "sentPol": " Uzyl klucza do zacisniecia srub.",
+        "sentEng": " He used a wrench to tighten the bolts.",
+        "hidden": "true",
+        "pron": "[ ˈtaɪtən]"
+    },
+    {
+        "id": "37157",
+        "wordEng": "submission (noun)  ",
+        "wordPol": " skladanie, poddanie sie",
+        "sentPol": " Skladanie raportu jest planowane na przyszly tydzien.",
+        "sentEng": " The submission of the report is due next week.",
+        "hidden": "true",
+        "pron": "[ səbˈmɪʃən ]"
+    },
+    {
+        "id": "39868",
+        "wordEng": "expenditure (noun)  ",
+        "wordPol": " wydatki ",
+        "sentPol": " Firma przeglada swoje wydatki, aby obnizyc koszty.",
+        "sentEng": " The company is reviewing its expenditure to cut costs.",
+        "hidden": "true",
+        "pron": "[ ɪkˈspɛndɪtʃər ]"
+    },
+    {
+        "id": "25675",
+        "wordEng": "remedy (noun)  ",
+        "wordPol": " srodek zaradczy ",
+        "sentPol": " Lekarz przepisal srodek zaradczy na przeziebienie.",
+        "sentEng": " The doctor prescribed a remedy for the cold.",
+        "hidden": "true",
+        "pron": "[ ˈrɛmədi ]"
+    },
+    {
+        "id": "30368",
+        "wordEng": "beneath (preposition)  ",
+        "wordPol": " pod, ponizej ",
+        "sentPol": " Skarb byl zakopany pod starym drzewem.",
+        "sentEng": " The treasure was buried beneath the old tree.",
+        "hidden": "true",
+        "pron": "[ bɪˈniθ]"
+    },
+    {
+        "id": "54531",
+        "wordEng": "civilian (noun)  ",
+        "wordPol": " cywil",
+        "sentPol": " Miasto zostalo zaatakowane zarowno przez sily wojskowe, jak i cywili.",
+        "sentEng": " The city was attacked by both military forces and civilians.",
+        "hidden": "true",
+        "pron": "[ sɪˈvɪliən ]"
+    },
+    {
+        "id": "39689",
+        "wordEng": "bat (verb)  ",
+        "wordPol": " uderzac, klusak",
+        "sentPol": " On wymachnal kijem i uderzyl pilke poza park.",
+        "sentEng": " He swung the bat and hit the ball out of the park.",
+        "hidden": "true",
+        "pron": "[ bæt ]"
+    },
+    {
+        "id": "57660",
+        "wordEng": "explicitly (adverb)  ",
+        "wordPol": " wyraznie, jawnie",
+        "sentPol": " Instrukcje byly wyraznie podane w instrukcji obslugi.",
+        "sentEng": " The instructions were explicitly stated in the manual.",
+        "hidden": "true",
+        "pron": "[ ɪksˈplɪsətli]"
+    },
+    {
+        "id": "47667",
+        "wordEng": "disruption (noun)  ",
+        "wordPol": " zaklocenie ",
+        "sentPol": " Burza spowodowala zaklocenie dostawy pradu.",
+        "sentEng": " The storm caused a disruption in power supply.",
+        "hidden": "true",
+        "pron": "[ dɪsˈrʌpʃən ]"
+    },
+    {
+        "id": "21790",
+        "wordEng": "trustee (noun)  ",
+        "wordPol": " opiekun, zarzadca",
+        "sentPol": " Opiekun jest odpowiedzialny za zarzadzanie funduszami.",
+        "sentEng": " The trustee is responsible for managing the funds.",
+        "hidden": "true",
+        "pron": "[ trʌsˈti ]"
+    },
+    {
+        "id": "32998",
+        "wordEng": "liberty (noun)  ",
+        "wordPol": " wolnosc, swoboda",
+        "sentPol": " Konstytucja gwarantuje obywatelom wolnosc i swobode.",
+        "sentEng": " The constitution guarantees freedom and liberty to citizens.",
+        "hidden": "true",
+        "pron": "[ ˈlɪbərti ]"
+    },
+    {
+        "id": "32832",
+        "wordEng": "embarrassment (noun)  ",
+        "wordPol": " zazenowanie",
+        "sentPol": " Jej twarz zrobila sie czerwona ze zazenowania.",
+        "sentEng": " Her face turned red with embarrassment.",
+        "hidden": "true",
+        "pron": "[ ɪmˈbærəsmənt ]"
+    },
+    {
+        "id": "8718",
+        "wordEng": "prestigious (adjective)  ",
+        "wordPol": " prestizowy ",
+        "sentPol": " Wydarzenie odbylo sie w prestizowym miejscu.",
+        "sentEng": " The event was held in a prestigious venue.",
+        "hidden": "true",
+        "pron": "[ prɛsˈtiʤəs]"
+    },
+    {
+        "id": "10189",
+        "wordEng": "render (verb)  ",
+        "wordPol": " czynic, sprawiac",
+        "sentPol": " Obraz przekazywal poczucie spokoju.",
+        "sentEng": " The painting rendered a sense of tranquility.",
+        "hidden": "true",
+        "pron": "[ ˈrɛndər ]"
+    },
+    {
+        "id": "40481",
+        "wordEng": "explosive (adjective)  ",
+        "wordPol": " wybuchowy",
+        "sentPol": " Policja znalazla materialy wybuchowe w opuszczonym budynku.",
+        "sentEng": " The police found explosive materials in the abandoned building.",
+        "hidden": "true",
+        "pron": "[ ɪkˈspləʊsɪv]"
+    },
+    {
+        "id": "79338",
+        "wordEng": "socialist (adjective)  ",
+        "wordPol": " socjalistyczny",
+        "sentPol": " On identyfikowal sie jako socjalista i wierzyl w dystrybucje bogactwa.",
+        "sentEng": " He identified as a socialist and believed in wealth distribution.",
+        "hidden": "true",
+        "pron": "[ ˈsoʊʃəlɪst]"
+    },
+    {
+        "id": "21241",
+        "wordEng": "reassure (verb)  ",
+        "wordPol": " uspokajac, zapewniac",
+        "sentPol": " Ona starala sie uspokoic swoja przyjaciolke, ze wszystko bedzie dobrze.",
+        "sentEng": " She tried to reassure her friend that everything would be fine.",
+        "hidden": "true",
+        "pron": "[ ˌriəˈʃʊr ]"
+    },
+    {
+        "id": "79545",
+        "wordEng": "vulnerability (noun)  ",
+        "wordPol": " podatnosc",
+        "sentPol": " Podatnosc systemu na ataki cybernetyczne budzila zaniepokojenie.",
+        "sentEng": " The system's vulnerability to cyberattacks was a concern.",
+        "hidden": "true",
+        "pron": "[ ˌvʌlnərəˈbɪləti ]"
+    },
+    {
+        "id": "46079",
+        "wordEng": "rip (verb)  ",
+        "wordPol": " drzec, rozdzierac ",
+        "sentPol": " Ona przypadkowo rozerwala papier, otwierajac paczke.",
+        "sentEng": " She accidentally ripped the paper while opening the package.",
+        "hidden": "true",
+        "pron": "[ rɪp ]"
+    },
+    {
+        "id": "56918",
+        "wordEng": "genocide (noun)  ",
+        "wordPol": " ludobojstwo",
+        "sentPol": " Spolecznosc miedzynarodowa potepila ten akt jako ludobojstwo.",
+        "sentEng": " The international community condemned the act as genocide.",
+        "hidden": "true",
+        "pron": "[ ˈdʒɛnəˌsaɪd ]"
+    },
+    {
+        "id": "34198",
+        "wordEng": "debris (noun)  ",
+        "wordPol": " gruzy, szczatki",
+        "sentPol": " Eksplozja rozsypala szczatki po calym obszarze.",
+        "sentEng": " The explosion scattered debris across the area.",
+        "hidden": "true",
+        "pron": "[ ˈdɛbri]"
+    },
+    {
+        "id": "5755",
+        "wordEng": "deteriorate (verb)  ",
+        "wordPol": " pogarszac sie",
+        "sentPol": " Stan budynku nadal sie pogarszal.",
+        "sentEng": " The condition of the building continued to deteriorate.",
+        "hidden": "true",
+        "pron": "[ dɪˈtɪriəˌreɪt]"
+    },
+    {
+        "id": "50596",
+        "wordEng": "descend (verb)  ",
+        "wordPol": " schodzic, zstepowac",
+        "sentPol": " Turysci zaczeli schodzic z gory, gdy zapadla noc.",
+        "sentEng": " The hikers began to descend the mountain as night fell.",
+        "hidden": "true",
+        "pron": "[ dɪˈsɛnd ]"
+    },
+    {
+        "id": "45604",
+        "wordEng": "literacy (noun)  ",
+        "wordPol": " umiejetnosc czytania i pisania",
+        "sentPol": " Wskazniki umiejetnosci czytania i pisania znacznie poprawily sie na przestrzeni lat.",
+        "sentEng": " Literacy rates have improved significantly over the years.",
+        "hidden": "true",
+        "pron": "[ ˈlɪtərəsi]"
+    },
+    {
+        "id": "24565",
+        "wordEng": "magistrate (noun)  ",
+        "wordPol": " sedzia, magistrat ",
+        "sentPol": " Sedzia przewodniczyl przesluchaniu sadowemu.",
+        "sentEng": " The magistrate presided over the court hearing.",
+        "hidden": "true",
+        "pron": "[ ˈmædʒəˌstreɪt ]"
+    },
+    {
+        "id": "8178",
+        "wordEng": "synthesis (noun)  ",
+        "wordPol": " synteza ",
+        "sentPol": " Synteza tych idei doprowadzila do nowej teorii.",
+        "sentEng": " The synthesis of these ideas led to a new theory.",
+        "hidden": "true",
+        "pron": "[ ˈsɪnθəsɪs ]"
+    },
+    {
+        "id": "22931",
+        "wordEng": "competent (adjective)  ",
+        "wordPol": " kompetentny",
+        "sentPol": " Ona jest kompetentnym specjalista w swojej dziedzinie.",
+        "sentEng": " She is a competent professional in her field.",
+        "hidden": "true",
+        "pron": "[ ˈkɑmpətənt]"
+    },
+    {
+        "id": "56506",
+        "wordEng": "thrilled (adjective)  ",
+        "wordPol": " zachwycony ",
+        "sentPol": " Byl zachwycony rezultatami swojej ciezkiej pracy.",
+        "sentEng": " He was thrilled with the results of his hard work.",
+        "hidden": "true",
+        "pron": "[ θrɪld]"
+    },
+    {
+        "id": "46704",
+        "wordEng": "taxpayer (noun)  ",
+        "wordPol": " podatnik",
+        "sentPol": " Rzad wprowadzil nowe srodki, ktore maja korzystac z podatnikow.",
+        "sentEng": " The government introduced new measures to benefit taxpayers.",
+        "hidden": "true",
+        "pron": "[ ˈtæksˌpeɪər ]"
+    },
+    {
+        "id": "77526",
+        "wordEng": "alert (verb)  ",
+        "wordPol": " ostrzec, alarmowac",
+        "sentPol": " System bezpieczenstwa nas ostrzeze, jesli pojawi sie intruz.",
+        "sentEng": " The security system will alert us if there's an intruder.",
+        "hidden": "true",
+        "pron": "[ əˈlərt]"
+    },
+    {
+        "id": "57853",
+        "wordEng": "contradiction (noun)  ",
+        "wordPol": " sprzecznosc",
+        "sentPol": " Jest sprzecznosc miedzy tym, co powiedzial, a tym, co zrobil.",
+        "sentEng": " There's a contradiction between what he said and what he did.",
+        "hidden": "true",
+        "pron": "[ ˌkɒntrəˈdɪkʃən]"
+    },
+    {
+        "id": "14324",
+        "wordEng": "carve (verb)  ",
+        "wordPol": " rzezbic, wyryc",
+        "sentPol": " Artysta uzyl dluta, aby wyryc skomplikowany wzor.",
+        "sentEng": " The artist used a chisel to carve the intricate design.",
+        "hidden": "true",
+        "pron": "[ kɑrv]"
+    },
+    {
+        "id": "41281",
+        "wordEng": "comply (verb)  ",
+        "wordPol": " zastosowac sie",
+        "sentPol": " Wszyscy pracownicy musza zastosowac sie do polityk firmy.",
+        "sentEng": " All employees must comply with the company's policies.",
+        "hidden": "true",
+        "pron": "[ kəmˈplaɪ ]"
+    },
+    {
+        "id": "49991",
+        "wordEng": "surge (verb)  ",
+        "wordPol": " wzrost, fala ",
+        "sentPol": " Nastapil wzrost popytu na nowy produkt.",
+        "sentEng": " There was a surge in demand for the new product.",
+        "hidden": "true",
+        "pron": "[ sɜrdʒ ]"
+    },
+    {
+        "id": "36377",
+        "wordEng": "glorious (adjective)  ",
+        "wordPol": " wspanialy",
+        "sentPol": " Zachod slonca nad gorami byl wspanialym widokiem.",
+        "sentEng": " The sunset over the mountains was a glorious sight.",
+        "hidden": "true",
+        "pron": "[ ˈɡlɔriəs]"
+    },
+    {
+        "id": "69079",
+        "wordEng": "assertion (noun)  ",
+        "wordPol": " twierdzenie ",
+        "sentPol": " Jego twierdzenie, ze jest niewinny, spotkalo sie ze sceptycyzmem.",
+        "sentEng": " His assertion that he was innocent was met with skepticism.",
+        "hidden": "true",
+        "pron": "[ əˈsɜrʃən ]"
+    },
+    {
+        "id": "61191",
+        "wordEng": "mainland (noun)  ",
+        "wordPol": " kontynent, staly lad",
+        "sentPol": " Kontynent jest polaczony z wyspa mostem.",
+        "sentEng": " The mainland is connected to the island by a bridge.",
+        "hidden": "true",
+        "pron": "[ ˈmeɪnˌlænd ]"
+    },
+    {
+        "id": "47907",
+        "wordEng": "smash (verb)  ",
+        "wordPol": " rozbic, zbic ",
+        "sentPol": " On przypadkowo rozbil wazon podczas sprzatania.",
+        "sentEng": " He accidentally smashed the vase while cleaning.",
+        "hidden": "true",
+        "pron": "[ smæʃ ]"
+    },
+    {
+        "id": "15470",
+        "wordEng": "allocation (noun)  ",
+        "wordPol": " przydzial",
+        "sentPol": " Przydzial zasobow jest kluczowy dla sukcesu projektu.",
+        "sentEng": " The allocation of resources is crucial for project success.",
+        "hidden": "true",
+        "pron": "[ ˌæləˈkeɪʃən ]"
+    },
+    {
+        "id": "25562",
+        "wordEng": "robust (adjective)  ",
+        "wordPol": " solidny, krzepki ",
+        "sentPol": " Solidny system wytrzymal duze obciazenie ruchem.",
+        "sentEng": " The robust system withstood the heavy traffic load.",
+        "hidden": "true",
+        "pron": "[ roʊˈbʌst]"
+    },
+    {
+        "id": "14417",
+        "wordEng": "pop (verb)  ",
+        "wordPol": " pekac, wybuchac",
+        "sentPol": " Slyszala trzask balonu, gdy pekal.",
+        "sentEng": " She heard the pop of the balloon as it burst.",
+        "hidden": "true",
+        "pron": "[ pɑp ]"
+    },
+    {
+        "id": "1602",
+        "wordEng": "thereby (adverb)  ",
+        "wordPol": " tym samym, w ten sposob",
+        "sentPol": " Oszczedzil czas, automatyzujac pewne zadania, tym samym zwiekszajac wydajnosc.",
+        "sentEng": " He saved time by automating certain tasks, thereby increasing efficiency.",
+        "hidden": "true",
+        "pron": "[ ˈðɛrˈbaɪ ]"
+    },
+    {
+        "id": "48460",
+        "wordEng": "rally (noun)  ",
+        "wordPol": " rajd, zgromadzenie",
+        "sentPol": " Polityczny wiec przyciagnal tysiace zwolennikow.",
+        "sentEng": " The political rally attracted thousands of supporters.",
+        "hidden": "true",
+        "pron": "[ ˈræli]"
+    },
+    {
+        "id": "41657",
+        "wordEng": "preservation (noun)  ",
+        "wordPol": " ochrona, konserwacja",
+        "sentPol": " Ochrona miejsc historycznych jest wazna dla przyszlych pokolen.",
+        "sentEng": " The preservation of historical sites is important for future generations.",
+        "hidden": "true",
+        "pron": "[ ˌprɛzərˈveɪʃən]"
+    },
+    {
+        "id": "58620",
+        "wordEng": "implementation (noun)  ",
+        "wordPol": " wdrozenie, realizacja",
+        "sentPol": " Udane wdrozenie nowego systemu poprawilo wydajnosc.",
+        "sentEng": " The successful implementation of the new system improved efficiency.",
+        "hidden": "true",
+        "pron": "[ ˌɪmpləmɛnˈteɪʃən]"
+    },
+    {
+        "id": "19625",
+        "wordEng": "intermediate (adjective)  ",
+        "wordPol": " posredni",
+        "sentPol": " Kurs nadaje sie zarowno dla poczatkujacych, jak i sredniozaawansowanych uczniow.",
+        "sentEng": " The course is suitable for both beginners and intermediate learners.",
+        "hidden": "true",
+        "pron": "[ ˌɪntərˈmiːdiət ]"
+    },
+    {
+        "id": "35800",
+        "wordEng": "reside (verb)  ",
+        "wordPol": " mieszkac",
+        "sentPol": " Ona mieszka w malej wiosce niedaleko gor.",
+        "sentEng": " She resides in a small village near the mountains.",
+        "hidden": "true",
+        "pron": "[ rɪˈzaɪd ]"
+    },
+    {
+        "id": "47330",
+        "wordEng": "undermine (verb)  ",
+        "wordPol": " podwazac, oslabiac",
+        "sentPol": " Negatywne komentarze mialy na celu oslabienie jego pewnosci siebie.",
+        "sentEng": " The negative comments were intended to undermine his confidence.",
+        "hidden": "true",
+        "pron": "[ ˌʌndərˈmaɪn]"
+    },
+    {
+        "id": "26660",
+        "wordEng": "exceptional (adjective)  ",
+        "wordPol": " wyjatkowy, wybitny",
+        "sentPol": " Jej wyjatkowy talent zostal rozpoznany przez wszystkich.",
+        "sentEng": " Her exceptional talent was recognized by everyone.",
+        "hidden": "true",
+        "pron": "[ ɪkˈsɛpʃənl]"
+    },
+    {
+        "id": "49318",
+        "wordEng": "strive (verb)  ",
+        "wordPol": " dazyc, usilowac",
+        "sentPol": " Ona dazy do osiagniecia doskonalosci we wszystkim, co robi.",
+        "sentEng": " She strives to achieve excellence in everything she does.",
+        "hidden": "true",
+        "pron": "[ straɪv]"
+    },
+    {
+        "id": "54001",
+        "wordEng": "legislation (noun)  ",
+        "wordPol": " ustawodawstwo",
+        "sentPol": " Nowe ustawodawstwo ma na celu ochrone praw konsumentow.",
+        "sentEng": " The new legislation aims to protect consumers' rights.",
+        "hidden": "true",
+        "pron": "[ ˌlɛdʒɪsˈleɪʃən]"
+    },
+    {
+        "id": "68637",
+        "wordEng": "mutual (adjective)  ",
+        "wordPol": " wzajemny",
+        "sentPol": " Osiagneli wzajemna zgode po negocjacjach.",
+        "sentEng": " They reached a mutual agreement after negotiations.",
+        "hidden": "true",
+        "pron": "[ ˈmjuːʧuəl]"
+    },
+    {
+        "id": "47126",
+        "wordEng": "protective (adjective)  ",
+        "wordPol": " ochronny",
+        "sentPol": " Firma dostarcza pracownikom sprzet ochronny.",
+        "sentEng": " The company provides employees with protective gear.",
+        "hidden": "true",
+        "pron": "[ prəˈtɛktɪv]"
+    },
+    {
+        "id": "22808",
+        "wordEng": "administer (verb)  ",
+        "wordPol": " zarzadzac, podawac",
+        "sentPol": " Pielegniarka poda pacjentowi lekarstwo.",
+        "sentEng": " The nurse will administer the medication to the patient.",
+        "hidden": "true",
+        "pron": "[ ədˈmɪnɪstər]"
+    },
+    {
+        "id": "64113",
+        "wordEng": "elevate (verb)  ",
+        "wordPol": " podniesc, uniesc",
+        "sentPol": " Jej ciezka praca i poswiecenie pomogly jej podniesc swoja pozycje w firmie.",
+        "sentEng": " Her hard work and dedication helped elevate her position in the company.",
+        "hidden": "true",
+        "pron": "[ ˈɛləˌveɪt]"
+    },
+    {
+        "id": "75003",
+        "wordEng": "distinctive (adjective)  ",
+        "wordPol": " charakterystyczny ",
+        "sentPol": " Charakterystyczna architektura budynku przykula uwage wszystkich.",
+        "sentEng": " The building's distinctive architecture caught everyone's attention.",
+        "hidden": "true",
+        "pron": "[ dɪsˈtɪŋktɪv ]"
+    },
+    {
+        "id": "10119",
+        "wordEng": "interior (adjective)  ",
+        "wordPol": " wnetrze, wewnetrzny",
+        "sentPol": " Wnetrze domu bylo pieknie urzadzone.",
+        "sentEng": " The interior of the house was beautifully decorated.",
+        "hidden": "true",
+        "pron": "[ ɪnˈtɪriər ]"
+    },
+    {
+        "id": "14623",
+        "wordEng": "prevalence (noun)  ",
+        "wordPol": " powszechnosc",
+        "sentPol": " Powszechnosc smartfonow zmienila sposob, w jaki sie komunikujemy.",
+        "sentEng": " The prevalence of smartphones has changed how we communicate.",
+        "hidden": "true",
+        "pron": "[ ˈprɛvələns]"
+    },
+    {
+        "id": "2376",
+        "wordEng": "undergraduate (noun)  ",
+        "wordPol": " student pierwszych lat studiow",
+        "sentPol": " Ona jest studentka pierwszych lat studiow, specjalizujaca sie w biologii.",
+        "sentEng": " She's an undergraduate student majoring in biology.",
+        "hidden": "true",
+        "pron": "[ ˌʌndərˈɡrædʒuˌeɪt ]"
+    },
+    {
+        "id": "62448",
+        "wordEng": "log (noun)  ",
+        "wordPol": " dziennik, kloda ",
+        "sentPol": " Prowadzil szczegolowy dziennik swoich codziennych dzialan.",
+        "sentEng": " He kept a detailed log of his daily activities.",
+        "hidden": "true",
+        "pron": "[ lɔɡ ]"
+    },
+    {
+        "id": "5639",
+        "wordEng": "subsidy (noun)  ",
+        "wordPol": " dotacja, pomoc finansowa",
+        "sentPol": " Rzad udziela dotacji w celu wsparcia projektow zwiazanych z energia odnawialna.",
+        "sentEng": " The government provides subsidies to support renewable energy projects.",
+        "hidden": "true",
+        "pron": "[ ˈsʌbsədi ]"
+    },
+    {
+        "id": "44255",
+        "wordEng": "accumulation (noun)  ",
+        "wordPol": " nagromadzenie, gromadzenie",
+        "sentPol": " Nagromadzenie sniegu spowodowalo zaklocenia w ruchu.",
+        "sentEng": " The accumulation of snow led to traffic disruptions.",
+        "hidden": "true",
+        "pron": "[ əˌkjuːmjəˈleɪʃən ]"
+    },
+    {
+        "id": "38260",
+        "wordEng": "confirmation (noun)  ",
+        "wordPol": " potwierdzenie ",
+        "sentPol": " Otrzymalem potwierdzenie rezerwacji lotu w wiadomosci e-mail.",
+        "sentEng": " I received a confirmation email for my flight reservation.",
+        "hidden": "true",
+        "pron": "[ ˌkɑnfərˈmeɪʃən]"
+    },
+    {
+        "id": "12862",
+        "wordEng": "cognitive (adjective)  ",
+        "wordPol": " poznawczy",
+        "sentPol": " Badanie skupia sie na rozwoju poznawczym dzieci.",
+        "sentEng": " The study focuses on the cognitive development of children.",
+        "hidden": "true",
+        "pron": "[ ˈkɑɡnətɪv ]"
+    },
+    {
+        "id": "27872",
+        "wordEng": "pledge (noun)  ",
+        "wordPol": " przyrzeczenie ",
+        "sentPol": " Zlozyla przyrzeczenie, ze przekaze czesc swojej pensji na cele charytatywne.",
+        "sentEng": " She made a pledge to donate a portion of her salary to charity.",
+        "hidden": "true",
+        "pron": "[ plɛdʒ ]"
+    },
+    {
+        "id": "48342",
+        "wordEng": "columnist (noun)  ",
+        "wordPol": " felietonista",
+        "sentPol": " Gazeta zatrudnila nowego felietoniste do pisania o polityce.",
+        "sentEng": " The newspaper hired a new columnist to write about politics.",
+        "hidden": "true",
+        "pron": "[ ˈkɒləmnɪst]"
+    },
+    {
+        "id": "21017",
+        "wordEng": "contempt (noun)  ",
+        "wordPol": " pogarda",
+        "sentPol": " Jego stosunek do wladzy byl naznaczony pogarda.",
+        "sentEng": " His attitude towards authority was marked by contempt.",
+        "hidden": "true",
+        "pron": "[ kənˈtɛmpt]"
+    },
+    {
+        "id": "81871",
+        "wordEng": "punch (verb)  ",
+        "wordPol": " uderzyc, cios",
+        "sentPol": " Zadal potezny cios w szczeke przeciwnika.",
+        "sentEng": " He delivered a powerful punch to the opponent's jaw.",
+        "hidden": "true",
+        "pron": "[ pʌntʃ ]"
+    },
+    {
+        "id": "24786",
+        "wordEng": "contend (verb)  ",
+        "wordPol": " rywalizowac ",
+        "sentPol": " Sportowcy beda rywalizowac o zloty medal w nadchodzacym wydarzeniu.",
+        "sentEng": " The athletes will contend for the gold medal in the upcoming event.",
+        "hidden": "true",
+        "pron": "[ kənˈtɛnd ]"
+    },
+    {
+        "id": "27913",
+        "wordEng": "stun (verb)  ",
+        "wordPol": " oszolomic",
+        "sentPol": " Zaskakujace wiesci na chwile ja oszolomily.",
+        "sentEng": " The surprising news left her stunned for a moment.",
+        "hidden": "true",
+        "pron": "[ stʌn]"
+    },
+    {
+        "id": "81517",
+        "wordEng": "outing (noun)  ",
+        "wordPol": " wycieczka, spacer ",
+        "sentPol": " Rodzina cieszyla sie milym spacerem w parku.",
+        "sentEng": " The family enjoyed a pleasant outing to the park.",
+        "hidden": "true",
+        "pron": "[ ˈaʊtɪŋ]"
+    },
+    {
+        "id": "73438",
+        "wordEng": "plea (noun)  ",
+        "wordPol": " apel, prosba ",
+        "sentPol": " Jego szczera prosba poruszyla publicznosc do lez.",
+        "sentEng": " His heartfelt plea moved the audience to tears.",
+        "hidden": "true",
+        "pron": "[ pli ]"
+    },
+    {
+        "id": "80632",
+        "wordEng": "transit (noun)  ",
+        "wordPol": " transport, przejazd",
+        "sentPol": " Miasto ma sprawny system transportu dla dojezdzajacych do pracy.",
+        "sentEng": " The city has an efficient transit system for commuters.",
+        "hidden": "true",
+        "pron": "[ ˈtrænzɪt]"
+    },
+    {
+        "id": "21174",
+        "wordEng": "eager (adjective)  ",
+        "wordPol": " chetny, gotowy",
+        "sentPol": " Studenci byli chetni, aby rozpoczac swoj nowy projekt.",
+        "sentEng": " The students were eager to start their new project.",
+        "hidden": "true",
+        "pron": "[ ˈiɡər]"
+    },
+    {
+        "id": "73428",
+        "wordEng": "seal (verb)  ",
+        "wordPol": " zapieczetowac ",
+        "sentPol": " Uzyla woskowego pieczecia, aby zamknac koperte.",
+        "sentEng": " She used a wax seal to close the envelope.",
+        "hidden": "true",
+        "pron": "[ sil ]"
+    },
+    {
+        "id": "31177",
+        "wordEng": "wholly (adverb)  ",
+        "wordPol": " calkowicie, zupelnie",
+        "sentPol": " Projekt byl calkowicie sfinansowany przez rzad.",
+        "sentEng": " The project was wholly funded by the government.",
+        "hidden": "true",
+        "pron": "[ ˈhoʊli]"
+    },
+    {
+        "id": "80442",
+        "wordEng": "recount (verb)  ",
+        "wordPol": " opowiedziec ponownie",
+        "sentPol": " Zdecydowala sie opowiedziec swoim przyjaciolom zabawna historie ponownie.",
+        "sentEng": " She decided to recount the funny story to her friends.",
+        "hidden": "true",
+        "pron": "[ rɪˈkaʊnt]"
+    },
+    {
+        "id": "19361",
+        "wordEng": "distort (verb)  ",
+        "wordPol": " znieksztalcac ",
+        "sentPol": " Stronne relacje mediow moga znieksztalcic percepcje wydarzen.",
+        "sentEng": " The media's biased reporting can distort the perception of events.",
+        "hidden": "true",
+        "pron": "[ dɪsˈtɔrt ]"
+    },
+    {
+        "id": "24916",
+        "wordEng": "spectrum (noun)  ",
+        "wordPol": " widmo ",
+        "sentPol": " Tecza wyswietla widmo kolorow.",
+        "sentEng": " The rainbow displays a spectrum of colors.",
+        "hidden": "true",
+        "pron": "[ ˈspɛktrəm]"
+    },
+    {
+        "id": "47877",
+        "wordEng": "congregation (noun)  ",
+        "wordPol": " zgromadzenie",
+        "sentPol": " Zgromadzenie zebralo sie na niedzielna msze.",
+        "sentEng": " The congregation gathered for the Sunday service.",
+        "hidden": "true",
+        "pron": "[ ˌkɑŋɡrɪˈɡeɪʃən ]"
+    },
+    {
+        "id": "15109",
+        "wordEng": "cargo (noun)  ",
+        "wordPol": " ladunek, towar",
+        "sentPol": " Statek przewozil cenny ladunek elektroniki.",
+        "sentEng": " The ship carried a valuable cargo of electronics.",
+        "hidden": "true",
+        "pron": "[ ˈkɑrɡo]"
+    },
+    {
+        "id": "23465",
+        "wordEng": "humanity (noun)  ",
+        "wordPol": " ludzkosc, czlowieczenstwo",
+        "sentPol": " Dobre uczynki przypominaja nam o dobroci w ludzkosci.",
+        "sentEng": " Acts of kindness remind us of the goodness in humanity.",
+        "hidden": "true",
+        "pron": "[ hjuːˈmænəti]"
+    },
+    {
+        "id": "10872",
+        "wordEng": "displace (verb)  ",
+        "wordPol": " przesiedlic, wypierac",
+        "sentPol": " Konflikt spowodowal przesiedlenie tysiecy ludzi z ich domow.",
+        "sentEng": " The conflict led to thousands of people being displaced from their homes.",
+        "hidden": "true",
+        "pron": "[ dɪsˈpleɪs]"
+    },
+    {
+        "id": "62206",
+        "wordEng": "meantime (noun)  ",
+        "wordPol": " tymczasem, w miedzyczasie",
+        "sentPol": " Naprawy zajma troche czasu; w miedzyczasie mozemy skorzystac z tymczasowego rozwiazania.",
+        "sentEng": " The repairs will take some time; meanwhile, we can use a temporary solution.",
+        "hidden": "true",
+        "pron": "[ ˈminˌtaɪm]"
+    },
+    {
+        "id": "45672",
+        "wordEng": "pronounced (adjective)  ",
+        "wordPol": " wyrazny, zaznaczony",
+        "sentPol": " Decyzja dyrektora generalnego wywarla wyrazny wplyw na przyszlosc firmy.",
+        "sentEng": " The CEO's decision had a pronounced impact on the company's future.",
+        "hidden": "true",
+        "pron": "[ prəˈnaʊnst]"
+    },
+    {
+        "id": "13689",
+        "wordEng": "allowance (noun)  ",
+        "wordPol": " zasilek, dodatek",
+        "sentPol": " Rzad zapewnia wsparcie finansowe rodzinom o niskich dochodach.",
+        "sentEng": " The government provides financial allowances to low-income families.",
+        "hidden": "true",
+        "pron": "[ əˈlaʊəns]"
+    },
+    {
+        "id": "59606",
+        "wordEng": "dimension (noun)  ",
+        "wordPol": " wymiar",
+        "sentPol": " Nowa maszyna dodala nowy wymiar do naszego procesu produkcyjnego.",
+        "sentEng": " The new machine added a new dimension to our production process.",
+        "hidden": "true",
+        "pron": "[ dɪˈmɛnʃən ]"
+    },
+    {
+        "id": "784",
+        "wordEng": "banner (noun)  ",
+        "wordPol": " transparent, transparent ",
+        "sentPol": " Powiesili transparent, aby promowac nadchodzace wydarzenie.",
+        "sentEng": " They hung a banner to promote the upcoming event.",
+        "hidden": "true",
+        "pron": "[ ˈbænər]"
+    },
+    {
+        "id": "66316",
+        "wordEng": "aide (noun)  ",
+        "wordPol": " asystent, pomocnik ",
+        "sentPol": " Polityk polegal na swoich asystentach, aby zarzadzac swoim harmonogramem.",
+        "sentEng": " The politician relied on his aides to manage his schedule.",
+        "hidden": "true",
+        "pron": "[ eɪd]"
+    },
+    {
+        "id": "15264",
+        "wordEng": "dissolve (verb)  ",
+        "wordPol": " rozpuszczac, rozwiazywac",
+        "sentPol": " Cukier rozpusci sie w goracej wodzie.",
+        "sentEng": " The sugar will dissolve in hot water.",
+        "hidden": "true",
+        "pron": "[ dɪˈzɑlv]"
+    },
+    {
+        "id": "26112",
+        "wordEng": "respective (adjective)  ",
+        "wordPol": " odpowiedni, indywidualny",
+        "sentPol": " Kazdy czlonek zespolu ma swoje odpowiednie obowiazki.",
+        "sentEng": " Each team member has their respective responsibilities.",
+        "hidden": "true",
+        "pron": "[ rɪˈspɛktɪv]"
+    }
+]

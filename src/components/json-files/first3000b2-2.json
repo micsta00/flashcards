@@ -1,0 +1,1316 @@
+[
+    {
+        "id": "27600",
+        "wordEng": "lord",
+        "wordPol": "pan (1. wladca, 2. pan)",
+        "sentPol": "Pan dworu przywital gosci.",
+        "sentEng": "The lord of the manor greeted the guests.",
+        "hidden": "true",
+        "pron": "[lɔrd"
+    },
+    {
+        "id": "7049",
+        "wordEng": "aid",
+        "wordPol": "udzielanie pomocy (1. wsparcie, 2. udzielanie pomocy)",
+        "sentPol": "Organizacja udziela pomocy uchodzcom.",
+        "sentEng": "The organization provides aid to refugees.",
+        "hidden": "true",
+        "pron": "[eɪd"
+    },
+    {
+        "id": "23666",
+        "wordEng": "expense",
+        "wordPol": "wydatek (1. koszt, 2. wydatek)",
+        "sentPol": "Musza sledzic swoje miesieczne wydatki.",
+        "sentEng": "They need to track their monthly expenses.",
+        "hidden": "true",
+        "pron": "[ɪkˈspɛns"
+    },
+    {
+        "id": "72414",
+        "wordEng": "settle",
+        "wordPol": "ustabilizowac (1. stabilizowac, 2. utrzymac)",
+        "sentPol": "Chcieli zalagodzic swoje roznice.",
+        "sentEng": "They wanted to settle their differences.",
+        "hidden": "true",
+        "pron": "[ˈsɛtl"
+    },
+    {
+        "id": "42454",
+        "wordEng": "figure",
+        "wordPol": "postac (1. charakter, 2. postac)",
+        "sentPol": "Rzezba przedstawiala ludzka postac.",
+        "sentEng": "The sculpture depicted a human figure.",
+        "hidden": "true",
+        "pron": "[ˈfɪɡjʊr"
+    },
+    {
+        "id": "53592",
+        "wordEng": "creature",
+        "wordPol": "stworzenie (1. stworzenie, 2. tworzenie)",
+        "sentPol": "Las jest domem dla wielu unikalnych stworzen.",
+        "sentEng": "The forest is home to many unique creatures.",
+        "hidden": "true",
+        "pron": "[ˈkritʃər"
+    },
+    {
+        "id": "1370",
+        "wordEng": "progress",
+        "wordPol": "postep (1. rozwoj, 2. postep)",
+        "sentPol": "Projekt odnotowuje staly postep.",
+        "sentEng": "The project is making steady progress.",
+        "hidden": "true",
+        "pron": "[ˈprɑgrəs"
+    },
+    {
+        "id": "58048",
+        "wordEng": "association",
+        "wordPol": "stowarzyszenie (1. zwiazek, 2. stowarzyszenie)",
+        "sentPol": "Zdecydowali sie zalozyc stowarzyszenie wspierajace lokalnych artystow.",
+        "sentEng": "They decided to form an association to support local artists.",
+        "hidden": "true",
+        "pron": "[əˌsoʊsiˈeɪʃən"
+    },
+    {
+        "id": "21272",
+        "wordEng": "slight",
+        "wordPol": "lekki (1. maly, 2. lekki)",
+        "sentPol": "Zauwazyla lekka zmiane w jego zachowaniu.",
+        "sentEng": "She noticed a slight change in his behavior.",
+        "hidden": "true",
+        "pron": "[slaɪt"
+    },
+    {
+        "id": "30215",
+        "wordEng": "sympathy",
+        "wordPol": "wspolczucie (1. sympatia, 2. wspolczucie)",
+        "sentPol": "Wyrazila swoje wspolczucie z powodu ich straty.",
+        "sentEng": "She expressed her sympathy for their loss.",
+        "hidden": "true",
+        "pron": "[ˈsɪmpəθi"
+    },
+    {
+        "id": "4623",
+        "wordEng": "decrease",
+        "wordPol": "zmniejszenie (1. redukcja, 2. spadek)",
+        "sentPol": "Nastapil spadek sprzedazy w tym kwartale.",
+        "sentEng": "There was a decrease in sales this quarter.",
+        "hidden": "true",
+        "pron": "[dɪˈkris"
+    },
+    {
+        "id": "4039",
+        "wordEng": "unique",
+        "wordPol": "wyjatkowy (1. unikalny, 2. wyjatkowy)",
+        "sentPol": "Jej styl malarski jest naprawde wyjatkowy.",
+        "sentEng": "Her painting style is truly unique.",
+        "hidden": "true",
+        "pron": "[juˈnik"
+    },
+    {
+        "id": "44096",
+        "wordEng": "domestic",
+        "wordPol": "domowy (1. domowy, 2. krajowy)",
+        "sentPol": "Ona lubi gotowac domowe posilki.",
+        "sentEng": "She enjoys cooking domestic meals.",
+        "hidden": "true",
+        "pron": "[dəˈmɛstɪk"
+    },
+    {
+        "id": "52651",
+        "wordEng": "sequence",
+        "wordPol": "kolejnosc (1. kolejnosc, 2. sekwencja)",
+        "sentPol": "Postepuj zgodnie z kolejnoscia krokow, aby ukonczyc zadanie.",
+        "sentEng": "Follow the sequence of steps to complete the task.",
+        "hidden": "true",
+        "pron": "[ˈsikwəns"
+    },
+    {
+        "id": "13307",
+        "wordEng": "adapt",
+        "wordPol": "dostosowac (1. przystosowac, 2. dostosowac)",
+        "sentPol": "Musieli dostosowac sie do nowego otoczenia.",
+        "sentEng": "They had to adapt to the new environment.",
+        "hidden": "true",
+        "pron": "[əˈdæpt"
+    },
+    {
+        "id": "28829",
+        "wordEng": "entirely",
+        "wordPol": "calkowicie (1. zupelnie, 2. calkowicie)",
+        "sentPol": "Byla calkowicie zadowolona z wyniku.",
+        "sentEng": "She was entirely satisfied with the outcome.",
+        "hidden": "true",
+        "pron": "[ɪnˈtaɪərli"
+    },
+    {
+        "id": "47596",
+        "wordEng": "pupil",
+        "wordPol": "uczen (1. student, 2. uczen)",
+        "sentPol": "Uczen zadal pytanie podczas lekcji.",
+        "sentEng": "The pupil asked a question during the lesson.",
+        "hidden": "true",
+        "pron": "[ˈpyupəl"
+    },
+    {
+        "id": "26851",
+        "wordEng": "credit",
+        "wordPol": "kredyt (1. kredyt, 2. punkty)",
+        "sentPol": "Zlozyla wniosek o karte kredytowa.",
+        "sentEng": "She applied for a credit card.",
+        "hidden": "true",
+        "pron": "[ˈkrɛdɪt"
+    },
+    {
+        "id": "72677",
+        "wordEng": "proof",
+        "wordPol": "dowod (1. dowod, 2. dowod)",
+        "sentPol": "Przedstawil dowod swojej tozsamosci.",
+        "sentEng": "He provided proof of his identity.",
+        "hidden": "true",
+        "pron": "[pruf"
+    },
+    {
+        "id": "25764",
+        "wordEng": "vital",
+        "wordPol": "wazny (1. znaczacy, 2. istotny)",
+        "sentPol": "Prawidlowe odzywianie jest wazne dla dobrego zdrowia.",
+        "sentEng": "Proper nutrition is vital for good health.",
+        "hidden": "true",
+        "pron": "[ˈvaɪtl"
+    },
+    {
+        "id": "33095",
+        "wordEng": "command",
+        "wordPol": "rozkaz (1. rozkaz, 2. dowodztwo)",
+        "sentPol": "General wydal rozkaz oddzialom.",
+        "sentEng": "The general issued a command to the troops.",
+        "hidden": "true",
+        "pron": "[kəˈmænd"
+    },
+    {
+        "id": "64747",
+        "wordEng": "reasonable",
+        "wordPol": "rozwazny (1. rozsadny, 2. rozwazny)",
+        "sentPol": "Jego prosba wydawala sie rozwazna, biorac pod uwage okolicznosci.",
+        "sentEng": "His request seemed reasonable given the circumstances.",
+        "hidden": "true",
+        "pron": "[ˈrizənəbl"
+    },
+    {
+        "id": "37157",
+        "wordEng": "advance",
+        "wordPol": "postepowac (1. poruszac sie, 2. postepowac)",
+        "sentPol": "Musza postepowac ostroznie przez las.",
+        "sentEng": "They need to advance cautiously through the forest.",
+        "hidden": "true",
+        "pron": "[ədˈvæns"
+    },
+    {
+        "id": "39868",
+        "wordEng": "deliberately",
+        "wordPol": "rozwaznie (1. ostroznie, 2. z rozwaga)",
+        "sentPol": "Mowil rozwaznie, starannie dobierajac slowa.",
+        "sentEng": "He spoke deliberately, choosing his words carefully.",
+        "hidden": "true",
+        "pron": "[dɪˈlɪbərətli"
+    },
+    {
+        "id": "25675",
+        "wordEng": "shade",
+        "wordPol": "cien (1. cien, 2. cien)",
+        "sentPol": "Odpoczywali w cieniu, aby uniknac goraca slonca.",
+        "sentEng": "They rested in the shade to escape the sun's heat.",
+        "hidden": "true",
+        "pron": "[ʃeɪd"
+    },
+    {
+        "id": "30368",
+        "wordEng": "minor",
+        "wordPol": "niewielki (1. maly, 2. niewielki)",
+        "sentPol": "Wypadek spowodowal tylko niewielkie obrazenia.",
+        "sentEng": "The accident caused only minor injuries.",
+        "hidden": "true",
+        "pron": "[ˈmaɪnər"
+    },
+    {
+        "id": "54531",
+        "wordEng": "imply",
+        "wordPol": "sugerowac (1. zasugerowac, 2. sugerowac)",
+        "sentPol": "Jego slowa wydawaly sie sugerowac ukryte znaczenie.",
+        "sentEng": "His words seemed to imply a hidden meaning.",
+        "hidden": "true",
+        "pron": "[ɪmˈplaɪ"
+    },
+    {
+        "id": "39689",
+        "wordEng": "defeat",
+        "wordPol": "porazka (1. porazka, 2. niepowodzenie)",
+        "sentPol": "Druzyna doznala porazki w mistrzostwach.",
+        "sentEng": "The team suffered a defeat in the championship.",
+        "hidden": "true",
+        "pron": "[dɪˈfit"
+    },
+    {
+        "id": "57660",
+        "wordEng": "bunch",
+        "wordPol": "kisc (1. kisc, 2. wiazka)",
+        "sentPol": "Zebrala kisc kwiatow z ogrodu.",
+        "sentEng": "She picked a bunch of flowers from the garden.",
+        "hidden": "true",
+        "pron": "[bʌntʃ"
+    },
+    {
+        "id": "47667",
+        "wordEng": "labour",
+        "wordPol": "praca (1. trud, 2. praca)",
+        "sentPol": "Pracownicy wlozyli wiele pracy, aby ukonczyc projekt.",
+        "sentEng": "The workers put in a lot of labor to complete the project.",
+        "hidden": "true",
+        "pron": "[ˈleɪbər"
+    },
+    {
+        "id": "21790",
+        "wordEng": "joy",
+        "wordPol": "radosc (1. radosc, 2. przyjemnosc)",
+        "sentPol": "Jej twarz rozjasnila sie radoscia, gdy zobaczyla niespodzianke.",
+        "sentEng": "Her face lit up with joy when she saw the surprise.",
+        "hidden": "true",
+        "pron": "[ʤɔɪ"
+    },
+    {
+        "id": "32998",
+        "wordEng": "opening",
+        "wordPol": "otwarcie (1. inauguracja, 2. otwarcie)",
+        "sentPol": "Wielkie otwarcie nowego sklepu przyciagnelo wielu klientow.",
+        "sentEng": "The grand opening of the new store attracted many customers.",
+        "hidden": "true",
+        "pron": "[ˈoʊpnɪŋ"
+    },
+    {
+        "id": "32832",
+        "wordEng": "initiative",
+        "wordPol": "inicjatywa (1. inicjatywa, 2. inicjatywa)",
+        "sentPol": "Podjela inicjatywe zorganizowania wydarzenia.",
+        "sentEng": "She took the initiative to organize the event.",
+        "hidden": "true",
+        "pron": "[ɪˈnɪʃətɪv"
+    },
+    {
+        "id": "8718",
+        "wordEng": "participant",
+        "wordPol": "uczestnik (1. uczestnik, 2. uczestnik)",
+        "sentPol": "Konferencja przyciagnela uczestnikow z calego swiata.",
+        "sentEng": "The conference attracted participants from around the world.",
+        "hidden": "true",
+        "pron": "[pɑrˈtɪsəpənt"
+    },
+    {
+        "id": "10189",
+        "wordEng": "stand",
+        "wordPol": "stac (1. stac, 2. znosic)",
+        "sentPol": "Nie znosila goraca i poszla do srodka.",
+        "sentEng": "She couldn't stand the heat and went indoors.",
+        "hidden": "true",
+        "pron": "[stænd"
+    },
+    {
+        "id": "40481",
+        "wordEng": "regard",
+        "wordPol": "szanowac (1. respektowac, 2. szanowac)",
+        "sentPol": "Cenil ja za jej osiagniecia.",
+        "sentEng": "He held her in high regard for her achievements.",
+        "hidden": "true",
+        "pron": "[rɪˈgɑrd"
+    },
+    {
+        "id": "79338",
+        "wordEng": "grab",
+        "wordPol": "chwycic (1. zlapac, 2. chwycic)",
+        "sentPol": "Probowal chwycic spadajaca ksiazke.",
+        "sentEng": "He tried to grab the falling book.",
+        "hidden": "true",
+        "pron": "[ɡræb"
+    },
+    {
+        "id": "21241",
+        "wordEng": "hurt",
+        "wordPol": "skrzywdzic (1. krzywdzic, 2. skrzywdzic)",
+        "sentPol": "Jego ostre slowa zranily jej uczucia.",
+        "sentEng": "His harsh words hurt her feelings.",
+        "hidden": "true",
+        "pron": "[hɜrt"
+    },
+    {
+        "id": "79545",
+        "wordEng": "decline",
+        "wordPol": "spadek (1. spadek, 2. spadek cen)",
+        "sentPol": "W tym kwartale nastapil spadek sprzedazy.",
+        "sentEng": "There has been a decline in sales this quarter.",
+        "hidden": "true",
+        "pron": "[dɪˈklaɪn"
+    },
+    {
+        "id": "46079",
+        "wordEng": "feedback",
+        "wordPol": "opinia (1. opinia, 2. zdanie)",
+        "sentPol": "Otrzymala cenna opinie na temat swojej prezentacji.",
+        "sentEng": "She received valuable feedback on her presentation.",
+        "hidden": "true",
+        "pron": "[ˈfidˌbæk"
+    },
+    {
+        "id": "56918",
+        "wordEng": "latest",
+        "wordPol": "najnowszy (1. ostatni, 2. najnowszy)",
+        "sentPol": "Czy slyszales najnowsze wiadomosci?",
+        "sentEng": "Have you heard the latest news?",
+        "hidden": "true",
+        "pron": "[ˈleɪtɪst"
+    },
+    {
+        "id": "34198",
+        "wordEng": "pile",
+        "wordPol": "sterta (1. stos, 2. sterta)",
+        "sentPol": "Na stole lezala sterta ksiazek.",
+        "sentEng": "There was a pile of books on the table.",
+        "hidden": "true",
+        "pron": "[paɪl"
+    },
+    {
+        "id": "5755",
+        "wordEng": "constant",
+        "wordPol": "niezmienny (1. niezmienny, 2. staly)",
+        "sentPol": "Wartosc liczby pi jest stala w matematyce.",
+        "sentEng": "The value of pi is a constant in mathematics.",
+        "hidden": "true",
+        "pron": "[ˈkɑnstənt"
+    },
+    {
+        "id": "50596",
+        "wordEng": "prime",
+        "wordPol": "szczyt (1. glowny, 2. szczyt)",
+        "sentPol": "Firma osiagnela swoj szczyt w latach dziewiecdziesiatych.",
+        "sentEng": "The company reached its prime in the 1990s.",
+        "hidden": "true",
+        "pron": "[praɪm"
+    },
+    {
+        "id": "45604",
+        "wordEng": "conduct",
+        "wordPol": "prowadzenie (1. prowadzenie, 2. zachowanie)",
+        "sentPol": "On byl odpowiedzialny za prowadzenie eksperymentu.",
+        "sentEng": "He was responsible for the conduct of the experiment.",
+        "hidden": "true",
+        "pron": "[ˈkɑndʌkt"
+    },
+    {
+        "id": "24565",
+        "wordEng": "alter",
+        "wordPol": "zmieniac (1. modyfikowac, 2. zmieniac)",
+        "sentPol": "Zdecydowali sie zmienic swoje plany podrozy.",
+        "sentEng": "They decided to alter their travel plans.",
+        "hidden": "true",
+        "pron": "[ˈɔltər"
+    },
+    {
+        "id": "8178",
+        "wordEng": "leave",
+        "wordPol": "opuszczac (1. zostawic, 2. opuszczac)",
+        "sentPol": "Musial opuscic impreze wczesnie.",
+        "sentEng": "He had to leave the party early.",
+        "hidden": "true",
+        "pron": "[liv"
+    },
+    {
+        "id": "22931",
+        "wordEng": "assessment",
+        "wordPol": "ocena (1. ocenianie, 2. ocena)",
+        "sentPol": "Nauczyciel przedstawil ocene osiagniec ucznia.",
+        "sentEng": "The teacher provided an assessment of the student's performance.",
+        "hidden": "true",
+        "pron": "[əˈsɛsmənt"
+    },
+    {
+        "id": "56506",
+        "wordEng": "bet",
+        "wordPol": "zalozenie (1. typ, 2. zalozenie)",
+        "sentPol": "Jego zaklad na wyscig konny sie nie oplacil.",
+        "sentEng": "His bet on the horse race didn't pay off.",
+        "hidden": "true",
+        "pron": "[bɛt"
+    },
+    {
+        "id": "46704",
+        "wordEng": "transform",
+        "wordPol": "przeksztalcac (1. przeksztalcac, 2. zmieniac)",
+        "sentPol": "Remont przeksztalci stary budynek.",
+        "sentEng": "The renovation will transform the old building.",
+        "hidden": "true",
+        "pron": "[trænsˈfɔrm"
+    },
+    {
+        "id": "77526",
+        "wordEng": "vision",
+        "wordPol": "widok (1. perspektywa, 2. widok)",
+        "sentPol": "Widok z szczytu gory zapieral dech w piersiach.",
+        "sentEng": "The view from the mountaintop was breathtaking.",
+        "hidden": "true",
+        "pron": "[ˈvɪʒən"
+    },
+    {
+        "id": "57853",
+        "wordEng": "extend",
+        "wordPol": "rozszerzac (1. powiekszac, 2. rozszerzac)",
+        "sentPol": "Zdecydowali sie przedluzyc urlop o tydzien.",
+        "sentEng": "They decided to extend their vacation by a week.",
+        "hidden": "true",
+        "pron": "[ɪkˈstɛnd"
+    },
+    {
+        "id": "14324",
+        "wordEng": "extreme",
+        "wordPol": "skrajny (1. ekstremalny, 2. skrajny)",
+        "sentPol": "Warunki pogodowe byly niezwykle zimne.",
+        "sentEng": "The weather conditions were extremely cold.",
+        "hidden": "true",
+        "pron": "[ɪkˈstrim"
+    },
+    {
+        "id": "41281",
+        "wordEng": "offend",
+        "wordPol": "obrazac (1. urazic, 2. obrazac)",
+        "sentPol": "Jego komentarze mialy obrazic ja.",
+        "sentEng": "His comments were meant to offend her.",
+        "hidden": "true",
+        "pron": "[əˈfɛnd"
+    },
+    {
+        "id": "49991",
+        "wordEng": "fellow",
+        "wordPol": "kolega (1. towarzysz, 2. kolega)",
+        "sentPol": "On jest moim kolega ze studiow.",
+        "sentEng": "He's my fellow student.",
+        "hidden": "true",
+        "pron": "[ˈfɛloʊ]         "
+    },
+    {
+        "id": "36377",
+        "wordEng": "estimate",
+        "wordPol": "oszacowac",
+        "sentPol": "Czy mozesz oszacowac koszt?",
+        "sentEng": "Can you estimate the cost?",
+        "hidden": "true",
+        "pron": "[ˈɛstɪˌmeɪt]     "
+    },
+    {
+        "id": "69079",
+        "wordEng": "outcome",
+        "wordPol": "wynik (1. rezultat, 2. wynik)",
+        "sentPol": "Wynik meczu byl nieoczekiwany.",
+        "sentEng": "The outcome of the game was unexpected.",
+        "hidden": "true",
+        "pron": "[ˈaʊtˌkʌm]       "
+    },
+    {
+        "id": "61191",
+        "wordEng": "contemporary",
+        "wordPol": "wspolczesny (1. wspolczesny, 2. nowoczesny)",
+        "sentPol": "Ten obraz to wspolczesne dzielo sztuki.",
+        "sentEng": "This painting is a contemporary work of art.",
+        "hidden": "true",
+        "pron": "[kənˈtɛmpəˌrɛri] "
+    },
+    {
+        "id": "47907",
+        "wordEng": "protection",
+        "wordPol": "ochrona (1. ochrona, 2. zabezpieczenie)",
+        "sentPol": "Pancerz zapewnia doskonala ochrone.",
+        "sentEng": "The armor provides excellent protection.",
+        "hidden": "true",
+        "pron": "[prəˈtɛkʃən]     "
+    },
+    {
+        "id": "15470",
+        "wordEng": "rub",
+        "wordPol": "trzec (1. pocierac, 2. trzec)",
+        "sentPol": "Delikatnie pocieraj plame szmatka.",
+        "sentEng": "Rub the stain gently with a cloth.",
+        "hidden": "true",
+        "pron": "[rʌb]            "
+    },
+    {
+        "id": "25562",
+        "wordEng": "motor",
+        "wordPol": "silnik (1. mechanizm, 2. silnik)",
+        "sentPol": "Silnik samochodu wydaje dziwny dzwiek.",
+        "sentEng": "The car's motor is making a strange noise.",
+        "hidden": "true",
+        "pron": "[ˈmoʊtər]        "
+    },
+    {
+        "id": "14417",
+        "wordEng": "acknowledge",
+        "wordPol": "uznac (1. potwierdzic, 2. uznac)",
+        "sentPol": "Przyznal sie do swojego bledu.",
+        "sentEng": "He acknowledged his mistake.",
+        "hidden": "true",
+        "pron": "[əkˈnɒlɪdʒ]      "
+    },
+    {
+        "id": "1602",
+        "wordEng": "fund",
+        "wordPol": "finansowac (1. fundowac, 2. finansowac)",
+        "sentPol": "Zdecydowali sie sfinansowac projekt badawczy.",
+        "sentEng": "They decided to fund the research project.",
+        "hidden": "true",
+        "pron": "[fʌnd]           "
+    },
+    {
+        "id": "48460",
+        "wordEng": "secure",
+        "wordPol": "bezpieczny (1. pewny, 2. bezpieczny)",
+        "sentPol": "Zamek na drzwiach zapewni nam bezpieczenstwo.",
+        "sentEng": "The lock on the door will keep us secure.",
+        "hidden": "true",
+        "pron": "[sɪˈkjʊr]        "
+    },
+    {
+        "id": "41657",
+        "wordEng": "split",
+        "wordPol": "podzielic (1. rozbic, 2. podzielic)",
+        "sentPol": "Podzielila ciasto na rowne kawalki.",
+        "sentEng": "She split the cake into equal pieces.",
+        "hidden": "true",
+        "pron": "[splɪt]          "
+    },
+    {
+        "id": "58620",
+        "wordEng": "delighted",
+        "wordPol": "zachwyt (1. zachwyt, 2. podziw)",
+        "sentPol": "Bylem zachwycony otrzymaniem Twojego zaproszenia.",
+        "sentEng": "I was delighted to receive your invitation.",
+        "hidden": "true",
+        "pron": "[dɪˈlaɪtɪd]      "
+    },
+    {
+        "id": "19625",
+        "wordEng": "firm",
+        "wordPol": "solidny, mocny, stanowczy",
+        "sentPol": "Mam stanowczy poglad na temat rownosci.",
+        "sentEng": "I hold a firm belief in equality.",
+        "hidden": "true",
+        "pron": "[fɜːrm]          "
+    },
+    {
+        "id": "35800",
+        "wordEng": "spot",
+        "wordPol": "miejsce (1. miejsce, 2. punkt)",
+        "sentPol": "To jest swietne miejsce na piknik.",
+        "sentEng": "This is a great picnic spot.",
+        "hidden": "true",
+        "pron": "[spɒt]           "
+    },
+    {
+        "id": "47330",
+        "wordEng": "impatient",
+        "wordPol": "niecierpliwy (1. zniecierpliwiony, 2. niecierpliwy)",
+        "sentPol": "Stal sie niecierpliwy, czekajac na autobus.",
+        "sentEng": "He became impatient waiting for the bus.",
+        "hidden": "true",
+        "pron": "[ɪmˈpeɪʃənt]  "
+    },
+    {
+        "id": "26660",
+        "wordEng": "oppose",
+        "wordPol": "sprzeciwic sie (1. przeciwny, 2. sprzeciwic sie)",
+        "sentPol": "Oni sprzeciwiaja sie nowemu prawu.",
+        "sentEng": "They oppose the new law.",
+        "hidden": "true",
+        "pron": "[əˈpoʊz]       "
+    },
+    {
+        "id": "49318",
+        "wordEng": "vary",
+        "wordPol": "roznic sie (1. roznic, 2. roznic sie)",
+        "sentPol": "Ceny roznia sie w zaleznosci od lokalizacji.",
+        "sentEng": "The prices vary depending on the location.",
+        "hidden": "true",
+        "pron": "[ˈvɛri]         "
+    },
+    {
+        "id": "54001",
+        "wordEng": "capture",
+        "wordPol": "zdobyc (1. schwytac, 2. zdobyc)",
+        "sentPol": "Udalo im sie schwytac rzadkiego ptaka.",
+        "sentEng": "They managed to capture the rare bird.",
+        "hidden": "true",
+        "pron": "[ˈkæptʃər]      "
+    },
+    {
+        "id": "68637",
+        "wordEng": "facility",
+        "wordPol": "udogodnienie (1. udogodnienie, 2. obiekt)",
+        "sentPol": "Hotel ma doskonale udogodnienia.",
+        "sentEng": "The hotel has excellent facilities.",
+        "hidden": "true",
+        "pron": "[fəˈsɪlɪti]    "
+    },
+    {
+        "id": "47126",
+        "wordEng": "victory",
+        "wordPol": "zwyciestwo (1. triumf, 2. zwyciestwo)",
+        "sentPol": "swietowali zwyciestwo swojej druzyny.",
+        "sentEng": "They celebrated their team's victory.",
+        "hidden": "true",
+        "pron": "[ˈvɪktəri]     "
+    },
+    {
+        "id": "22808",
+        "wordEng": "encounter",
+        "wordPol": "napotkac (1. spotkac, 2. napotkac)",
+        "sentPol": "Nie spodziewali sie napotkac takich trudnosci.",
+        "sentEng": "They didn't expect to encounter such difficulties.",
+        "hidden": "true",
+        "pron": "[ɪnˈkaʊntər]   "
+    },
+    {
+        "id": "64113",
+        "wordEng": "make",
+        "wordPol": "tworzyc (1. stworzyc, 2. tworzyc)",
+        "sentPol": "Ona potrafi tworzyc piekne rzezby.",
+        "sentEng": "She can make beautiful sculptures.",
+        "hidden": "true",
+        "pron": "[meɪk]         "
+    },
+    {
+        "id": "75003",
+        "wordEng": "holy",
+        "wordPol": "swiety (1. sakralny, 2. swiety)",
+        "sentPol": "Katedra jest miejscem swietym.",
+        "sentEng": "The cathedral is a holy place.",
+        "hidden": "true",
+        "pron": "[ˈhoʊli]       "
+    },
+    {
+        "id": "10119",
+        "wordEng": "beat",
+        "wordPol": "uderzac (1. pokonac, 2. uderzac)",
+        "sentPol": "Serce bedzie bic szybciej podczas cwiczen.",
+        "sentEng": "The heart will beat faster during exercise.",
+        "hidden": "true",
+        "pron": "[biːt]         "
+    },
+    {
+        "id": "14623",
+        "wordEng": "crash",
+        "wordPol": "wypadek (1. karambol, 2. wypadek)",
+        "sentPol": "Samochod zostal powaznie uszkodzony w wypadku.",
+        "sentEng": "The car was badly damaged in the crash.",
+        "hidden": "true",
+        "pron": "[kræʃ]         "
+    },
+    {
+        "id": "2376",
+        "wordEng": "low",
+        "wordPol": "niski (1. krotki, 2. niski)",
+        "sentPol": "Krzeslo jest za niskie do stolu.",
+        "sentEng": "The chair is too low for the table.",
+        "hidden": "true",
+        "pron": "[loʊ]          "
+    },
+    {
+        "id": "62448",
+        "wordEng": "contract",
+        "wordPol": "umowa (1. umowa, 2. kontrakt)",
+        "sentPol": "Podpisali umowe na projekt.",
+        "sentEng": "They signed a contract for the project.",
+        "hidden": "true",
+        "pron": "[ˈkɒntrækt]   "
+    },
+    {
+        "id": "5639",
+        "wordEng": "defeat",
+        "wordPol": "pokonac (1. pokonac, 2. przegrac)",
+        "sentPol": "Udalo im sie pokonac swoich przeciwnikow.",
+        "sentEng": "They managed to defeat their opponents.",
+        "hidden": "true",
+        "pron": "[dɪˈfiːt]    "
+    },
+    {
+        "id": "44255",
+        "wordEng": "arise",
+        "wordPol": "pojawic sie (1. wydarzyc sie, 2. pojawic sie)",
+        "sentPol": "Moga pojawic sie trudnosci w trakcie projektu.",
+        "sentEng": "Difficulties may arise during the project.",
+        "hidden": "true",
+        "pron": "[əˈraɪz]   "
+    },
+    {
+        "id": "38260",
+        "wordEng": "launch",
+        "wordPol": "rozpoczac (1. zainicjowac, 2. rozpoczac)",
+        "sentPol": "Planuja zainicjowac nowy produkt w przyszlym miesiacu.",
+        "sentEng": "They plan to launch a new product next month.",
+        "hidden": "true",
+        "pron": "[lɔːntʃ] "
+    },
+    {
+        "id": "12862",
+        "wordEng": "deny",
+        "wordPol": "zaprzeczac (1. zaprzeczac, 2. odmawiac)",
+        "sentPol": "Nie mogla zaprzeczyc swojej milosci do muzyki.",
+        "sentEng": "She couldn't deny her love for music.",
+        "hidden": "true",
+        "pron": "[dɪˈnaɪ]  "
+    },
+    {
+        "id": "27872",
+        "wordEng": "objective",
+        "wordPol": "cel (1. zamierzenie, 2. cel)",
+        "sentPol": "Celem projektu jest poprawa efektywnosci.",
+        "sentEng": "The objective of the project is to improve efficiency.",
+        "hidden": "true",
+        "pron": "[əbˈdʒɛktɪv]"
+    },
+    {
+        "id": "48342",
+        "wordEng": "relevant",
+        "wordPol": "istotny (1. znaczacy, 2. istotny)",
+        "sentPol": "Informacje sa istotne dla sprawy.",
+        "sentEng": "The information is relevant to the case.",
+        "hidden": "true",
+        "pron": "[ˈrɛləvənt]"
+    },
+    {
+        "id": "21017",
+        "wordEng": "core",
+        "wordPol": "jadro (1. rdzen, 2. jadro)",
+        "sentPol": "Jadrem problemu jest brak komunikacji.",
+        "sentEng": "The core of the issue is lack of communication.",
+        "hidden": "true",
+        "pron": "[kɔːr]     "
+    },
+    {
+        "id": "81871",
+        "wordEng": "praise",
+        "wordPol": "chwala (1. zachwyt, 2. chwala)",
+        "sentPol": "Otrzymala chwale za ciezka prace.",
+        "sentEng": "She received praise for her hard work.",
+        "hidden": "true",
+        "pron": "[preɪz]    "
+    },
+    {
+        "id": "24786",
+        "wordEng": "transition",
+        "wordPol": "przejscie (1. transformacja, 2. przejscie)",
+        "sentPol": "Firma przechodzi okres przejsciowy.",
+        "sentEng": "The company is going through a transition period.",
+        "hidden": "true",
+        "pron": "[trænˈzɪʃən]"
+    },
+    {
+        "id": "27913",
+        "wordEng": "concern",
+        "wordPol": "troska (1. opieka, 2. troska)",
+        "sentPol": "Jej troska o srodowisko jest godna podziwu.",
+        "sentEng": "Her concern for the environment is admirable.",
+        "hidden": "true",
+        "pron": "[kənˈsɜːrn]"
+    },
+    {
+        "id": "81517",
+        "wordEng": "privacy",
+        "wordPol": "prywatnosc (1. intymnosc, 2. prywatnosc)",
+        "sentPol": "On ceni swoja prywatnosc.",
+        "sentEng": "He values his privacy.",
+        "hidden": "true",
+        "pron": "[ˈpraɪvəsi]"
+    },
+    {
+        "id": "73438",
+        "wordEng": "afterward",
+        "wordPol": "nastepnie (1. potem, 2. nastepnie)",
+        "sentPol": "Poszli do parku, a potem zjedli kolacje.",
+        "sentEng": "They went to the park, and afterward, they had dinner.",
+        "hidden": "true",
+        "pron": "[ˈæftərwərd]"
+    },
+    {
+        "id": "80632",
+        "wordEng": "remark",
+        "wordPol": "uwaga (1. obserwacja, 2. uwaga)",
+        "sentPol": "Zrobil sarkastyczna uwage na temat sytuacji.",
+        "sentEng": "He made a sarcastic remark about the situation.",
+        "hidden": "true",
+        "pron": "[rɪˈmɑːrk]"
+    },
+    {
+        "id": "21174",
+        "wordEng": "willing",
+        "wordPol": "chetny (1. gotow, 2. chetny)",
+        "sentPol": "Byla chetna do pomocy.",
+        "sentEng": "She was willing to help.",
+        "hidden": "true",
+        "pron": "[ˈwɪlɪŋ]  "
+    },
+    {
+        "id": "73428",
+        "wordEng": "determine",
+        "wordPol": "okreslac (1. okreslac, 2. ustalac)",
+        "sentPol": "Geny okreslaja pewne cechy.",
+        "sentEng": "Genetics determine certain traits.",
+        "hidden": "true",
+        "pron": "[dɪˈtɜːrmɪn]"
+    },
+    {
+        "id": "31177",
+        "wordEng": "dismiss",
+        "wordPol": "odrzucac, oddalic",
+        "sentPol": "Jego dzialania nie zasluguja na odrzucenie jego osiagniec.",
+        "sentEng": "His actions do not dismiss his achievements.",
+        "hidden": "true",
+        "pron": "[dɪsˈmɪs] "
+    },
+    {
+        "id": "80442",
+        "wordEng": "retain",
+        "wordPol": "zachowac (1. zatrzymac, 2. zachowac)",
+        "sentPol": "Udalo mu sie zachowac tytul mistrza.",
+        "sentEng": "He was able to retain his title as champion.",
+        "hidden": "true",
+        "pron": "[rɪˈteɪn]  "
+    },
+    {
+        "id": "19361",
+        "wordEng": "passage",
+        "wordPol": "przejscie (1. przejscie, 2. etap)",
+        "sentPol": "Przejscie przez jaskinie bylo wymagajace.",
+        "sentEng": "The passage through the cave was challenging.",
+        "hidden": "true",
+        "pron": "[ˈpæsɪdʒ] "
+    },
+    {
+        "id": "24916",
+        "wordEng": "feather",
+        "wordPol": "pioro (1. upierzenie, 2. pioro)",
+        "sentPol": "Pioro ptaka bylo kolorowe.",
+        "sentEng": "The bird's feather was colorful.",
+        "hidden": "true",
+        "pron": "[ˈfɛðər]  "
+    },
+    {
+        "id": "47877",
+        "wordEng": "shift",
+        "wordPol": "zmiana (1. przesuniecie, 2. zmiana)",
+        "sentPol": "Nastapila zmiana strategii firmy.",
+        "sentEng": "There was a shift in the company's strategy.",
+        "hidden": "true",
+        "pron": "[ʃɪft]    "
+    },
+    {
+        "id": "15109",
+        "wordEng": "pension",
+        "wordPol": "emerytura (1. renta, 2. emerytura)",
+        "sentPol": "Otrzymuje miesieczna emeryture po przejsciu na emeryture.",
+        "sentEng": "He receives a monthly pension after retiring.",
+        "hidden": "true",
+        "pron": "[ˈpɛnʃən]"
+    },
+    {
+        "id": "23465",
+        "wordEng": "enable",
+        "wordPol": "umozliwiac (1. zapewniac, 2. umozliwiac)",
+        "sentPol": "Technologia umozliwia nam latwa komunikacje.",
+        "sentEng": "Technology enables us to communicate easily.",
+        "hidden": "true",
+        "pron": "[ɪnˈeɪbl] "
+    },
+    {
+        "id": "10872",
+        "wordEng": "combination",
+        "wordPol": "polaczenie (1. polaczenie, 2. kombinacja)",
+        "sentPol": "Danie to polaczenie smakow.",
+        "sentEng": "The dish is a combination of flavors.",
+        "hidden": "true",
+        "pron": "[ˌkɒmbɪˈneɪʃən]"
+    },
+    {
+        "id": "62206",
+        "wordEng": "entire",
+        "wordPol": "caly (1. calkowity, 2. caly)",
+        "sentPol": "Caly pokoj byl pieknie udekorowany.",
+        "sentEng": "The entire room was decorated beautifully.",
+        "hidden": "true",
+        "pron": "[ɪnˈtaɪər]"
+    },
+    {
+        "id": "45672",
+        "wordEng": "range",
+        "wordPol": "zakres (1. zakres, 2. gama)",
+        "sentPol": "Zakres temperatur wynosi od 70 do 90 stopni.",
+        "sentEng": "The temperature range is from 70 to 90 degrees.",
+        "hidden": "true",
+        "pron": "[reɪndʒ]  "
+    },
+    {
+        "id": "13689",
+        "wordEng": "outline",
+        "wordPol": "szkic (1. zarys, 2. szkic)",
+        "sentPol": "Przedstawil zarys swojej prezentacji.",
+        "sentEng": "He provided an outline of his presentation.",
+        "hidden": "true",
+        "pron": "[ˈaʊtlaɪn]"
+    },
+    {
+        "id": "59606",
+        "wordEng": "appropriate",
+        "wordPol": "odpowiedni (1. wlasciwy, 2. odpowiedni)",
+        "sentPol": "To jest odpowiedni czas, aby omowic te kwestie.",
+        "sentEng": "This is the appropriate time to discuss the issue.",
+        "hidden": "true",
+        "pron": "[əˈproʊpriət]"
+    },
+    {
+        "id": "784",
+        "wordEng": "urban",
+        "wordPol": "miejski (1. miejski, 2. miejski)",
+        "sentPol": "Wole miejski styl zycia od wiejskiego.",
+        "sentEng": "He preferred the urban lifestyle over the rural one.",
+        "hidden": "true",
+        "pron": "[ˈɜːrbən]"
+    },
+    {
+        "id": "66316",
+        "wordEng": "pure",
+        "wordPol": "czysty (1. niezmieszany, 2. czysty)",
+        "sentPol": "Woda z gorskiego strumienia jest czysta.",
+        "sentEng": "The water from the mountain stream is pure.",
+        "hidden": "true",
+        "pron": "[pjʊr]    "
+    },
+    {
+        "id": "15264",
+        "wordEng": "convinced",
+        "wordPol": "przekonany (1. przekonany, 2. pewny)",
+        "sentPol": "Byla przekonana o sukcesie planu.",
+        "sentEng": "She was convinced of the plan's success.",
+        "hidden": "true",
+        "pron": "[kənˈvɪnst]"
+    },
+    {
+        "id": "26112",
+        "wordEng": "stock",
+        "wordPol": "zapas (1. zaopatrzenie, 2. zapas)",
+        "sentPol": "Mieli duzy zapas jedzenia w spizarni.",
+        "sentEng": "They had a large stock of food in the pantry.",
+        "hidden": "true",
+        "pron": "[stɒk]    "
+    },
+    {
+        "id": "59471",
+        "wordEng": "advance",
+        "wordPol": "rozwinac sie (1. posuwac sie naprzod, 2. rozwijac sie)",
+        "sentPol": "Technologia nadal posuwa sie naprzod w szybkim tempie.",
+        "sentEng": "Technology continues to advance rapidly.",
+        "hidden": "true",
+        "pron": "[ədˈvæns] "
+    },
+    {
+        "id": "67251",
+        "wordEng": "extent",
+        "wordPol": "zakres (1. stopien, 2. zasieg)",
+        "sentPol": "Zasieg szkod byl szokujacy.",
+        "sentEng": "The extent of the damage was shocking.",
+        "hidden": "true",
+        "pron": "[ɪkˈstɛnt]"
+    },
+    {
+        "id": "4799",
+        "wordEng": "leadership",
+        "wordPol": "kierownictwo (1. przywodztwo, 2. kierownictwo)",
+        "sentPol": "Jej umiejetnosci przywodcze sa imponujace.",
+        "sentEng": "Her leadership skills are impressive.",
+        "hidden": "true",
+        "pron": "[ˈliːdərʃɪp]"
+    },
+    {
+        "id": "20304",
+        "wordEng": "satisfy",
+        "wordPol": "zadowolic (1. satysfakcjonowac, 2. zadowolic)",
+        "sentPol": "Smaczny posilek zaspokoil nasz glod.",
+        "sentEng": "The delicious meal satisfied our hunger.",
+        "hidden": "true",
+        "pron": "[ˈsætɪsfaɪ]"
+    },
+    {
+        "id": "70178",
+        "wordEng": "unexpected",
+        "wordPol": "niespodziewany (1. nieoczekiwany, 2. niespodziewany)",
+        "sentPol": "Niespodziewane wiesci zaskoczyly wszystkich.",
+        "sentEng": "The unexpected news surprised everyone.",
+        "hidden": "true",
+        "pron": "[ˌʌnɪkˈspɛktɪd]"
+    },
+    {
+        "id": "61237",
+        "wordEng": "distribute",
+        "wordPol": "rozprowadzac, rozdzielac, rozmiescic",
+        "sentPol": "Ciezko pracowala, aby rozdac ulotki.",
+        "sentEng": "She worked hard to distribute the flyers.",
+        "hidden": "true",
+        "pron": "[dɪsˈtrɪbjuːt]"
+    },
+    {
+        "id": "61580",
+        "wordEng": "slope",
+        "wordPol": "pochylosc (1. spadek, 2. pochylosc)",
+        "sentPol": "Wzgorze mialo stroma pochylosc.",
+        "sentEng": "The hill had a steep slope.",
+        "hidden": "true",
+        "pron": "[sloʊp]"
+    },
+    {
+        "id": "75577",
+        "wordEng": "loose",
+        "wordPol": "luzny (1. swobodny, 2. luzny)",
+        "sentPol": "Jej sukienka byla zbyt luzna.",
+        "sentEng": "Her dress was too loose.",
+        "hidden": "true",
+        "pron": "[luːs]"
+    },
+    {
+        "id": "9302",
+        "wordEng": "pitch",
+        "wordPol": "rzut (1. rzut, 2. ton)",
+        "sentPol": "Rzut baseballowy byl szybki.",
+        "sentEng": "The baseball pitch was fast.",
+        "hidden": "true",
+        "pron": "[pɪtʃ]"
+    },
+    {
+        "id": "51894",
+        "wordEng": "principle",
+        "wordPol": "zasada (1. podstawa, 2. zasada)",
+        "sentPol": "Szedl sciezka surowych zasad moralnych.",
+        "sentEng": "He followed a strict moral principle.",
+        "hidden": "true",
+        "pron": "[ˈprɪnsəpl]"
+    },
+    {
+        "id": "19076",
+        "wordEng": "shallow",
+        "wordPol": "plytka (1. plytki, 2. plytki)",
+        "sentPol": "Woda w basenie jest plytsza.",
+        "sentEng": "The water in the pool is shallow.",
+        "hidden": "true",
+        "pron": "[ˈʃæloʊ]"
+    },
+    {
+        "id": "48337",
+        "wordEng": "assess",
+        "wordPol": "ocenic (1. oceniac, 2. oszacowac)",
+        "sentPol": "Musieli ocenic wartosc tego antyku.",
+        "sentEng": "They needed to assess the value of the antique.",
+        "hidden": "true",
+        "pron": "[əˈsɛs]"
+    },
+    {
+        "id": "60062",
+        "wordEng": "spread",
+        "wordPol": "rozprzestrzeniac sie (1. rozkladac sie, 2. rozprzestrzeniac sie)",
+        "sentPol": "Wiadomosci o wirusie zaczely sie szybko rozprzestrzeniac.",
+        "sentEng": "The news of the virus began to spread rapidly.",
+        "hidden": "true",
+        "pron": "[sprɛd]"
+    },
+    {
+        "id": "73818",
+        "wordEng": "issue",
+        "wordPol": "kwestia (1. zagadnienie, 2. kwestia)",
+        "sentPol": "Kwestia byla omawiana na spotkaniu.",
+        "sentEng": "The issue was discussed at the meeting.",
+        "hidden": "true",
+        "pron": "[ˈɪʃuː]"
+    },
+    {
+        "id": "51505",
+        "wordEng": "tale",
+        "wordPol": "opowiesc (1. historia, 2. bajka)",
+        "sentPol": "Opowiedzial ciekawa opowiesc o swoich podrozach.",
+        "sentEng": "He told an interesting tale about his travels.",
+        "hidden": "true",
+        "pron": "[teɪl]"
+    },
+    {
+        "id": "31041",
+        "wordEng": "obligation",
+        "wordPol": "obowiazek (1. zobowiazanie, 2. obowiazek)",
+        "sentPol": "To twoj obowiazek ukonczyc to zadanie.",
+        "sentEng": "It's your obligation to complete the assignment.",
+        "hidden": "true",
+        "pron": "[ˌɒblɪˈɡeɪʃən]"
+    },
+    {
+        "id": "76123",
+        "wordEng": "grant",
+        "wordPol": "dotacja (1. wsparcie, 2. dotacja)",
+        "sentPol": "Organizacja otrzymala dotacje na swoj projekt.",
+        "sentEng": "The organization received a grant for their project.",
+        "hidden": "true",
+        "pron": "[ɡrænt]"
+    },
+    {
+        "id": "63075",
+        "wordEng": "enhance",
+        "wordPol": "wzmacniac (1. poprawiac, 2. wzmacniac)",
+        "sentPol": "Regularne cwiczenia moga poprawic twoje zdrowie.",
+        "sentEng": "Regular exercise can enhance your health.",
+        "hidden": "true",
+        "pron": "[ɪnˈhæns]"
+    },
+    {
+        "id": "13281",
+        "wordEng": "steady",
+        "wordPol": "staly (1. stabilny, 2. staly)",
+        "sentPol": "Utrzymywal staly rytm przez caly wyscig.",
+        "sentEng": "He maintained a steady pace throughout the race.",
+        "hidden": "true",
+        "pron": "[ˈstɛdi]"
+    },
+    {
+        "id": "28988",
+        "wordEng": "establish",
+        "wordPol": "ustanawiac (1. zakladac, 2. ustanawiac)",
+        "sentPol": "Chcieli ustanowic nowa tradycje.",
+        "sentEng": "They wanted to establish a new tradition.",
+        "hidden": "true",
+        "pron": "[ɪˈstæblɪʃ]"
+    },
+    {
+        "id": "15079",
+        "wordEng": "extraordinary",
+        "wordPol": "nadzwyczajny (1. wyjatkowy, 2. nadzwyczajny)",
+        "sentPol": "Magik wykonal nadzwyczajny sztuczki.",
+        "sentEng": "The magician performed an extraordinary trick.",
+        "hidden": "true",
+        "pron": "[ɪksˈtrɔːrdɪˌnɛri]"
+    },
+    {
+        "id": "59472",
+        "wordEng": "impose",
+        "wordPol": "nakladac (1. narzucac, 2. nakladac)",
+        "sentPol": "Rzad moze nalozyc nowe podatki.",
+        "sentEng": "The government may impose new taxes.",
+        "hidden": "true",
+        "pron": "[ɪmˈpoʊz]"
+    },
+    {
+        "id": "58540",
+        "wordEng": "housing",
+        "wordPol": "mieszkanie (1. lokum, 2. mieszkanie)",
+        "sentPol": "Miasto potrzebuje wiecej niedrogich mieszkan.",
+        "sentEng": "The city needs more affordable housing.",
+        "hidden": "true",
+        "pron": "[ˈhaʊzɪŋ]"
+    },
+    {
+        "id": "10954",
+        "wordEng": "ensure",
+        "wordPol": "zapewnic (1. zagwarantowac, 2. zapewnic)",
+        "sentPol": "Musimy zagwarantowac bezpieczenstwo kazdego.",
+        "sentEng": "We need to ensure everyone's safety.",
+        "hidden": "true",
+        "pron": "[ɛnˈʃʊr]"
+    },
+    {
+        "id": "43931",
+        "wordEng": "grade",
+        "wordPol": "ocena (1. ocena, 2. stopien)",
+        "sentPol": "Otrzymala doskonala ocene za swoja prace.",
+        "sentEng": "She received an excellent grade on her test.",
+        "hidden": "true",
+        "pron": "[ɡreɪd]"
+    },
+    {
+        "id": "35233",
+        "wordEng": "apparent",
+        "wordPol": "widoczny (1. oczywisty, 2. widoczny)",
+        "sentPol": "Przyczyna problemu nie byla poczatkowo oczywista.",
+        "sentEng": "The cause of the problem was not apparent at first.",
+        "hidden": "true",
+        "pron": "[əˈpærənt]"
+    },
+    {
+        "id": "52160",
+        "wordEng": "command",
+        "wordPol": "dowodztwo (1. dowodztwo, 2. rozkaz)",
+        "sentPol": "Otrzymal dowodztwo nad oddzialem.",
+        "sentEng": "He was given command of the troops.",
+        "hidden": "true",
+        "pron": "[kəˈmænd]"
+    },
+    {
+        "id": "18485",
+        "wordEng": "opposed",
+        "wordPol": "przeciwny (1. przeciwny, 2. przeciwny)",
+        "sentPol": "Byl przeciwny nowej polityce.",
+        "sentEng": "He was opposed to the new policy.",
+        "hidden": "true",
+        "pron": "[əˈpoʊzd]"
+    },
+    {
+        "id": "31823",
+        "wordEng": "decline",
+        "wordPol": "spadek (1. spadek, 2. obnizenie)",
+        "sentPol": "Gospodarka doswiadczyla spadku w zeszlym roku.",
+        "sentEng": "The economy experienced a decline last year.",
+        "hidden": "true",
+        "pron": "[dɪˈklaɪn]"
+    },
+    {
+        "id": "81823",
+        "wordEng": "opponent",
+        "wordPol": "przeciwnik (1. rywal, 2. przeciwnik)",
+        "sentPol": "Stanal naprzeciwko trudnego przeciwnika w meczu.",
+        "sentEng": "He faced a tough opponent in the match.",
+        "hidden": "true",
+        "pron": "[əˈpoʊnənt]"
+    },
+    {
+        "id": "33218",
+        "wordEng": "appeal",
+        "wordPol": "zwracac sie (1. zwrocic sie, 2. zwracac sie)",
+        "sentPol": "Zwrocila sie do spoleczenstwa z prosba o pomoc.",
+        "sentEng": "She made an appeal to the public for help.",
+        "hidden": "true",
+        "pron": "[əˈpiːl]"
+    },
+    {
+        "id": "42774",
+        "wordEng": "judgement",
+        "wordPol": "osad (1. sad, 2. osad)",
+        "sentPol": "Jej osad byl zaciemniony przez jej emocje.",
+        "sentEng": "Her judgement was clouded by her emotions.",
+        "hidden": "true",
+        "pron": "[ˈdʒʌdʒmənt]"
+    },
+    {
+        "id": "75831",
+        "wordEng": "capacity",
+        "wordPol": "pojemnosc (1. pojemnosc, 2. zdolnosc)",
+        "sentPol": "Stadion ma pojemnosc siedzen 50 000.",
+        "sentEng": "The stadium has a seating capacity of 50,000.",
+        "hidden": "true",
+        "pron": "[kəˈpæsɪti]"
+    },
+    {
+        "id": "68990",
+        "wordEng": "somewhat",
+        "wordPol": "do pewnego stopnia (1. nieco, 2. do pewnego stopnia)",
+        "sentPol": "Czulem sie nieco zmeczony po dlugim dniu.",
+        "sentEng": "I felt somewhat tired after the long day.",
+        "hidden": "true",
+        "pron": "[ˈsʌmˌwʌt]"
+    }
+]

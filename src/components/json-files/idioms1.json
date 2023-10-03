@@ -1,0 +1,722 @@
+[
+    {
+        "id": "10001",
+        "wordEng": "keep something under one's hat",
+        "wordPol": "trzymać coś w zanadrzu/tajemnicy",
+        "sentPol": " Trzymałem to w tajemnicy od tygodni, ale teraz mogę ci powiedzieć, co się dzieje. ",
+        "sentEng": "I've kept this under my hat for weeks, but I can now tell you what's going on.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10002",
+        "wordEng": "the other side of the coin",
+        "wordPol": "druga strona medalu",
+        "sentPol": " Zarabiam wystarczająco, aby żyć dobrze, ale drugą stroną medalu jest stres związany z pracą. ",
+        "sentEng": "I earn enough money to live well, but the other side of the coin is the stress of the job.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10003",
+        "wordEng": "make up one's mind",
+        "wordPol": "zdecydować się, podjąć decyzję",
+        "sentPol": " Czas podjąć decyzję! Albo zacznij pomagać innym lokatorom w pracach domowych, albo znajdź inne miejsce do życia! ",
+        "sentEng": "It's time to make up your mind! Either start helping the other tenants with the housework or find somewhere else to live!",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10004",
+        "wordEng": "easier said than done",
+        "wordPol": "łatwiej powiedzieć, niż zrobić",
+        "sentPol": " Zakładanie biznesu to łatwiej powiedzieć niż zrobić. Zawsze jest wiele do zrobienia. ",
+        "sentEng": "Setting up a business is easier said than done. There's always a lot to do.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10005",
+        "wordEng": "on thin ice",
+        "wordPol": "na niepewnym gruncie",
+        "sentPol": " Staniesz na cienkim lodzie, jeśli zgodzisz się na wywiad i będziesz musiał bardzo uważać, co mówisz. ",
+        "sentEng": "You'll be on thin ice if you agree to an interview and have to be very careful about what you say.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10006",
+        "wordEng": "hit the nail on the head",
+        "wordPol": "trafić w sedno",
+        "sentPol": " Nie mogłem tego wyjaśnić bardziej precyzyjnie. Trafiłeś w sedno. ",
+        "sentEng": "I couldn't have explained it more precisely. You hit the nail on the head.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10007",
+        "wordEng": "it goes without saying",
+        "wordPol": "to oczywiste; rozumie się samo przez się",
+        "sentPol": " Nie powinienem musieć tłumaczyć swojego powodu do odejścia. To mówi samo za siebie, że ta firma pogarsza się z dnia na dzień. ",
+        "sentEng": "I shouldn't have to explain my reason to leave. It goes without saying that this company is getting worse by the day.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10008",
+        "wordEng": "leave no stone unturned",
+        "wordPol": "poruszyć niebo i ziemię, zastosować wszystkie środki",
+        "sentPol": " Nie zostawimy kamienia na kamieniu, szukając sposobu, aby zakończyć walkę. ",
+        "sentEng": "We will leave no stone unturned as we look for a way to end the fighting.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10009",
+        "wordEng": "put in jeopardy",
+        "wordPol": "narazić na niebiezpieczeństwo",
+        "sentPol": " Nie możesz wystawić przyszłości biznesu na szwank poprzez lekkomyślne działanie. Musimy ostrożnie zająć się tą kwestią. ",
+        "sentEng": "You cannot put the future of the business in jeopardy by reckless action. We must deal with this issue carefully.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10010",
+        "wordEng": "cry for the moon",
+        "wordPol": "żądać gwiazdki z nieba",
+        "sentPol": " Twoje oczekiwania są nierealistyczne, więc przestań płakać na księżyc i bądź realistą! ",
+        "sentEng": "Your expectations are unrealistic, so stop your crying for the moon and get real!",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10011",
+        "wordEng": "promise wonders",
+        "wordPol": "obiecywać złote góry",
+        "sentPol": " Nie powinieneś obiecywać cudów, jeśli nie jesteś w stanie ich dostarczyć. Bądź po prostu szczery wobec ludzi. ",
+        "sentEng": "You shouldn't promise wonders if you can't deliver them. Just be honest with people.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10012",
+        "wordEng": "self-made man/woman",
+        "wordPol": "człowiek, który sam się dorobił, zrobił karierę",
+        "sentPol": " Mówi wszystkim, że jest samoukiem, ale wiem, że dostał dużo pomocy finansowej od rodziny. ",
+        "sentEng": "He tells everyone he's a self-made man, but I know he had a lot of financial help from his family.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10013",
+        "wordEng": "shed blood",
+        "wordPol": "przelewać krew",
+        "sentPol": " To nie jest czas na rozlew krwi! Zbyt wielu już zginęło, a nadszedł czas na rozmowy pokojowe. ",
+        "sentEng": "This is no time to shed blood! Too many have died already, and it is time for peace talks.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10014",
+        "wordEng": "ups and downs",
+        "wordPol": "radości i smutki, zmienne koleje losu",
+        "sentPol": " Moje życie było pełne wzlotów i upadków, ale staje się bardziej stabilne w miarę starzenia się. ",
+        "sentEng": "My life has been filled with ups and downs, but is becoming more settled as I get older.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10015",
+        "wordEng": "take something for granted",
+        "wordPol": "przyjmować coś za rzecz oczywistą, brać za pewnik",
+        "sentPol": " Nigdy nie traktowałem swojego zdrowia jako rzeczy oczywistej i robię wszystko, co mogę, żeby być w formie. ",
+        "sentEng": "I've never taken my health for granted and do all I can to stay fit.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10016",
+        "wordEng": "put somebody/be at a disadvantage",
+        "wordPol": "stawiać kogoś/być w niekorzystnej sytuacji",
+        "sentPol": " Brak doświadczenia Craiga często stawia go w niekorzystnej sytuacji podczas pracy z starszymi ludźmi. ",
+        "sentEng": "Craig's lack of experience often puts him at a disadvantage when working with older people.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10017",
+        "wordEng": "on the market",
+        "wordPol": "w sprzedaży, na rynku",
+        "sentPol": " W tej chwili to najlepszy aparat na rynku w tej cenie. ",
+        "sentEng": "At the moment, this is the best camera on the market at this price.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10018",
+        "wordEng": "little by little",
+        "wordPol": "stopniowo",
+        "sentPol": " Wreszcie zbieram trochę pieniędzy, stopniowo. Wpłacam niewielką kwotę na swoje konto bankowe co tydzień. ",
+        "sentEng": "I'm finally saving some money, little by little. I'm putting a small amount into my bank account each week.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10019",
+        "wordEng": "at somebody's expense",
+        "wordPol": "czyimś kosztem",
+        "sentPol": " Wiem, że to niesprawiedliwe, ale często śmiejemy się kosztem George'a. On robi dziwne rzeczy w biurze. ",
+        "sentEng": "I know it's not fair, but we often have a laugh at George's expense. He does some strange things around the office.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10020",
+        "wordEng": "if you like",
+        "wordPol": "jeśli masz na to ochotę",
+        "sentPol": " Możemy później pójść na spacer do parku, jeśli chcesz. ",
+        "sentEng": "We can take a walk in the park later, if you like.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10021",
+        "wordEng": "at all costs",
+        "wordPol": "za wszelką cenę",
+        "sentPol": " Musimy wygrać ten kontrakt za wszelką cenę, nawet jeśli będziemy musieli skłamać. ",
+        "sentEng": "We must win this contract at all costs, even if we have to lie.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10022",
+        "wordEng": "at the top of one's voice",
+        "wordPol": "na całe gardło",
+        "sentPol": " Jak mogłeś mnie nie usłyszeć? Krzyczałem na całe gardło. ",
+        "sentEng": "How could you not have heard me? I was shouting at the top of my voice.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10023",
+        "wordEng": "catch somebody red-handed",
+        "wordPol": "złapać kogoś na gorącym uczynku",
+        "sentPol": " Detektywi ukrywali się w sklepie przez godziny, mając nadzieję złapać podejrzanego na gorącym uczynku. ",
+        "sentEng": "Detectives hid in the store for hours, hoping to catch the suspect red-handed.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10024",
+        "wordEng": "high and low",
+        "wordPol": "wszędzie",
+        "sentPol": " Przeszukaliśmy wszystkie możliwe miejsca w poszukiwaniu tej książki, we wszystkich księgarniach w mieście. ",
+        "sentEng": "We've searched high and low for this book, in every bookshop in the city.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10025",
+        "wordEng": "without fail",
+        "wordPol": "z całą pewnością; bez wyjątku",
+        "sentPol": " Taxi będzie tu o ósmej, bez wyjątku. Nigdy mnie nie zawiedli. ",
+        "sentEng": "The taxi will be here at eight o'clock without fail. They've never let me down.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10026",
+        "wordEng": "with the naked eye",
+        "wordPol": "gołym okiem",
+        "sentPol": " Bakterie są zbyt małe, aby być widocznymi gołym okiem. ",
+        "sentEng": "Bacteria are too small to be seen with the naked eye.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10027",
+        "wordEng": "with a vengeance",
+        "wordPol": "z podwójną siłą",
+        "sentPol": " Po tygodniu łagodnej pogody, zima wróciła wczoraj z całą mocą. ",
+        "sentEng": "After a week of mild weather, winter returned with a vengeance yesterday.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10028",
+        "wordEng": "gnash your teeth",
+        "wordPol": "zgrzytać zębami",
+        "sentPol": " Szef będzie zgrzytał zębami ze złości, gdy przeczyta ten raport. ",
+        "sentEng": "The boss will be gnashing his teeth in anger when he reads this report.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10029",
+        "wordEng": "be in the red",
+        "wordPol": "mieć debet (w banku)",
+        "sentPol": " Nie mogę dostać pożyczki, ponieważ mam sto funtów debetu w banku. ",
+        "sentEng": "I can't get a loan because I am a hundred pounds in the red with my bank.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10030",
+        "wordEng": "a bad patch",
+        "wordPol": "zła passa",
+        "sentPol": " Słyszałem, że Ron i Sylvia przechodzą przez trudny okres i nie rozmawiają ze sobą. ",
+        "sentEng": "I hear that Ron and Sylvia are going through a bad patch and not speaking to each other.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10031",
+        "wordEng": "after one's own heart",
+        "wordPol": "bratnia dusza, o podobnych poglądach, upodobaniach",
+        "sentPol": " Gdy zobaczyłem, że przyniosłeś szampana, wiedziałem, że jesteś człowiekiem po moim sercu. To mój ulubiony napój. ",
+        "sentEng": "When I saw you'd brought champagne, I knew you were a man after my own heart. It's my favourite drink.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10032",
+        "wordEng": "in haste",
+        "wordPol": "w pośpiechu",
+        "sentPol": " Nie podejmuj decyzji w pośpiechu. Przemyśl to przez kilka dni. ",
+        "sentEng": "Don't make a decision in haste. Think it over for a few days.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10033",
+        "wordEng": "know (someone or something) inside out",
+        "wordPol": "znać na wylot",
+        "sentPol": " On to prawdziwy maniak komputerowy i zna się na tym od podszewki, więc będzie w stanie naprawić mój laptop. ",
+        "sentEng": "He's a real computer freak and knows them inside out, so he'll be able to repair my laptop.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10034",
+        "wordEng": "make amends",
+        "wordPol": "wynagradzać szkodę/szkody",
+        "sentPol": " Będziesz musiał porozmawiać z Peterem i wynagrodzić to, co zrobiłeś. Byłoby smutno stracić go jako przyjaciela. ",
+        "sentEng": "You'll have to talk to Peter and make amends for what you did. It would be sad to lose him as a friend.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10035",
+        "wordEng": "ease somebody's mind",
+        "wordPol": "uspokajać kogoś",
+        "sentPol": " Jakiekolwiek wieści ulżyłyby mi. Będę niespokojny, dopóki nie usłyszę od nich. ",
+        "sentEng": "Any news would ease my mind. I'll be anxious until I hear from them.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10036",
+        "wordEng": "a ray of hope",
+        "wordPol": "promyk nadziei",
+        "sentPol": " Jej jedynym promykiem nadziei jest nowa medycyna. Nic innego nie pomogło. ",
+        "sentEng": "Her only ray of hope is the new medication. Nothing else has helped.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10037",
+        "wordEng": "be out of print",
+        "wordPol": "wyczerpany nakład",
+        "sentPol": " Przykro mi, ale książka, którą chcesz, jest wyczerpana. Być może znajdziesz egzemplarz online. ",
+        "sentEng": "I'm sorry, but the book you want is out of print. You might find a copy online.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10038",
+        "wordEng": "get on somebody's nerves",
+        "wordPol": "działać komuś na nerwy",
+        "sentPol": " Ściszyć tę muzykę! Działa mi na nerwy i ledwo mogę myśleć! ",
+        "sentEng": "Turn that music down! It's getting on my nerves and I can hardly think!",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10039",
+        "wordEng": "have something on one's brain",
+        "wordPol": "chodzić komuś po głowie",
+        "sentPol": " Ta piosenka jest mi w głowie od rana, i nie mogę przestać jej świergotać. ",
+        "sentEng": "This song has been on my brain since I heard it this morning and I can't stop whistling it.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10040",
+        "wordEng": "rat race",
+        "wordPol": "wyścig szczurów",
+        "sentPol": " Podróżowanie do centrum miasta od poniedziałku do piątku to tylko jedna z wad pracy w wyścigu szczurów. Czuję się jak maszyna w tych dniach. ",
+        "sentEng": "Travelling into the city centre from Monday to Friday is just one of the disadvantages of working in the rat race. I feel like a machine these days.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10041",
+        "wordEng": "get the message",
+        "wordPol": "załapać, zrozumieć coś",
+        "sentPol": " Co mogę powiedzieć, żebyś zrozumiał? Nie chcę z tobą wychodzić! ",
+        "sentEng": "What can I say so you get the message? I don't want to go out with you!",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10042",
+        "wordEng": "ask for trouble",
+        "wordPol": "prosić się o kłopoty",
+        "sentPol": " Niezapinanie pasów to prośba o kłopoty w przypadku wypadku. ",
+        "sentEng": "Not wearing a seat belt is asking for trouble in the event of an accident.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10043",
+        "wordEng": "pay tribute to somebody/something",
+        "wordPol": "wyrażać uznanie, oddawać hołd",
+        "sentPol": " Chciałbym oddać hołd Geraldowi, mówiąc, jak bardzo doceniamy jego lojalność przez lata. ",
+        "sentEng": "I'd like to pay tribute to Gerald by saying how much we've appreciated his loyalty over the years.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10044",
+        "wordEng": "in bulk",
+        "wordPol": "hurtowo",
+        "sentPol": " Supermarkety kupują produkty hurtowo, aby uzyskać możliwie najniższą cenę. ",
+        "sentEng": "Supermarkets buy products in bulk to get the lowest price possible.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10045",
+        "wordEng": "give somebody a ring",
+        "wordPol": "zadzwonić do kogoś",
+        "sentPol": " Dzwonię do ciebie później dzisiaj, więc upewnij się, że masz włączony telefon. ",
+        "sentEng": "I'll give you a ring later today, so make sure your phone is on.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10046",
+        "wordEng": "all year round",
+        "wordPol": "przez cały rok",
+        "sentPol": " Planujemy zmienić się z hotelu sezonowego na otwarty przez cały rok. ",
+        "sentEng": "We plan to change from being a seasonal hotel to being open all year round.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10047",
+        "wordEng": "all of a sudden",
+        "wordPol": "nagle",
+        "sentPol": " To było tak szybkie. Chwila wcześniej czułem się dobrze, a nagle dostałem straszne bóle brzucha. ",
+        "sentEng": "It was so quick. One moment I felt fine, and all of a sudden I had awful stomach pain.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10048",
+        "wordEng": "as a matter of fact",
+        "wordPol": "w rzeczywistości, jeśli chodzi o ścisłość",
+        "sentPol": " Mylisz się, mówiąc, że nie lubię Rossa. Tak naprawdę jesteśmy dobrymi przyjaciółmi od szkoły. ",
+        "sentEng": "You're wrong about my not liking Ross. As a matter of fact, we've been good friends since school.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10049",
+        "wordEng": "be quits (with somebody)",
+        "wordPol": "być kwita",
+        "sentPol": " Zapomnij o tych pieniądzach, które mi zawdzięczasz. Kup mi tylko parę piw, a będziemy kwita. ",
+        "sentEng": "Forget about that money you owe me. Just buy me a couple of beers and we'll be quits.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10050",
+        "wordEng": "by courtesy of",
+        "wordPol": "dzięki uprzejmości, za zgodą",
+        "sentPol": " Te obrazy są pokazywane dzięki uprzejmości CNN. ",
+        "sentEng": "These pictures are being shown by courtesy of CNN.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10051",
+        "wordEng": "on location",
+        "wordPol": "(o programie, filmie) w plenerze",
+        "sentPol": " Serial był kręcony na miejscu w Szwecji. ",
+        "sentEng": "The series was filmed on location in Sweden.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10052",
+        "wordEng": "go to waste",
+        "wordPol": "marnować się",
+        "sentPol": " Nie lubię patrzeć, jak dobre jedzenie się marnuje, więc proszę, weź trochę ze sobą. ",
+        "sentEng": "I hate to see good food go to waste, so please take some home with you.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10053",
+        "wordEng": "on impulse",
+        "wordPol": "spontanicznie",
+        "sentPol": " Planowaliśmy spokojny czas w domu, ale zdecydowaliśmy się impulsywnie spędzić dzień nad morzem. ",
+        "sentEng": "We had planned a quiet time at home but decided on impulse to spend the day at the seaside.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10054",
+        "wordEng": "trial and error",
+        "wordPol": "metodą prób i błędów",
+        "sentPol": " Nie ma książki instrukcji, więc będziemy musieli intuicyjnie wypracować rozwiązanie przez próbę i błąd. ",
+        "sentEng": "There's no instruction book, so we'll have to figure out the solution intuitively by trial and error.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10055",
+        "wordEng": "snap one's fingers",
+        "wordPol": "pstrykać palcami",
+        "sentPol": " To naprawdę niegrzeczne machać palcami, żeby przyciągnąć uwagę kelnera, jak to czasami ma miejsce w filmach. ",
+        "sentEng": "It's really rude to snap your fingers to get a waiter's attention, as sometimes happens in films.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10056",
+        "wordEng": "let something slip",
+        "wordPol": "wygadać się",
+        "sentPol": " Mark nie dostał pracy, ponieważ puścił coś związanego ze swoimi problemami zdrowotnymi podczas ostatniego rozmowy kwalifikacyjnej. ",
+        "sentEng": "Mark didn't get the job because he let something slip about his health problems during the final interview.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10057",
+        "wordEng": "heave a sigh of relief",
+        "wordPol": "wzdychać (głęboko)",
+        "sentPol": " Westchnęła z ulgą, gdy usłyszała, że nie straci pracy. ",
+        "sentEng": "She heaved a sigh of relief when she heard she wouldn't be losing her job.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10058",
+        "wordEng": "be under the illusion",
+        "wordPol": "łudzić się",
+        "sentPol": " Mark ma złudzenia, że zostanie kierownikiem zespołu, ale ja wiem inaczej. ",
+        "sentEng": "Mark's under the illusion that he will become a team manager, but I know differently.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10059",
+        "wordEng": "not be somebody's cup of tea",
+        "wordPol": "nie być w czyimś guście",
+        "sentPol": " Filmy grozy nie są w moim guście. Wolę komedie romantyczne. ",
+        "sentEng": "Horror films aren't my cup of tea. I prefer romantic comedies.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10060",
+        "wordEng": "make a fool of somebody/oneself",
+        "wordPol": "robić z kogoś/siebie głupka",
+        "sentPol": " Donald zrobił z siebie głupka, wyzywając szefa na walkę na parkingu, żeby wyjaśnić kłótnię. ",
+        "sentEng": "Donald made a fool of himself by challenging the boss to a fight in the car park to settle an argument.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10061",
+        "wordEng": "all walks of life",
+        "wordPol": "wszystkie sfery społeczne",
+        "sentPol": " Spodziewałem się spotkać tylko finansistów, ale byli tam ludzie z różnych dziedzin życia. ",
+        "sentEng": "I expected to meet only financiers, but there were people from all walks of life.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10062",
+        "wordEng": "in vain",
+        "wordPol": "na próżno",
+        "sentPol": " Załoga karetki próbowała na próżno wskrzesić ofiarę, i zmarł na miejscu wypadku. ",
+        "sentEng": "The ambulance crew tried in vain to revive the victim, and he died at the scene of the accident.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10063",
+        "wordEng": "be rolling in money",
+        "wordPol": "mieć mnóstwo pieniędzy, spać na pieniądzach",
+        "sentPol": " Tonęli w pieniądzach aż do krachu finansowego i mieli kilka zagranicznych wakacji w roku. Teraz są bezrobotni. ",
+        "sentEng": "They were rolling in money until the financial crash and had several foreign holidays a year. Now they're unemployed.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10064",
+        "wordEng": "in writing",
+        "wordPol": "na piśmie",
+        "sentPol": " Proszę potwierdzić swoją ofertę pisemnie do końca przyszłego tygodnia. Oto nasz adres pocztowy. ",
+        "sentEng": "Please confirm your offer in writing by the end of next week. Here is our postal address.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10065",
+        "wordEng": "the lesser of two evils",
+        "wordPol": "mniejsze zło",
+        "sentPol": " Wzięcie pożyczki bankowej było mniejszym z dwóch zł. Nie wytrzymalibyśmy sprzedaży domu. ",
+        "sentEng": "Getting a bank loan was the lesser of two evils. We couldn't bear to sell the house.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10066",
+        "wordEng": "come true",
+        "wordPol": "spełniać się",
+        "sentPol": " Zawsze chciałem być pisarzem, więc dostanie pracy w lokalnej gazecie to spełnienie marzenia. ",
+        "sentEng": "I'd always wanted to be a writer, so getting a job on the local paper was a dream come true.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10067",
+        "wordEng": "not have a clue",
+        "wordPol": "nie mieć pojęcia",
+        "sentPol": " Nie mam pojęcia, gdzie zostawiła swoją książkę. Dlaczego oczekujesz, że ja to wiem? ",
+        "sentEng": "I don't have a clue where she left her book. Why do expect me to know?",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10068",
+        "wordEng": "change hands",
+        "wordPol": "przechodzić z rąk do rąk, zmienić właściciela",
+        "sentPol": " Tytuł mistrza wagi ciężkiej ma się przenieść po raz trzeci w tym roku. ",
+        "sentEng": "The heavyweight title is about to change hands for the third time this year.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10069",
+        "wordEng": "put pressure on somebody",
+        "wordPol": "wywierać presję",
+        "sentPol": " Prasa wywiera presję na ministra, by zrezygnował, publikując serię krytycznych artykułów. ",
+        "sentEng": "The press are putting pressure on the minister to resign by publishing a series of critical articles.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10070",
+        "wordEng": "for short",
+        "wordPol": "w zdrobnieniu",
+        "sentPol": " Cześć, jestem Nathan, ale możesz do mnie mówić Nat. ",
+        "sentEng": "Hi, I'm Nathan, but you can call me Nat for short.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10071",
+        "wordEng": "come in handy",
+        "wordPol": "przydawać się",
+        "sentPol": " Nigdy nie wyrzucaj notatek, ponieważ mogą później się przydać do powtórki. ",
+        "sentEng": "Never throw away your notes, because they may later come in handy for revision.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10072",
+        "wordEng": "in black and white",
+        "wordPol": "czarno na białym, wyraźnie; na piśmie",
+        "sentPol": " Raport przedstawia propozycje czarno na białym, więc nie ma szans na jakiekolwiek zamieszanie. ",
+        "sentEng": "The report sets out the proposals in black and white, so there's no chance of any confusion.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10073",
+        "wordEng": "red tape",
+        "wordPol": "biurokracja",
+        "sentPol": " W niektórych krajach możesz ominąć biurokrację, oferując łapówkę, żeby zdobyć to, czego chcesz od rządu. ",
+        "sentEng": "In some countries, you can bypass red tape by offering a bribe to get what you want from the government.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10074",
+        "wordEng": "plead guilty",
+        "wordPol": "przyznać się do winy",
+        "sentPol": " Możesz dostać mniejszy wymiar kary, jeśli przyznasz się do winy i przestaniesz zaprzeczać oskarżeniu. ",
+        "sentEng": "You might get a lesser punishment if you plead guilty and stop denying the charge.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10075",
+        "wordEng": "red-letter day",
+        "wordPol": "szczególny dzień",
+        "sentPol": " Dzisiaj to mój szczególny dzień! Zostałem awansowany! ",
+        "sentEng": "Today is my red-letter day! I've been promoted!",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10076",
+        "wordEng": "see pink elephants",
+        "wordPol": "widzieć białe myszki",
+        "sentPol": " Tom nigdy nie potrafi przestać, gdy już zacznie, i pije aż zobaczy różowe słonie. Często przewraca się z kieliszkiem w ręku. ",
+        "sentEng": "Tom can never stop once he starts and drinks till he sees pink elephants. He often falls over with a glass in his hand.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10077",
+        "wordEng": "a blue movie/film",
+        "wordPol": "film pornograficzny",
+        "sentPol": " To było prześmieszne! Moja ciotka myślała, że DVD jest o turystyce, ale to był film dla dorosłych z udziałem trzech nago par na słonecznej plaży. ",
+        "sentEng": "It was hilarious! My aunt thought the DVD was about tourism, but it was a blue movie featuring three naked couples on a sunny beach.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10078",
+        "wordEng": "beat somebody black and blue",
+        "wordPol": "zbić kogoś na kwaśne jabłko",
+        "sentPol": " Ofiara dosłownie była pobita na czarno i niebiesko i potrzebowała opieki medycznej z powodu ciężkiego posiniaczenia. ",
+        "sentEng": "The victim was literally beaten black and blue and needed medical attention for severe bruising.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10079",
+        "wordEng": "dead-end relationship",
+        "wordPol": "związek bez przyszłości",
+        "sentPol": " Mary nie jest zadowolona ze swojego małżeństwa. To związek bez przyszłości, według jej bliskich przyjaciół. ",
+        "sentEng": "Mary is not happy with her marriage. It's a dead-end relationship, according to her close friends.",
+        "hidden": "true",
+        "pron": ""
+    },
+    {
+        "id": "10080",
+        "wordEng": "soft option",
+        "wordPol": "łatwe rozwiązanie",
+        "sentPol": " Wybieram łatwiejszą opcję i zostaję w swojej obecnej pracy. Jestem za stary na zmiany. ",
+        "sentEng": "I'm taking the soft option and staying in my present job. I'm too old for change.",
+        "hidden": "true",
+        "pron": ""
+    }
+]
