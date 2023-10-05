@@ -59,6 +59,8 @@ function App() {
     window.location.reload(false);
   }
 
+  // additional slot for saving current list of words
+  // START
   function handleSaveSlot() {
     saveInLocal(`${selectedOpt}slot1`, currentWords);
     readSlotLength();
@@ -69,11 +71,11 @@ function App() {
     readedData && setCurrentWords(readedData)
   }
 
-  // additional slot for saving current list of words
   function readSlotLength() {
     const readedData = JSON.parse(localStorage.getItem(`${selectedOpt}slot1`))
     readedData ? setLengthSlot(readedData.length) : setLengthSlot(0)
   }
+  // additional slot END
 
   if (mainScreen) {
     // show menu
@@ -88,22 +90,34 @@ function App() {
     return (
       <>
         <div className="icons">
-          <h1>SET {selectedOpt}</h1>
-          <h4>REMAIN: {currentWords.length}</h4>
-          <button onClick={() => setMainScreen(prev => !prev)}>
-            MENU
-          </button>
-          <button onClick={handleSaveSlot}>
-            SAVE SET
-          </button>
-          {lengthSlot ? <button onClick={handleReadSlot}>READ SET ({lengthSlot})</button> : ""}
+          <div className="info">
+            <h1>SET {selectedOpt}</h1>
+            <h4>REMAIN: {currentWords.length}</h4>
+          </div>
+          <div class="menu">
+            <button className="btn-menu btn-home" onClick={() => setMainScreen(prev => !prev)}>
+              <i class="fa-solid fa-house"></i><span>HOME</span>
+            </button>
+            <button className="btn-menu btn-slot" onClick={handleSaveSlot}>
+              <i class="fa-solid fa-arrow-right-to-bracket"></i><span>SAVE</span>
+            </button>
+            {lengthSlot ? <button className="btn-menu btn-read" onClick={handleReadSlot}><i class="fa-solid fa-arrow-right-from-bracket"></i> <span>READ ({lengthSlot})</span></button> : ""}
+          </div>
         </div>
         <div className="card">
-
-
-          {currentWords.length > 0 && <Tile key={currentWords[0].id} id={currentWords[0].id} wordPol={currentWords[0].wordPol} wordEng={currentWords[0].wordEng} pron={currentWords[0].pron} sentPol={currentWords[0].sentPol} sentEng={currentWords[0].sentEng} handleUnhide={handleUnhide} handleUnknown={handleUnknown} handleKnown={handleKnown} hidden={currentWords[0].hidden} />}
-
-
+          {currentWords.length > 0 &&
+            <Tile
+              key={currentWords[0].id}
+              id={currentWords[0].id}
+              wordPol={currentWords[0].wordPol}
+              wordEng={currentWords[0].wordEng}
+              pron={currentWords[0].pron}
+              sentPol={currentWords[0].sentPol}
+              sentEng={currentWords[0].sentEng}
+              handleUnhide={handleUnhide}
+              handleUnknown={handleUnknown}
+              handleKnown={handleKnown}
+              hidden={currentWords[0].hidden} />}
         </div >
       </>
     )
