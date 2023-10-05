@@ -28,7 +28,6 @@
 
 .card {
   padding: 0.5em 0;
-  margin-top: 2em;
 }
 
 .read-the-docs {
@@ -140,16 +139,19 @@ button:focus-visible {
 }
 
 .icons {
-  height: 30vh;
   padding-top: 1em;
 }
 
 .card {
-  height: 60vh;
   font-size: 1.3rem;
 }
 
-
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: space-between;
+}
 
 button {
   margin: 0.3em auto 0 auto;

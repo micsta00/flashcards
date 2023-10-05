@@ -88,7 +88,7 @@ function App() {
   } else {
     // show selected set
     return (
-      <>
+      <div className="main">
         <div className="icons">
           <div className="info">
             <h1>SET {selectedOpt}</h1>
@@ -119,7 +119,7 @@ function App() {
               handleKnown={handleKnown}
               hidden={currentWords[0].hidden} />}
         </div >
-      </>
+      </div>
     )
   }
 
